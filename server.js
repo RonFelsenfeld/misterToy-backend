@@ -22,6 +22,7 @@ const corsOptions = {
 app.use(express.json())
 app.use(cors(corsOptions))
 
+// GET TOYS
 app.get('/api/toy', (req, res) => {
   toyService
     .query()
@@ -34,6 +35,7 @@ app.get('/api/toy', (req, res) => {
     })
 })
 
+// GET TOY
 app.get('/api/toy/:toyId', (req, res) => {
   const { toyId } = req.params
 
@@ -49,6 +51,7 @@ app.get('/api/toy/:toyId', (req, res) => {
     })
 })
 
+// REMOVE TOY
 app.delete('/api/toy/:toyId', (req, res) => {
   const { toyId } = req.params
 
@@ -61,6 +64,25 @@ app.delete('/api/toy/:toyId', (req, res) => {
     .catch(err => {
       loggerService.error('Cannot remove toy', err)
       res.status(400).send('Cannot remove toy')
+    })
+})
+
+// CREATE TOY
+app.post('/api/toy', (req, res) => {
+  const toy = {
+    name: req.body.name,
+    price: +req.body.price,
+    inStock: req.body.inStock,
+  }
+
+  toyService
+    .save(toy)
+    .then(savedToy => {
+      res.send(savedToy)
+    })
+    .catch(err => {
+      loggerService.error('Cannot save toy', err)
+      res.status(400).send('Cannot save toy')
     })
 })
 

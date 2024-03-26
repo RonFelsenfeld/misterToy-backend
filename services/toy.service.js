@@ -1,6 +1,7 @@
 import fs from 'fs'
 import { utilService } from './util.service.js'
 import { loggerService } from './logger.service.js'
+import { sep } from 'path'
 
 export const toyService = {
   query,
@@ -59,11 +60,22 @@ function save(toy) {
   } else {
     toy._id = utilService.makeId()
     toy.createdAt = Date.now()
+
+    // ! MOVE TO FRONT - USER PICK
+    toy.labels = []
+    const labels = _getLabels()
+    while (toy.labels.length < 3) {
+      const rndLabel = labels[utilService.getRandomIntInclusive(0, labels.length - 1)]
+      if (!toy.labels.includes(rndLabel)) toy.labels.push(rndLabel)
+    }
+
     toys.push(toy)
   }
 
   return _saveToysToFile().then(() => toy)
 }
+
+////////////////////////////////////////////////////
 
 function _saveToysToFile() {
   return new Promise((resolve, reject) => {
@@ -76,4 +88,20 @@ function _saveToysToFile() {
       resolve()
     })
   })
+}
+
+// ! MOVE TO FRONT - USER PICK
+function _getLabels() {
+  const labels = [
+    'On wheels',
+    'Box game',
+    'Art',
+    'Baby',
+    'Doll',
+    'Puzzle',
+    'Outdoor',
+    'Battery Powered',
+  ]
+
+  return labels
 }

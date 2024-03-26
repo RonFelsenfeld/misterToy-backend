@@ -70,5 +70,17 @@
       "Outdoor",
       "Doll"
     ]
+  },
+  {
+    "name": "Bili",
+    "price": 100,
+    "inStock": true,
+    "_id": "H0Hye",
+    "createdAt": 1711491775187,
+    "labels": [
+      "Battery Powered",
+      "Doll",
+      "Outdoor"
+    ]
   }
 ]
