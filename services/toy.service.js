@@ -21,6 +21,9 @@ function query(filterBy = {}) {
   }
 
   if (filterBy.inStock !== null) {
+    // filterBy.inStock is a string that 'true' or 'false', so it need to be converted to boolean
+    filterBy.inStock = filterBy.inStock === 'true' ? true : false
+
     switch (filterBy.inStock) {
       case true:
         toysToReturn = toysToReturn.filter(toy => toy.inStock)

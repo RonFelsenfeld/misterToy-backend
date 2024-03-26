@@ -24,8 +24,13 @@ app.use(cors(corsOptions))
 
 // GET TOYS
 app.get('/api/toy', (req, res) => {
+  const filterBy = {
+    name: req.query.name || '',
+    inStock: req.query.inStock || null,
+  }
+
   toyService
-    .query()
+    .query(filterBy)
     .then(toys => {
       res.send(toys)
     })
