@@ -49,6 +49,21 @@ app.get('/api/toy/:toyId', (req, res) => {
     })
 })
 
+app.delete('/api/toy/:toyId', (req, res) => {
+  const { toyId } = req.params
+
+  toyService
+    .remove(toyId)
+    .then(() => {
+      loggerService.info(`Toy ${toyId} removed`)
+      res.send('Removed!')
+    })
+    .catch(err => {
+      loggerService.error('Cannot remove toy', err)
+      res.status(400).send('Cannot remove toy')
+    })
+})
+
 app.get('/**', (req, res) => {
   // res.sendFile(path.resolve('public/index.html'))
 })
