@@ -86,6 +86,26 @@ app.post('/api/toy', (req, res) => {
     })
 })
 
+// UPDATE TOY
+app.put('/api/toy', (req, res) => {
+  const car = {
+    _id: req.body._id,
+    name: req.body.name,
+    price: +req.body.price,
+    inStock: req.body.inStock,
+  }
+
+  toyService
+    .save(car)
+    .then(savedToy => {
+      res.send(savedToy)
+    })
+    .catch(err => {
+      loggerService.error('Cannot update car', err)
+      res.status(400).send('Cannot update car')
+    })
+})
+
 app.get('/**', (req, res) => {
   // res.sendFile(path.resolve('public/index.html'))
 })
