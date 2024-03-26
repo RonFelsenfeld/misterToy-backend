@@ -1,0 +1,74 @@
+[
+  {
+    "_id": "afX3Fm",
+    "name": "Popo",
+    "price": 120,
+    "createdAt": 1542107359454,
+    "inStock": true,
+    "labels": [
+      "On wheels",
+      "Box game",
+      "Baby"
+    ]
+  },
+  {
+    "_id": "z56MAl",
+    "name": "Baba",
+    "price": 56,
+    "createdAt": 1542107359454,
+    "inStock": false,
+    "labels": [
+      "Art",
+      "Doll",
+      "Battery Powered"
+    ]
+  },
+  {
+    "_id": "z56MAl",
+    "name": "Baba",
+    "price": 56,
+    "createdAt": 1542107359454,
+    "inStock": false,
+    "labels": [
+      "Art",
+      "Doll",
+      "Battery Powered"
+    ]
+  },
+  {
+    "_id": "po90S2",
+    "name": "Lolo",
+    "price": 91,
+    "createdAt": 1542107359454,
+    "inStock": true,
+    "labels": [
+      "Outdoor",
+      "Puzzle",
+      "On wheels"
+    ]
+  },
+  {
+    "_id": "po90S2",
+    "name": "Zaza",
+    "price": 77,
+    "createdAt": 1542107359454,
+    "inStock": false,
+    "labels": [
+      "Box game",
+      "Art",
+      "Baby"
+    ]
+  },
+  {
+    "_id": "TTe13M",
+    "name": "Lili",
+    "price": 125,
+    "createdAt": 1542107359454,
+    "inStock": true,
+    "labels": [
+      "Battery Powered",
+      "Outdoor",
+      "Doll"
+    ]
+  }
+]
