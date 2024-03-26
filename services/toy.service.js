@@ -11,8 +11,27 @@ export const ToyService = {
 
 const toys = utilService.readJsonFile('data/toys.json')
 
-function query() {
-  return Promise.resolve(toys)
+function query(filterBy = {}) {
+  let toysToReturn = toys.slice()
+
+  if (filterBy.name) {
+    const regExp = new RegExp(filterBy.name, 'i')
+    toysToReturn = toysToReturn.filter(toy => regExp.test(toy.name))
+  }
+
+  if (filterBy.inStock !== null) {
+    switch (filterBy.inStock) {
+      case true:
+        toysToReturn = toysToReturn.filter(toy => toy.inStock)
+        break
+
+      case false:
+        toysToReturn = toysToReturn.filter(toy => !toy.inStock)
+        break
+    }
+  }
+
+  return Promise.resolve(toysToReturn)
 }
 
 function getById(toyId) {
