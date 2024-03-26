@@ -2,7 +2,7 @@ import fs from 'fs'
 import { utilService } from './util.service.js'
 import { loggerService } from './logger.service.js'
 
-export const ToyService = {
+export const toyService = {
   query,
   getById,
   remove,
@@ -36,7 +36,7 @@ function query(filterBy = {}) {
 
 function getById(toyId) {
   const toy = toys.find(toy => toy._id === toyId)
-  return Promise.resolve(car)
+  return Promise.resolve(toy)
 }
 
 function remove(toyId) {

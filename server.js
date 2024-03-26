@@ -4,7 +4,7 @@ import cors from 'cors'
 import express from 'express'
 
 import { loggerService } from './services/logger.service.js'
-import { ToyService } from './services/toy.service.js'
+import { toyService } from './services/toy.service.js'
 
 const app = express()
 
@@ -23,13 +23,29 @@ app.use(express.json())
 app.use(cors(corsOptions))
 
 app.get('/api/toy', (req, res) => {
-  ToyService.query()
+  toyService
+    .query()
     .then(toys => {
       res.send(toys)
     })
     .catch(err => {
       loggerService.error('Cannot get toys', err)
       res.status(400).send('Cannot get toys')
+    })
+})
+
+app.get('/api/toy/:toyId', (req, res) => {
+  const { toyId } = req.params
+
+  toyService
+    .getById(toyId)
+    .then(toy => {
+      toy.msgs = ['Hello', `I\'m ${toy.name}`, 'How are you?']
+      res.send(toy)
+    })
+    .catch(err => {
+      loggerService.error('Cannot get toy', err)
+      res.status(400).send('Cannot get toy')
     })
 })
 
