@@ -12,18 +12,6 @@
         ]
     },
     {
-        "_id": "Po45l",
-        "name": "Gigi",
-        "price": 56,
-        "createdAt": 1542107359454,
-        "inStock": false,
-        "labels": [
-            "Art",
-            "Doll",
-            "Battery Powered"
-        ]
-    },
-    {
         "_id": "po90S2",
         "name": "Lolo",
         "price": 91,
