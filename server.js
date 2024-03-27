@@ -33,6 +33,7 @@ app.get('/api/toy', (req, res) => {
   const filterBy = {
     name: receivedFilter?.name || '',
     inStock: receivedFilter?.inStock || null,
+    labels: receivedFilter?.labels || [],
   }
 
   toyService

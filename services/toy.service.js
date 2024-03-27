@@ -35,6 +35,13 @@ function query(filterBy = {}, sortBy = { name: 1 }) {
     }
   }
 
+  if (filterBy.labels && filterBy.labels.length) {
+    const labelsToFilter = filterBy.labels.filter(l => l)
+    toysToReturn = toysToReturn.filter(toy =>
+      labelsToFilter.every(label => toy.labels.includes(label))
+    )
+  }
+
   toysToReturn = _sortToys(toysToReturn, sortBy)
 
   return Promise.resolve(toysToReturn)
