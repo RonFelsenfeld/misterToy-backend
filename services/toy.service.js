@@ -12,7 +12,7 @@ export const toyService = {
 
 const toys = utilService.readJsonFile('data/toys.json')
 
-function query(filterBy = {}) {
+function query(filterBy = {}, sortBy = {}) {
   let toysToReturn = toys.slice()
 
   if (filterBy.name) {
@@ -34,6 +34,8 @@ function query(filterBy = {}) {
         break
     }
   }
+
+  toysToReturn = _sortToys(toysToReturn, sortBy)
 
   return Promise.resolve(toysToReturn)
 }
@@ -107,4 +109,20 @@ function _getLabels() {
   ]
 
   return labels
+}
+
+function _sortToys(toys, sortBy) {
+  if (sortBy.name) {
+    toys = toys.sort((t1, t2) => t1.name.localeCompare(t2.name) * sortBy.name)
+  }
+
+  if (sortBy.price) {
+    toys = toys.sort((t1, t2) => (t1.price - t2.price) * sortBy.price)
+  }
+
+  if (sortBy.createdAt) {
+    toys = toys.sort((t1, t2) => (t1.createdAt - t2.createdAt) * sortBy.createdAt)
+  }
+
+  return toys
 }
