@@ -341,3 +341,19 @@
 27.3.2024, 20:32:36 - INFO - Server listening on port http://127.0.0.1:3030/
 27.3.2024, 20:33:21 - INFO - Server listening on port http://127.0.0.1:3030/
 27.3.2024, 20:33:21 - INFO - Server listening on port http://127.0.0.1:3030/
+27.3.2024, 21:34:19 - INFO - Server listening on port http://127.0.0.1:3030/
+27.3.2024, 22:33:53 - INFO - Server listening on port http://127.0.0.1:3030/
+27.3.2024, 22:33:54 - INFO - Server listening on port http://127.0.0.1:3030/
+27.3.2024, 22:34:03 - ERROR - Cannot get toy | TypeError: Cannot read properties of undefined (reading 'save')
+27.3.2024, 22:34:47 - ERROR - Cannot get toy | TypeError: Cannot read properties of undefined (reading 'save')
+27.3.2024, 22:35:04 - INFO - Server listening on port http://127.0.0.1:3030/
+27.3.2024, 22:35:05 - INFO - Server listening on port http://127.0.0.1:3030/
+27.3.2024, 22:35:06 - INFO - Server listening on port http://127.0.0.1:3030/
+27.3.2024, 22:39:51 - INFO - Server listening on port http://127.0.0.1:3030/
+27.3.2024, 22:40:54 - INFO - Server listening on port http://127.0.0.1:3030/
+27.3.2024, 22:41:10 - INFO - Server listening on port http://127.0.0.1:3030/
+27.3.2024, 22:41:19 - INFO - Server listening on port http://127.0.0.1:3030/
+27.3.2024, 22:41:20 - INFO - Server listening on port http://127.0.0.1:3030/
+27.3.2024, 22:41:48 - INFO - Server listening on port http://127.0.0.1:3030/
+27.3.2024, 22:41:49 - INFO - Server listening on port http://127.0.0.1:3030/
+27.3.2024, 22:42:33 - INFO - Server listening on port http://127.0.0.1:3030/

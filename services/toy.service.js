@@ -72,6 +72,7 @@ function save(toy) {
   } else {
     toy._id = utilService.makeId()
     toy.createdAt = Date.now()
+    toy.description = utilService.makeLorem(30)
 
     // ! MOVE TO FRONT - USER PICK
     toy.labels = []

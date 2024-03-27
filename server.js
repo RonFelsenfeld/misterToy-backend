@@ -55,7 +55,8 @@ app.get('/api/toy/:toyId', (req, res) => {
     .getById(toyId)
     .then(toy => {
       toy.msgs = ['Hello', `I\'m ${toy.name}`, 'How are you?']
-      res.send(toy)
+
+      toyService.save(toy).then(savedToy => res.send(savedToy))
     })
     .catch(err => {
       loggerService.error('Cannot get toy', err)
