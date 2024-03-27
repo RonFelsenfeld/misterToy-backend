@@ -1,7 +1,7 @@
 import fs from 'fs'
 import { utilService } from './util.service.js'
 import { loggerService } from './logger.service.js'
-import { sep } from 'path'
+import { createPublicKey } from 'crypto'
 
 export const toyService = {
   query,
@@ -12,7 +12,7 @@ export const toyService = {
 
 const toys = utilService.readJsonFile('data/toys.json')
 
-function query(filterBy = {}, sortBy = {}) {
+function query(filterBy = {}, sortBy = { name: 1 }) {
   let toysToReturn = toys.slice()
 
   if (filterBy.name) {

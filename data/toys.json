@@ -36,18 +36,6 @@
         ]
     },
     {
-        "_id": "TTe13M",
-        "name": "Lili",
-        "price": 125,
-        "createdAt": 1542107359454,
-        "inStock": true,
-        "labels": [
-            "Battery Powered",
-            "Outdoor",
-            "Doll"
-        ]
-    },
-    {
         "name": "Bili",
         "price": 100,
         "inStock": true,

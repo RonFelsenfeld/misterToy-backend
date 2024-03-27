@@ -31,8 +31,8 @@ app.get('/api/toy', (req, res) => {
   const { filterBy: receivedFilter, sortBy } = req.query
 
   const filterBy = {
-    name: receivedFilter.name || '',
-    inStock: receivedFilter.inStock || null,
+    name: receivedFilter?.name || '',
+    inStock: receivedFilter?.inStock || null,
   }
 
   toyService
