@@ -2,6 +2,7 @@ import fs from 'fs'
 import { utilService } from './util.service.js'
 import { loggerService } from './logger.service.js'
 import { createPublicKey } from 'crypto'
+import { CLIENT_RENEG_LIMIT } from 'tls'
 
 export const toyService = {
   query,
@@ -15,33 +16,7 @@ const toys = utilService.readJsonFile('data/toys.json')
 function query(filterBy = {}, sortBy = { name: 1 }) {
   let toysToReturn = toys.slice()
 
-  if (filterBy.name) {
-    const regExp = new RegExp(filterBy.name, 'i')
-    toysToReturn = toysToReturn.filter(toy => regExp.test(toy.name))
-  }
-
-  if (filterBy.inStock !== null) {
-    // filterBy.inStock is a string that 'true' or 'false', so it need to be converted to boolean
-    filterBy.inStock = filterBy.inStock === 'true' ? true : false
-
-    switch (filterBy.inStock) {
-      case true:
-        toysToReturn = toysToReturn.filter(toy => toy.inStock)
-        break
-
-      case false:
-        toysToReturn = toysToReturn.filter(toy => !toy.inStock)
-        break
-    }
-  }
-
-  if (filterBy.labels && filterBy.labels.length) {
-    const labelsToFilter = filterBy.labels.filter(l => l)
-    toysToReturn = toysToReturn.filter(toy =>
-      labelsToFilter.every(label => toy.labels.includes(label))
-    )
-  }
-
+  toysToReturn = _filterToys(toysToReturn, filterBy)
   toysToReturn = _sortToys(toysToReturn, sortBy)
 
   return Promise.resolve(toysToReturn)
@@ -117,6 +92,39 @@ function _getLabels() {
   ]
 
   return labels
+}
+
+function _filterToys(toys, filterBy) {
+  if (filterBy.name) {
+    const regExp = new RegExp(filterBy.name, 'i')
+    toys = toys.filter(toy => regExp.test(toy.name))
+  }
+
+  if (filterBy.inStock !== null) {
+    // filterBy.inStock is a string that 'true' or 'false', so it need to be converted to boolean
+    filterBy.inStock = filterBy.inStock === 'true' ? true : false
+
+    switch (filterBy.inStock) {
+      case true:
+        toys = toys.filter(toy => toy.inStock)
+        break
+
+      case false:
+        toys = toys.filter(toy => !toy.inStock)
+        break
+    }
+  }
+
+  if (filterBy.labels && filterBy.labels.length) {
+    const labelsToFilter = filterBy.labels.filter(l => l)
+    toys = toys.filter(toy => labelsToFilter.every(label => toy.labels.includes(label)))
+  }
+
+  if (filterBy.maxPrice) {
+    toys = toys.filter(toy => toy.price <= filterBy.maxPrice)
+  }
+
+  return toys
 }
 
 function _sortToys(toys, sortBy) {

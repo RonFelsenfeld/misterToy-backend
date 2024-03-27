@@ -23,6 +23,11 @@
             "Art",
             "Doll",
             "Battery Powered"
+        ],
+        "msgs": [
+            "Hello",
+            "I'm Lala",
+            "How are you?"
         ]
     },
     {
@@ -54,6 +59,11 @@
             "Outdoor",
             "Puzzle",
             "On wheels"
+        ],
+        "msgs": [
+            "Hello",
+            "I'm Lolo",
+            "How are you?"
         ]
     },
     {

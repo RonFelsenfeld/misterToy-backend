@@ -34,6 +34,7 @@ app.get('/api/toy', (req, res) => {
     name: receivedFilter?.name || '',
     inStock: receivedFilter?.inStock || null,
     labels: receivedFilter?.labels || [],
+    maxPrice: +receivedFilter?.maxPrice || 0,
   }
 
   toyService
