@@ -23,7 +23,7 @@ async function query(filterBy = { name: '' }, sortBy = { name: 1 }) {
 
     if (filterBy.inStock !== null) criteria.inStock = filterBy.inStock
     if (filterBy.maxPrice) criteria.price = { $lte: +filterBy.maxPrice }
-    if (filterBy.labels.length) criteria.labels = { $in: filterBy.labels }
+    if (filterBy.labels.length) criteria.labels = { $all: filterBy.labels }
 
     const collection = await dbService.getCollection('toys')
     var toys = await collection.find(criteria).sort(sortBy).toArray()
