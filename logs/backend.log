@@ -1420,3 +1420,10 @@
 1.4.2024, 21:45:51 - INFO - Sample Logger Middleware (userId: 6609b57a6917e18112abfa33)
 1.4.2024, 21:45:51 - DEBUG - Getting Toys | {"name":"","maxPrice":"0"} | {"name":1} (userId: 6609b57a6917e18112abfa33)
 1.4.2024, 21:48:05 - INFO - Server is running on port: 3030 
+1.4.2024, 21:49:07 - INFO - Sample Logger Middleware (userId: 6609b57a6917e18112abfa33)
+1.4.2024, 21:49:07 - DEBUG - Getting Toys | {"name":"","maxPrice":"0"} | {"name":1} (userId: 6609b57a6917e18112abfa33)
+1.4.2024, 21:49:07 - DEBUG - Getting Toys | {"name":"","maxPrice":"0"} | {"name":1} (userId: 6609b57a6917e18112abfa33)
+1.4.2024, 21:49:07 - INFO - Sample Logger Middleware (userId: 6609b57a6917e18112abfa33)
+1.4.2024, 21:49:07 - INFO - Sample Logger Middleware (userId: 6609b57a6917e18112abfa33)
+1.4.2024, 21:49:07 - DEBUG - Getting Toys | {"name":"","maxPrice":"0"} | {"name":1} (userId: 6609b57a6917e18112abfa33)
+1.4.2024, 21:50:24 - INFO - Server is running on port: 3030 
