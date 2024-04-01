@@ -38,7 +38,7 @@ async function query(filterBy = { name: '' }, sortBy = { name: 1 }) {
 async function getById(toyId) {
   try {
     const collection = await dbService.getCollection('toys')
-    var toy = collection.findOne({ _id: ObjectId(toyId) })
+    var toy = collection.findOne({ _id: new ObjectId(toyId) })
     return toy
   } catch (err) {
     logger.error(`while finding toy ${toyId}`, err)
@@ -49,7 +49,7 @@ async function getById(toyId) {
 async function remove(toyId) {
   try {
     const collection = await dbService.getCollection('toys')
-    await collection.deleteOne({ _id: ObjectId(toyId) })
+    await collection.deleteOne({ _id: new ObjectId(toyId) })
   } catch (err) {
     logger.error(`cannot remove toy ${toyId}`, err)
     throw err
@@ -66,7 +66,7 @@ async function add(toy) {
 
     // Adding createdAt based on _id
     toy.createdAt = toyId.getTimestamp()
-    await collection.updateOne({ _id: ObjectId(toy._id) }, { $set: toy })
+    await collection.updateOne({ _id: new ObjectId(toy._id) }, { $set: toy })
 
     return toy
   } catch (err) {
@@ -86,7 +86,7 @@ async function update(toy) {
     }
 
     const collection = await dbService.getCollection('toys')
-    await collection.updateOne({ _id: ObjectId(toy._id) }, { $set: toyToSave })
+    await collection.updateOne({ _id: new ObjectId(toy._id) }, { $set: toyToSave })
     return toy
   } catch (err) {
     logger.error(`cannot update toy ${toy._id}`, err)
@@ -98,7 +98,7 @@ async function addToyMsg(toyId, msg) {
   try {
     msg.id = utilService.makeId()
     const collection = await dbService.getCollection('toys')
-    await collection.updateOne({ _id: ObjectId(toyId) }, { $push: { msgs: msg } })
+    await collection.updateOne({ _id: new ObjectId(toyId) }, { $push: { msgs: msg } })
     return msg
   } catch (err) {
     logger.error(`cannot add toy msg ${toyId}`, err)
@@ -109,7 +109,7 @@ async function addToyMsg(toyId, msg) {
 async function removeToyMsg(toyId, msgId) {
   try {
     const collection = await dbService.getCollection('toys')
-    await collection.updateOne({ _id: ObjectId(toyId) }, { $pull: { msgs: { id: msgId } } })
+    await collection.updateOne({ _id: new ObjectId(toyId) }, { $pull: { msgs: { id: msgId } } })
     return msgId
   } catch (err) {
     logger.error(`cannot add toy msg ${toyId}`, err)

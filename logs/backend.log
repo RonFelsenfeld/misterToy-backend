@@ -5029,3 +5029,453 @@
 31.3.2024, 22:27:36 - DEBUG - Getting Toys | {"name":"","maxPrice":"0"} | {"name":1} 
 31.3.2024, 22:27:36 - INFO - Req was made | / 
 31.3.2024, 22:27:36 - DEBUG - Getting Toys | {"name":"","maxPrice":"0"} | {"name":1} 
+1.4.2024, 14:53:56 - INFO - server.js loaded... 
+1.4.2024, 14:53:56 - INFO - Server is running on port: 3030 
+1.4.2024, 14:53:58 - INFO - Req was made | / 
+1.4.2024, 14:53:58 - DEBUG - Getting Toys | {"name":"","maxPrice":"0"} | {"name":1} 
+1.4.2024, 14:53:58 - INFO - Req was made | / 
+1.4.2024, 14:53:58 - DEBUG - Getting Toys | {"name":"","maxPrice":"0"} | {"name":1} 
+1.4.2024, 14:53:58 - INFO - Req was made | / 
+1.4.2024, 14:53:58 - DEBUG - Getting Toys | {"name":"","maxPrice":"0"} | {"name":1} 
+1.4.2024, 14:54:02 - INFO - Req was made | / 
+1.4.2024, 14:54:02 - DEBUG - Getting Toys | {"name":"","maxPrice":"0"} | {"name":1} 
+1.4.2024, 14:54:02 - INFO - Req was made | / 
+1.4.2024, 14:54:02 - DEBUG - Getting Toys | {"name":"","maxPrice":"0"} | {"name":1} 
+1.4.2024, 14:54:02 - INFO - Req was made | / 
+1.4.2024, 14:54:02 - DEBUG - Getting Toys | {"name":"","maxPrice":"0"} | {"name":1} 
+1.4.2024, 14:54:02 - ERROR - while finding toy 6606b15bdb0e180b7ef3228c | TypeError: Class constructor ObjectId cannot be invoked without 'new' 
+1.4.2024, 14:54:02 - ERROR - Failed to get toy | TypeError: Class constructor ObjectId cannot be invoked without 'new' 
+1.4.2024, 14:54:02 - INFO - Req was made | / 
+1.4.2024, 14:54:02 - DEBUG - Getting Toys | {"name":"","maxPrice":"0"} | {"name":1} 
+1.4.2024, 14:54:02 - INFO - Req was made | / 
+1.4.2024, 14:54:02 - DEBUG - Getting Toys | {"name":"","maxPrice":"0"} | {"name":1} 
+1.4.2024, 14:54:02 - INFO - Req was made | / 
+1.4.2024, 14:54:02 - DEBUG - Getting Toys | {"name":"","maxPrice":"0"} | {"name":1} 
+1.4.2024, 14:54:07 - INFO - Req was made | / 
+1.4.2024, 14:54:07 - DEBUG - Getting Toys | {"name":"","maxPrice":"0"} | {"name":1} 
+1.4.2024, 14:54:07 - INFO - Req was made | / 
+1.4.2024, 14:54:07 - DEBUG - Getting Toys | {"name":"","maxPrice":"0"} | {"name":1} 
+1.4.2024, 14:54:08 - INFO - Req was made | / 
+1.4.2024, 14:54:08 - DEBUG - Getting Toys | {"name":"","maxPrice":"0"} | {"name":1} 
+1.4.2024, 14:54:12 - ERROR - while finding toy 6609b7779c1d8782a6c40746 | TypeError: Class constructor ObjectId cannot be invoked without 'new' 
+1.4.2024, 14:54:12 - ERROR - Failed to get toy | TypeError: Class constructor ObjectId cannot be invoked without 'new' 
+1.4.2024, 14:54:12 - INFO - Req was made | / 
+1.4.2024, 14:54:12 - DEBUG - Getting Toys | {"name":"","maxPrice":"0"} | {"name":1} 
+1.4.2024, 14:54:12 - INFO - Req was made | / 
+1.4.2024, 14:54:12 - DEBUG - Getting Toys | {"name":"","maxPrice":"0"} | {"name":1} 
+1.4.2024, 14:54:13 - INFO - Req was made | / 
+1.4.2024, 14:54:13 - DEBUG - Getting Toys | {"name":"","maxPrice":"0"} | {"name":1} 
+1.4.2024, 14:54:21 - INFO - Req was made | / 
+1.4.2024, 14:54:21 - DEBUG - Getting Toys | {"name":"","maxPrice":"0"} | {"name":1} 
+1.4.2024, 14:54:21 - INFO - Req was made | / 
+1.4.2024, 14:54:21 - DEBUG - Getting Toys | {"name":"","maxPrice":"0"} | {"name":1} 
+1.4.2024, 14:54:21 - INFO - Req was made | / 
+1.4.2024, 14:54:21 - DEBUG - Getting Toys | {"name":"","maxPrice":"0"} | {"name":1} 
+1.4.2024, 14:54:22 - ERROR - while finding toy 6609b7779c1d8782a6c40746 | TypeError: Class constructor ObjectId cannot be invoked without 'new' 
+1.4.2024, 14:54:22 - ERROR - Failed to get toy | TypeError: Class constructor ObjectId cannot be invoked without 'new' 
+1.4.2024, 14:54:22 - INFO - Req was made | / 
+1.4.2024, 14:54:22 - DEBUG - Getting Toys | {"name":"","maxPrice":"0"} | {"name":1} 
+1.4.2024, 14:54:22 - INFO - Req was made | / 
+1.4.2024, 14:54:22 - DEBUG - Getting Toys | {"name":"","maxPrice":"0"} | {"name":1} 
+1.4.2024, 14:54:22 - INFO - Req was made | / 
+1.4.2024, 14:54:22 - DEBUG - Getting Toys | {"name":"","maxPrice":"0"} | {"name":1} 
+1.4.2024, 14:55:17 - INFO - Req was made | / 
+1.4.2024, 14:55:17 - DEBUG - Getting Toys | {"name":"","maxPrice":"0"} | {"name":1} 
+1.4.2024, 14:55:17 - INFO - Req was made | / 
+1.4.2024, 14:55:17 - DEBUG - Getting Toys | {"name":"","maxPrice":"0"} | {"name":1} 
+1.4.2024, 14:55:17 - INFO - Req was made | / 
+1.4.2024, 14:55:17 - DEBUG - Getting Toys | {"name":"","maxPrice":"0"} | {"name":1} 
+1.4.2024, 14:55:19 - INFO - server.js loaded... 
+1.4.2024, 14:55:19 - INFO - Server is running on port: 3030 
+1.4.2024, 14:55:20 - INFO - Req was made | / 
+1.4.2024, 14:55:20 - DEBUG - Getting Toys | {"name":"","maxPrice":"0"} | {"name":1} 
+1.4.2024, 14:55:20 - INFO - Req was made | / 
+1.4.2024, 14:55:20 - DEBUG - Getting Toys | {"name":"","maxPrice":"0"} | {"name":1} 
+1.4.2024, 14:55:20 - INFO - Req was made | / 
+1.4.2024, 14:55:20 - DEBUG - Getting Toys | {"name":"","maxPrice":"0"} | {"name":1} 
+1.4.2024, 14:55:21 - INFO - Req was made | / 
+1.4.2024, 14:55:21 - DEBUG - Getting Toys | {"name":"","maxPrice":"0"} | {"name":1} 
+1.4.2024, 14:55:21 - INFO - Req was made | / 
+1.4.2024, 14:55:21 - DEBUG - Getting Toys | {"name":"","maxPrice":"0"} | {"name":1} 
+1.4.2024, 14:55:21 - DEBUG - Getting Toys | {"name":"","maxPrice":"0"} | {"name":1} 
+1.4.2024, 14:55:21 - INFO - Req was made | / 
+1.4.2024, 14:55:22 - ERROR - while finding toy 6606b15bdb0e180b7ef3228c | TypeError: Class constructor ObjectId cannot be invoked without 'new' 
+1.4.2024, 14:55:22 - ERROR - Failed to get toy | TypeError: Class constructor ObjectId cannot be invoked without 'new' 
+1.4.2024, 14:55:22 - DEBUG - Getting Toys | {"name":"","maxPrice":"0"} | {"name":1} 
+1.4.2024, 14:55:22 - INFO - Req was made | / 
+1.4.2024, 14:55:22 - INFO - Req was made | / 
+1.4.2024, 14:55:22 - DEBUG - Getting Toys | {"name":"","maxPrice":"0"} | {"name":1} 
+1.4.2024, 14:55:22 - INFO - Req was made | / 
+1.4.2024, 14:55:22 - DEBUG - Getting Toys | {"name":"","maxPrice":"0"} | {"name":1} 
+1.4.2024, 14:56:06 - INFO - Req was made | / 
+1.4.2024, 14:56:06 - DEBUG - Getting Toys | {"name":"","maxPrice":"0"} | {"name":1} 
+1.4.2024, 14:56:06 - INFO - Req was made | / 
+1.4.2024, 14:56:06 - DEBUG - Getting Toys | {"name":"","maxPrice":"0"} | {"name":1} 
+1.4.2024, 14:56:06 - INFO - Req was made | / 
+1.4.2024, 14:56:06 - DEBUG - Getting Toys | {"name":"","maxPrice":"0"} | {"name":1} 
+1.4.2024, 14:56:20 - DEBUG - auth.service - login with username: Admin 
+1.4.2024, 14:56:20 - INFO - User login:  | {"_id":"6609b57a6917e18112abfa33","username":"Admin","fullname":"Admin Admin","isAdmin":true} 
+1.4.2024, 14:56:20 - INFO - Req was made | / 
+1.4.2024, 14:56:20 - DEBUG - Getting Toys | {"name":"","maxPrice":"0"} | {"name":1} 
+1.4.2024, 14:56:20 - INFO - Req was made | / 
+1.4.2024, 14:56:20 - DEBUG - Getting Toys | {"name":"","maxPrice":"0"} | {"name":1} 
+1.4.2024, 14:56:20 - INFO - Req was made | / 
+1.4.2024, 14:56:20 - DEBUG - Getting Toys | {"name":"","maxPrice":"0"} | {"name":1} 
+1.4.2024, 14:56:23 - ERROR - Failed to remove toy | TypeError: Class constructor ObjectId cannot be invoked without 'new' 
+1.4.2024, 14:56:23 - ERROR - cannot remove toy 6609b7779c1d8782a6c40746 | TypeError: Class constructor ObjectId cannot be invoked without 'new' 
+1.4.2024, 14:57:07 - INFO - Req was made | / 
+1.4.2024, 14:57:07 - DEBUG - Getting Toys | {"name":"","maxPrice":"0"} | {"name":1} 
+1.4.2024, 14:57:07 - INFO - Req was made | / 
+1.4.2024, 14:57:07 - DEBUG - Getting Toys | {"name":"","maxPrice":"0"} | {"name":1} 
+1.4.2024, 14:57:07 - INFO - Req was made | / 
+1.4.2024, 14:57:07 - DEBUG - Getting Toys | {"name":"","maxPrice":"0"} | {"name":1} 
+1.4.2024, 14:57:11 - INFO - Req was made | / 
+1.4.2024, 14:57:11 - DEBUG - Getting Toys | {"name":"A","maxPrice":"0"} | {"name":1} 
+1.4.2024, 14:57:11 - INFO - Req was made | / 
+1.4.2024, 14:57:11 - DEBUG - Getting Toys | {"name":"An","maxPrice":"0"} | {"name":1} 
+1.4.2024, 14:57:13 - INFO - Req was made | / 
+1.4.2024, 14:57:13 - DEBUG - Getting Toys | {"name":"","maxPrice":"0"} | {"name":1} 
+1.4.2024, 14:57:19 - INFO - Req was made | / 
+1.4.2024, 14:57:19 - DEBUG - Getting Toys | {"name":"","maxPrice":"0"} | {"price":1} 
+1.4.2024, 14:57:21 - INFO - Req was made | / 
+1.4.2024, 14:57:21 - DEBUG - Getting Toys | {"name":"","maxPrice":"0"} | {"name":1} 
+1.4.2024, 14:57:25 - INFO - Req was made | / 
+1.4.2024, 14:57:25 - DEBUG - Getting Toys | {"name":"","maxPrice":"0"} | {"name":1} 
+1.4.2024, 14:57:25 - INFO - Req was made | / 
+1.4.2024, 14:57:25 - DEBUG - Getting Toys | {"name":"","maxPrice":"0"} | {"name":1} 
+1.4.2024, 14:57:26 - INFO - Req was made | / 
+1.4.2024, 14:57:26 - DEBUG - Getting Toys | {"name":"","maxPrice":"0"} | {"name":1} 
+1.4.2024, 14:57:27 - ERROR - while finding toy 6606b15bdb0e180b7ef3228c | TypeError: Class constructor ObjectId cannot be invoked without 'new' 
+1.4.2024, 14:57:27 - ERROR - Failed to get toy | TypeError: Class constructor ObjectId cannot be invoked without 'new' 
+1.4.2024, 14:57:27 - INFO - Req was made | / 
+1.4.2024, 14:57:27 - DEBUG - Getting Toys | {"name":"","maxPrice":"0"} | {"name":1} 
+1.4.2024, 14:57:27 - DEBUG - Getting Toys | {"name":"","maxPrice":"0"} | {"name":1} 
+1.4.2024, 14:57:27 - INFO - Req was made | / 
+1.4.2024, 14:57:27 - INFO - Req was made | / 
+1.4.2024, 14:57:27 - DEBUG - Getting Toys | {"name":"","maxPrice":"0"} | {"name":1} 
+1.4.2024, 14:58:00 - INFO - Req was made | / 
+1.4.2024, 14:58:00 - DEBUG - Getting Toys | {"name":"","maxPrice":"0"} | {"name":1} 
+1.4.2024, 14:58:00 - INFO - Req was made | / 
+1.4.2024, 14:58:00 - DEBUG - Getting Toys | {"name":"","maxPrice":"0"} | {"name":1} 
+1.4.2024, 14:58:00 - INFO - Req was made | / 
+1.4.2024, 14:58:00 - DEBUG - Getting Toys | {"name":"","maxPrice":"0"} | {"name":1} 
+1.4.2024, 14:58:04 - ERROR - Failed to add toy | TypeError: Class constructor ObjectId cannot be invoked without 'new' 
+1.4.2024, 14:58:04 - ERROR - cannot insert toy | TypeError: Class constructor ObjectId cannot be invoked without 'new' 
+1.4.2024, 14:58:24 - INFO - server.js loaded... 
+1.4.2024, 14:58:24 - INFO - Server is running on port: 3030 
+1.4.2024, 14:58:27 - INFO - server.js loaded... 
+1.4.2024, 14:58:27 - INFO - Server is running on port: 3030 
+1.4.2024, 14:58:51 - INFO - Req was made | / 
+1.4.2024, 14:58:51 - DEBUG - Getting Toys | {"name":""} | {"name":1} 
+1.4.2024, 14:58:52 - DEBUG - Getting Toys | {"name":"","maxPrice":"0"} | {"name":1} 
+1.4.2024, 14:58:52 - INFO - Req was made | / 
+1.4.2024, 14:58:52 - DEBUG - Getting Toys | {"name":"","maxPrice":"0"} | {"name":1} 
+1.4.2024, 14:58:52 - INFO - Req was made | / 
+1.4.2024, 14:58:52 - INFO - Req was made | / 
+1.4.2024, 14:58:52 - DEBUG - Getting Toys | {"name":"","maxPrice":"0"} | {"name":1} 
+1.4.2024, 14:58:56 - INFO - Req was made | / 
+1.4.2024, 14:58:56 - DEBUG - Getting Toys | {"name":""} | {"name":1} 
+1.4.2024, 14:59:06 - INFO - Req was made | / 
+1.4.2024, 14:59:06 - DEBUG - Getting Toys | {"name":"","maxPrice":"0"} | {"name":1} 
+1.4.2024, 14:59:06 - INFO - Req was made | / 
+1.4.2024, 14:59:06 - DEBUG - Getting Toys | {"name":"","maxPrice":"0"} | {"name":1} 
+1.4.2024, 14:59:07 - INFO - Req was made | / 
+1.4.2024, 14:59:07 - DEBUG - Getting Toys | {"name":"","maxPrice":"0"} | {"name":1} 
+1.4.2024, 14:59:08 - ERROR - while finding toy 6609b7779c1d8782a6c40746 | TypeError: Class constructor ObjectId cannot be invoked without 'new' 
+1.4.2024, 14:59:08 - ERROR - Failed to get toy | TypeError: Class constructor ObjectId cannot be invoked without 'new' 
+1.4.2024, 14:59:08 - INFO - Req was made | / 
+1.4.2024, 14:59:08 - DEBUG - Getting Toys | {"name":"","maxPrice":"0"} | {"name":1} 
+1.4.2024, 14:59:08 - INFO - Req was made | / 
+1.4.2024, 14:59:08 - DEBUG - Getting Toys | {"name":"","maxPrice":"0"} | {"name":1} 
+1.4.2024, 14:59:08 - INFO - Req was made | / 
+1.4.2024, 14:59:08 - DEBUG - Getting Toys | {"name":"","maxPrice":"0"} | {"name":1} 
+1.4.2024, 14:59:20 - INFO - Req was made | / 
+1.4.2024, 14:59:20 - DEBUG - Getting Toys | {"name":"","maxPrice":"0"} | {"name":1} 
+1.4.2024, 14:59:20 - INFO - Req was made | / 
+1.4.2024, 14:59:20 - DEBUG - Getting Toys | {"name":"","maxPrice":"0"} | {"name":1} 
+1.4.2024, 14:59:20 - INFO - Req was made | / 
+1.4.2024, 14:59:20 - DEBUG - Getting Toys | {"name":"","maxPrice":"0"} | {"name":1} 
+1.4.2024, 14:59:27 - INFO - Req was made | / 
+1.4.2024, 14:59:27 - DEBUG - Getting Toys | {"name":"","maxPrice":"0"} | {"name":1} 
+1.4.2024, 14:59:27 - INFO - Req was made | / 
+1.4.2024, 14:59:27 - DEBUG - Getting Toys | {"name":"","maxPrice":"0"} | {"name":1} 
+1.4.2024, 14:59:27 - DEBUG - Getting Toys | {"name":"","maxPrice":"0"} | {"name":1} 
+1.4.2024, 14:59:27 - INFO - Req was made | / 
+1.4.2024, 14:59:28 - ERROR - while finding toy 6609b7779c1d8782a6c40746 | TypeError: Class constructor ObjectId cannot be invoked without 'new' 
+1.4.2024, 14:59:28 - ERROR - Failed to get toy | TypeError: Class constructor ObjectId cannot be invoked without 'new' 
+1.4.2024, 14:59:28 - INFO - Req was made | / 
+1.4.2024, 14:59:28 - DEBUG - Getting Toys | {"name":"","maxPrice":"0"} | {"name":1} 
+1.4.2024, 14:59:28 - DEBUG - Getting Toys | {"name":"","maxPrice":"0"} | {"name":1} 
+1.4.2024, 14:59:28 - INFO - Req was made | / 
+1.4.2024, 14:59:28 - INFO - Req was made | / 
+1.4.2024, 14:59:28 - DEBUG - Getting Toys | {"name":"","maxPrice":"0"} | {"name":1} 
+1.4.2024, 15:00:59 - INFO - server.js loaded... 
+1.4.2024, 15:00:59 - INFO - Server is running on port: 3030 
+1.4.2024, 15:01:22 - INFO - Req was made | / 
+1.4.2024, 15:01:22 - DEBUG - Getting Toys | {"name":"","maxPrice":"0"} | {"name":1} 
+1.4.2024, 15:01:22 - INFO - Req was made | / 
+1.4.2024, 15:01:22 - DEBUG - Getting Toys | {"name":"","maxPrice":"0"} | {"name":1} 
+1.4.2024, 15:01:22 - INFO - Req was made | / 
+1.4.2024, 15:01:22 - DEBUG - Getting Toys | {"name":"","maxPrice":"0"} | {"name":1} 
+1.4.2024, 15:01:39 - ERROR - while finding toy 6609b7779c1d8782a6c40746 | TypeError: Class constructor ObjectId cannot be invoked without 'new' 
+1.4.2024, 15:01:39 - ERROR - Failed to get toy | TypeError: Class constructor ObjectId cannot be invoked without 'new' 
+1.4.2024, 15:01:39 - INFO - Req was made | / 
+1.4.2024, 15:01:39 - DEBUG - Getting Toys | {"name":"","maxPrice":"0"} | {"name":1} 
+1.4.2024, 15:01:39 - DEBUG - Getting Toys | {"name":"","maxPrice":"0"} | {"name":1} 
+1.4.2024, 15:01:39 - INFO - Req was made | / 
+1.4.2024, 15:01:39 - INFO - Req was made | / 
+1.4.2024, 15:01:39 - DEBUG - Getting Toys | {"name":"","maxPrice":"0"} | {"name":1} 
+1.4.2024, 15:01:51 - ERROR - while finding toy 6609b7779c1d8782a6c40746 | TypeError: Class constructor ObjectId cannot be invoked without 'new' 
+1.4.2024, 15:01:51 - ERROR - Failed to get toy | TypeError: Class constructor ObjectId cannot be invoked without 'new' 
+1.4.2024, 15:01:51 - DEBUG - Getting Toys | {"name":"","maxPrice":"0"} | {"name":1} 
+1.4.2024, 15:01:51 - INFO - Req was made | / 
+1.4.2024, 15:01:51 - INFO - Req was made | / 
+1.4.2024, 15:01:51 - DEBUG - Getting Toys | {"name":"","maxPrice":"0"} | {"name":1} 
+1.4.2024, 15:01:52 - INFO - Req was made | / 
+1.4.2024, 15:01:52 - DEBUG - Getting Toys | {"name":"","maxPrice":"0"} | {"name":1} 
+1.4.2024, 15:01:53 - INFO - Req was made | / 
+1.4.2024, 15:01:53 - DEBUG - Getting Toys | {"name":"","maxPrice":"0"} | {"name":1} 
+1.4.2024, 15:01:53 - INFO - Req was made | / 
+1.4.2024, 15:01:53 - DEBUG - Getting Toys | {"name":"","maxPrice":"0"} | {"name":1} 
+1.4.2024, 15:01:53 - INFO - Req was made | / 
+1.4.2024, 15:01:53 - DEBUG - Getting Toys | {"name":"","maxPrice":"0"} | {"name":1} 
+1.4.2024, 15:01:58 - ERROR - while finding toy 6609b7779c1d8782a6c40746 | TypeError: Class constructor ObjectId cannot be invoked without 'new' 
+1.4.2024, 15:01:58 - ERROR - Failed to get toy | TypeError: Class constructor ObjectId cannot be invoked without 'new' 
+1.4.2024, 15:01:58 - INFO - Req was made | / 
+1.4.2024, 15:01:58 - DEBUG - Getting Toys | {"name":"","maxPrice":"0"} | {"name":1} 
+1.4.2024, 15:01:58 - INFO - Req was made | / 
+1.4.2024, 15:01:58 - DEBUG - Getting Toys | {"name":"","maxPrice":"0"} | {"name":1} 
+1.4.2024, 15:01:59 - INFO - Req was made | / 
+1.4.2024, 15:01:59 - DEBUG - Getting Toys | {"name":"","maxPrice":"0"} | {"name":1} 
+1.4.2024, 15:02:54 - INFO - server.js loaded... 
+1.4.2024, 15:02:54 - INFO - Server is running on port: 3030 
+1.4.2024, 15:04:06 - INFO - Req was made | / 
+1.4.2024, 15:04:06 - DEBUG - Getting Toys | {"name":"","maxPrice":"0"} | {"name":1} 
+1.4.2024, 15:04:06 - INFO - Req was made | / 
+1.4.2024, 15:04:06 - DEBUG - Getting Toys | {"name":"","maxPrice":"0"} | {"name":1} 
+1.4.2024, 15:04:06 - INFO - Req was made | / 
+1.4.2024, 15:04:06 - DEBUG - Getting Toys | {"name":"","maxPrice":"0"} | {"name":1} 
+1.4.2024, 15:04:43 - ERROR - while finding toy 6606b15bdb0e180b7ef3228c | TypeError: Class constructor ObjectId cannot be invoked without 'new' 
+1.4.2024, 15:04:43 - ERROR - Failed to get toy | TypeError: Class constructor ObjectId cannot be invoked without 'new' 
+1.4.2024, 15:05:41 - INFO - server.js loaded... 
+1.4.2024, 15:05:41 - INFO - Server is running on port: 3030 
+1.4.2024, 15:05:47 - INFO - server.js loaded... 
+1.4.2024, 15:05:47 - INFO - Server is running on port: 3030 
+1.4.2024, 15:05:49 - INFO - Req was made | / 
+1.4.2024, 15:05:49 - DEBUG - Getting Toys | {"name":"","maxPrice":"0"} | {"name":1} 
+1.4.2024, 15:05:49 - INFO - Req was made | / 
+1.4.2024, 15:05:49 - DEBUG - Getting Toys | {"name":"","maxPrice":"0"} | {"name":1} 
+1.4.2024, 15:05:49 - INFO - Req was made | / 
+1.4.2024, 15:05:49 - DEBUG - Getting Toys | {"name":"","maxPrice":"0"} | {"name":1} 
+1.4.2024, 15:05:51 - ERROR - while finding toy 6609b7779c1d8782a6c40746 | TypeError: Class constructor ObjectId cannot be invoked without 'new' 
+1.4.2024, 15:05:51 - ERROR - Failed to get toy | TypeError: Class constructor ObjectId cannot be invoked without 'new' 
+1.4.2024, 15:05:51 - INFO - Req was made | / 
+1.4.2024, 15:05:51 - DEBUG - Getting Toys | {"name":"","maxPrice":"0"} | {"name":1} 
+1.4.2024, 15:05:51 - INFO - Req was made | / 
+1.4.2024, 15:05:51 - DEBUG - Getting Toys | {"name":"","maxPrice":"0"} | {"name":1} 
+1.4.2024, 15:05:51 - INFO - Req was made | / 
+1.4.2024, 15:05:51 - DEBUG - Getting Toys | {"name":"","maxPrice":"0"} | {"name":1} 
+1.4.2024, 15:05:59 - INFO - server.js loaded... 
+1.4.2024, 15:05:59 - INFO - Server is running on port: 3030 
+1.4.2024, 15:06:31 - INFO - server.js loaded... 
+1.4.2024, 15:06:31 - INFO - Server is running on port: 3030 
+1.4.2024, 15:06:58 - INFO - server.js loaded... 
+1.4.2024, 15:06:58 - INFO - Server is running on port: 3030 
+1.4.2024, 15:07:15 - INFO - server.js loaded... 
+1.4.2024, 15:07:15 - INFO - Server is running on port: 3030 
+1.4.2024, 15:07:18 - INFO - Req was made | / 
+1.4.2024, 15:07:18 - DEBUG - Getting Toys | {"name":"","maxPrice":"0"} | {"name":1} 
+1.4.2024, 15:07:18 - INFO - Req was made | / 
+1.4.2024, 15:07:18 - DEBUG - Getting Toys | {"name":"","maxPrice":"0"} | {"name":1} 
+1.4.2024, 15:07:18 - INFO - Req was made | / 
+1.4.2024, 15:07:18 - DEBUG - Getting Toys | {"name":"","maxPrice":"0"} | {"name":1} 
+1.4.2024, 15:07:19 - ERROR - while finding toy 6609b7779c1d8782a6c40746 | TypeError: Class constructor ObjectId cannot be invoked without 'new' 
+1.4.2024, 15:07:19 - ERROR - Failed to get toy | TypeError: Class constructor ObjectId cannot be invoked without 'new' 
+1.4.2024, 15:07:19 - DEBUG - Getting Toys | {"name":"","maxPrice":"0"} | {"name":1} 
+1.4.2024, 15:07:19 - INFO - Req was made | / 
+1.4.2024, 15:07:19 - INFO - Req was made | / 
+1.4.2024, 15:07:19 - DEBUG - Getting Toys | {"name":"","maxPrice":"0"} | {"name":1} 
+1.4.2024, 15:07:19 - INFO - Req was made | / 
+1.4.2024, 15:07:19 - DEBUG - Getting Toys | {"name":"","maxPrice":"0"} | {"name":1} 
+1.4.2024, 15:07:28 - INFO - server.js loaded... 
+1.4.2024, 15:07:28 - INFO - Server is running on port: 3030 
+1.4.2024, 15:07:30 - INFO - Req was made | / 
+1.4.2024, 15:07:30 - DEBUG - Getting Toys | {"name":"","maxPrice":"0"} | {"name":1} 
+1.4.2024, 15:07:30 - INFO - Req was made | / 
+1.4.2024, 15:07:30 - DEBUG - Getting Toys | {"name":"","maxPrice":"0"} | {"name":1} 
+1.4.2024, 15:07:30 - INFO - Req was made | / 
+1.4.2024, 15:07:30 - DEBUG - Getting Toys | {"name":"","maxPrice":"0"} | {"name":1} 
+1.4.2024, 15:07:32 - ERROR - while finding toy 6609b7779c1d8782a6c40746 | TypeError: Class constructor ObjectId cannot be invoked without 'new' 
+1.4.2024, 15:07:32 - ERROR - Failed to get toy | TypeError: Class constructor ObjectId cannot be invoked without 'new' 
+1.4.2024, 15:07:32 - INFO - Req was made | / 
+1.4.2024, 15:07:32 - DEBUG - Getting Toys | {"name":"","maxPrice":"0"} | {"name":1} 
+1.4.2024, 15:07:32 - INFO - Req was made | / 
+1.4.2024, 15:07:32 - DEBUG - Getting Toys | {"name":"","maxPrice":"0"} | {"name":1} 
+1.4.2024, 15:07:32 - INFO - Req was made | / 
+1.4.2024, 15:07:32 - DEBUG - Getting Toys | {"name":"","maxPrice":"0"} | {"name":1} 
+1.4.2024, 15:07:45 - INFO - server.js loaded... 
+1.4.2024, 15:07:45 - INFO - Server is running on port: 3030 
+1.4.2024, 15:07:55 - INFO - server.js loaded... 
+1.4.2024, 15:07:55 - INFO - Server is running on port: 3030 
+1.4.2024, 15:07:56 - INFO - server.js loaded... 
+1.4.2024, 15:07:56 - INFO - Server is running on port: 3030 
+1.4.2024, 15:07:56 - INFO - Req was made | / 
+1.4.2024, 15:07:56 - DEBUG - Getting Toys | {"name":"","maxPrice":"0"} | {"name":1} 
+1.4.2024, 15:07:56 - INFO - Req was made | / 
+1.4.2024, 15:07:56 - DEBUG - Getting Toys | {"name":"","maxPrice":"0"} | {"name":1} 
+1.4.2024, 15:07:57 - INFO - Req was made | / 
+1.4.2024, 15:07:57 - DEBUG - Getting Toys | {"name":"","maxPrice":"0"} | {"name":1} 
+1.4.2024, 15:07:57 - ERROR - Failed to get toy | TypeError: Class constructor ObjectId cannot be invoked without 'new' 
+1.4.2024, 15:07:57 - ERROR - while finding toy 6609b7779c1d8782a6c40746 | TypeError: Class constructor ObjectId cannot be invoked without 'new' 
+1.4.2024, 15:07:57 - INFO - Req was made | / 
+1.4.2024, 15:07:57 - DEBUG - Getting Toys | {"name":"","maxPrice":"0"} | {"name":1} 
+1.4.2024, 15:07:57 - INFO - Req was made | / 
+1.4.2024, 15:07:57 - DEBUG - Getting Toys | {"name":"","maxPrice":"0"} | {"name":1} 
+1.4.2024, 15:07:58 - INFO - Req was made | / 
+1.4.2024, 15:07:58 - DEBUG - Getting Toys | {"name":"","maxPrice":"0"} | {"name":1} 
+1.4.2024, 15:08:12 - INFO - server.js loaded... 
+1.4.2024, 15:08:12 - INFO - Server is running on port: 3030 
+1.4.2024, 15:08:13 - INFO - server.js loaded... 
+1.4.2024, 15:08:13 - INFO - Server is running on port: 3030 
+1.4.2024, 15:08:14 - INFO - Req was made | / 
+1.4.2024, 15:08:14 - DEBUG - Getting Toys | {"name":"","maxPrice":"0"} | {"name":1} 
+1.4.2024, 15:08:14 - INFO - Req was made | / 
+1.4.2024, 15:08:14 - DEBUG - Getting Toys | {"name":"","maxPrice":"0"} | {"name":1} 
+1.4.2024, 15:08:15 - INFO - Req was made | / 
+1.4.2024, 15:08:15 - DEBUG - Getting Toys | {"name":"","maxPrice":"0"} | {"name":1} 
+1.4.2024, 15:08:16 - ERROR - Failed to get toy | TypeError: Class constructor ObjectId cannot be invoked without 'new' 
+1.4.2024, 15:08:16 - ERROR - while finding toy 6609b7779c1d8782a6c40746 | TypeError: Class constructor ObjectId cannot be invoked without 'new' 
+1.4.2024, 15:08:16 - INFO - Req was made | / 
+1.4.2024, 15:08:16 - DEBUG - Getting Toys | {"name":"","maxPrice":"0"} | {"name":1} 
+1.4.2024, 15:08:16 - INFO - Req was made | / 
+1.4.2024, 15:08:16 - DEBUG - Getting Toys | {"name":"","maxPrice":"0"} | {"name":1} 
+1.4.2024, 15:08:16 - INFO - Req was made | / 
+1.4.2024, 15:08:16 - DEBUG - Getting Toys | {"name":"","maxPrice":"0"} | {"name":1} 
+1.4.2024, 15:08:28 - INFO - server.js loaded... 
+1.4.2024, 15:08:28 - INFO - Server is running on port: 3030 
+1.4.2024, 15:08:32 - INFO - server.js loaded... 
+1.4.2024, 15:08:32 - INFO - Server is running on port: 3030 
+1.4.2024, 15:08:34 - INFO - server.js loaded... 
+1.4.2024, 15:08:34 - INFO - Server is running on port: 3030 
+1.4.2024, 15:08:35 - INFO - Req was made | / 
+1.4.2024, 15:08:35 - DEBUG - Getting Toys | {"name":"","maxPrice":"0"} | {"name":1} 
+1.4.2024, 15:08:35 - INFO - Req was made | / 
+1.4.2024, 15:08:35 - DEBUG - Getting Toys | {"name":"","maxPrice":"0"} | {"name":1} 
+1.4.2024, 15:08:35 - INFO - Req was made | / 
+1.4.2024, 15:08:35 - DEBUG - Getting Toys | {"name":"","maxPrice":"0"} | {"name":1} 
+1.4.2024, 15:08:37 - ERROR - while finding toy 6609b7779c1d8782a6c40746 | TypeError: Class constructor ObjectId cannot be invoked without 'new' 
+1.4.2024, 15:08:37 - ERROR - Failed to get toy | TypeError: Class constructor ObjectId cannot be invoked without 'new' 
+1.4.2024, 15:08:37 - INFO - Req was made | / 
+1.4.2024, 15:08:37 - DEBUG - Getting Toys | {"name":"","maxPrice":"0"} | {"name":1} 
+1.4.2024, 15:08:37 - INFO - Req was made | / 
+1.4.2024, 15:08:37 - DEBUG - Getting Toys | {"name":"","maxPrice":"0"} | {"name":1} 
+1.4.2024, 15:08:37 - INFO - Req was made | / 
+1.4.2024, 15:08:37 - DEBUG - Getting Toys | {"name":"","maxPrice":"0"} | {"name":1} 
+1.4.2024, 15:08:58 - INFO - server.js loaded... 
+1.4.2024, 15:08:58 - INFO - Server is running on port: 3030 
+1.4.2024, 15:09:02 - INFO - server.js loaded... 
+1.4.2024, 15:09:02 - INFO - Server is running on port: 3030 
+1.4.2024, 15:09:04 - INFO - Req was made | / 
+1.4.2024, 15:09:04 - DEBUG - Getting Toys | {"name":"","maxPrice":"0"} | {"name":1} 
+1.4.2024, 15:09:04 - INFO - Req was made | / 
+1.4.2024, 15:09:04 - DEBUG - Getting Toys | {"name":"","maxPrice":"0"} | {"name":1} 
+1.4.2024, 15:09:04 - INFO - Req was made | / 
+1.4.2024, 15:09:04 - DEBUG - Getting Toys | {"name":"","maxPrice":"0"} | {"name":1} 
+1.4.2024, 15:09:04 - ERROR - while finding toy 6609b7779c1d8782a6c40746 | TypeError: Class constructor ObjectId cannot be invoked without 'new' 
+1.4.2024, 15:09:04 - ERROR - Failed to get toy | TypeError: Class constructor ObjectId cannot be invoked without 'new' 
+1.4.2024, 15:09:04 - INFO - Req was made | / 
+1.4.2024, 15:09:04 - DEBUG - Getting Toys | {"name":"","maxPrice":"0"} | {"name":1} 
+1.4.2024, 15:09:04 - INFO - Req was made | / 
+1.4.2024, 15:09:04 - DEBUG - Getting Toys | {"name":"","maxPrice":"0"} | {"name":1} 
+1.4.2024, 15:09:05 - INFO - Req was made | / 
+1.4.2024, 15:09:05 - DEBUG - Getting Toys | {"name":"","maxPrice":"0"} | {"name":1} 
+1.4.2024, 15:09:15 - INFO - server.js loaded... 
+1.4.2024, 15:09:15 - INFO - Server is running on port: 3030 
+1.4.2024, 15:09:17 - INFO - Req was made | / 
+1.4.2024, 15:09:17 - DEBUG - Getting Toys | {"name":"","maxPrice":"0"} | {"name":1} 
+1.4.2024, 15:09:17 - INFO - Req was made | / 
+1.4.2024, 15:09:17 - DEBUG - Getting Toys | {"name":"","maxPrice":"0"} | {"name":1} 
+1.4.2024, 15:09:17 - INFO - Req was made | / 
+1.4.2024, 15:09:17 - DEBUG - Getting Toys | {"name":"","maxPrice":"0"} | {"name":1} 
+1.4.2024, 15:09:18 - ERROR - while finding toy 6609b7779c1d8782a6c40746 | TypeError: Class constructor ObjectId cannot be invoked without 'new' 
+1.4.2024, 15:09:18 - ERROR - Failed to get toy | TypeError: Class constructor ObjectId cannot be invoked without 'new' 
+1.4.2024, 15:09:18 - INFO - Req was made | / 
+1.4.2024, 15:09:18 - DEBUG - Getting Toys | {"name":"","maxPrice":"0"} | {"name":1} 
+1.4.2024, 15:09:18 - DEBUG - Getting Toys | {"name":"","maxPrice":"0"} | {"name":1} 
+1.4.2024, 15:09:18 - INFO - Req was made | / 
+1.4.2024, 15:09:18 - INFO - Req was made | / 
+1.4.2024, 15:09:18 - DEBUG - Getting Toys | {"name":"","maxPrice":"0"} | {"name":1} 
+1.4.2024, 15:10:02 - INFO - server.js loaded... 
+1.4.2024, 15:10:02 - INFO - Server is running on port: 3030 
+1.4.2024, 15:10:05 - INFO - Server is running on port: 3030 
+1.4.2024, 15:10:05 - INFO - server.js loaded... 
+1.4.2024, 15:10:07 - INFO - Req was made | / 
+1.4.2024, 15:10:07 - DEBUG - Getting Toys | {"name":"","maxPrice":"0"} | {"name":1} 
+1.4.2024, 15:10:07 - INFO - Req was made | / 
+1.4.2024, 15:10:07 - DEBUG - Getting Toys | {"name":"","maxPrice":"0"} | {"name":1} 
+1.4.2024, 15:10:07 - INFO - Req was made | / 
+1.4.2024, 15:10:07 - DEBUG - Getting Toys | {"name":"","maxPrice":"0"} | {"name":1} 
+1.4.2024, 15:10:09 - INFO - Req was made | / 
+1.4.2024, 15:10:09 - DEBUG - Getting Toys | {"name":"","maxPrice":"0"} | {"name":1} 
+1.4.2024, 15:10:09 - INFO - Req was made | / 
+1.4.2024, 15:10:09 - DEBUG - Getting Toys | {"name":"","maxPrice":"0"} | {"name":1} 
+1.4.2024, 15:10:09 - INFO - Req was made | / 
+1.4.2024, 15:10:09 - DEBUG - Getting Toys | {"name":"","maxPrice":"0"} | {"name":1} 
+1.4.2024, 15:10:10 - INFO - Req was made | / 
+1.4.2024, 15:10:10 - DEBUG - Getting Toys | {"name":"","maxPrice":"0"} | {"name":1} 
+1.4.2024, 15:10:10 - INFO - Req was made | / 
+1.4.2024, 15:10:10 - DEBUG - Getting Toys | {"name":"","maxPrice":"0"} | {"name":1} 
+1.4.2024, 15:10:11 - INFO - Req was made | / 
+1.4.2024, 15:10:11 - DEBUG - Getting Toys | {"name":"","maxPrice":"0"} | {"name":1} 
+1.4.2024, 15:10:11 - INFO - server.js loaded... 
+1.4.2024, 15:10:11 - INFO - Server is running on port: 3030 
+1.4.2024, 15:10:21 - INFO - Req was made | / 
+1.4.2024, 15:10:21 - DEBUG - Getting Toys | {"name":"","maxPrice":"0"} | {"name":1} 
+1.4.2024, 15:10:21 - INFO - Req was made | / 
+1.4.2024, 15:10:21 - DEBUG - Getting Toys | {"name":"","maxPrice":"0"} | {"name":1} 
+1.4.2024, 15:10:21 - INFO - Req was made | / 
+1.4.2024, 15:10:21 - DEBUG - Getting Toys | {"name":"","maxPrice":"0"} | {"name":1} 
+1.4.2024, 15:10:22 - INFO - Req was made | / 
+1.4.2024, 15:10:22 - DEBUG - Getting Toys | {"name":"","maxPrice":"0"} | {"name":1} 
+1.4.2024, 15:10:22 - INFO - Req was made | / 
+1.4.2024, 15:10:22 - DEBUG - Getting Toys | {"name":"","maxPrice":"0"} | {"name":1} 
+1.4.2024, 15:10:22 - INFO - Req was made | / 
+1.4.2024, 15:10:22 - DEBUG - Getting Toys | {"name":"","maxPrice":"0"} | {"name":1} 
+1.4.2024, 15:10:29 - INFO - server.js loaded... 
+1.4.2024, 15:10:29 - INFO - Server is running on port: 3030 
+1.4.2024, 15:10:36 - INFO - server.js loaded... 
+1.4.2024, 15:10:36 - INFO - Server is running on port: 3030 
+1.4.2024, 15:10:36 - INFO - server.js loaded... 
+1.4.2024, 15:10:36 - INFO - Server is running on port: 3030 
+1.4.2024, 15:10:37 - INFO - server.js loaded... 
+1.4.2024, 15:10:37 - INFO - Server is running on port: 3030 
+1.4.2024, 15:10:42 - INFO - Server is running on port: 3030 
+1.4.2024, 15:10:42 - INFO - server.js loaded... 
+1.4.2024, 15:10:42 - INFO - server.js loaded... 
+1.4.2024, 15:10:42 - INFO - Server is running on port: 3030 
+1.4.2024, 15:10:45 - INFO - server.js loaded... 
+1.4.2024, 15:10:45 - INFO - Server is running on port: 3030 
+1.4.2024, 15:10:49 - INFO - server.js loaded... 
+1.4.2024, 15:10:49 - INFO - Server is running on port: 3030 
+1.4.2024, 15:10:51 - INFO - server.js loaded... 
+1.4.2024, 15:10:51 - INFO - Server is running on port: 3030 
+1.4.2024, 15:10:53 - DEBUG - auth.service - login with username: Admin 
+1.4.2024, 15:10:54 - INFO - User login:  | {"_id":"6609b57a6917e18112abfa33","username":"Admin","fullname":"Admin Admin","isAdmin":true} 
+1.4.2024, 15:10:54 - INFO - Req was made | / 
+1.4.2024, 15:10:54 - DEBUG - Getting Toys | {"name":"","maxPrice":"0"} | {"name":1} 
+1.4.2024, 15:10:54 - INFO - Req was made | / 
+1.4.2024, 15:10:54 - DEBUG - Getting Toys | {"name":"","maxPrice":"0"} | {"name":1} 
+1.4.2024, 15:10:54 - INFO - Req was made | / 
+1.4.2024, 15:10:54 - DEBUG - Getting Toys | {"name":"","maxPrice":"0"} | {"name":1} 
+1.4.2024, 15:11:04 - INFO - Req was made | / 
+1.4.2024, 15:11:04 - DEBUG - Getting Toys | {"name":"","maxPrice":"0"} | {"name":1} 
+1.4.2024, 15:11:04 - INFO - Req was made | / 
+1.4.2024, 15:11:04 - DEBUG - Getting Toys | {"name":"","maxPrice":"0"} | {"name":1} 
+1.4.2024, 15:11:04 - INFO - Req was made | / 
+1.4.2024, 15:11:04 - DEBUG - Getting Toys | {"name":"","maxPrice":"0"} | {"name":1} 
+1.4.2024, 15:11:07 - INFO - Req was made | / 
+1.4.2024, 15:11:07 - DEBUG - Getting Toys | {"name":"","maxPrice":"0"} | {"name":1} 
+1.4.2024, 15:11:07 - INFO - Req was made | / 
+1.4.2024, 15:11:07 - DEBUG - Getting Toys | {"name":"","maxPrice":"0"} | {"name":1} 
+1.4.2024, 15:11:07 - INFO - Req was made | / 
+1.4.2024, 15:11:07 - DEBUG - Getting Toys | {"name":"","maxPrice":"0"} | {"name":1} 
