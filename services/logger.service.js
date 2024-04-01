@@ -1,45 +1,51 @@
-import fs  from 'fs'
+import fs from 'fs'
+import {asyncLocalStorage} from './als.service.js'
+
 
 const logsDir = './logs'
 if (!fs.existsSync(logsDir)) {
     fs.mkdirSync(logsDir)
 }
 
-export const logger = {
-    debug(...args) {
-        if (process.env.NODE_NEV === 'production') return
-        _doLog('DEBUG', ...args)
-    },
-    info(...args) {
-        _doLog('INFO', ...args)
-    },
-    warn(...args) {
-        _doLog('WARN', ...args)
-    },
-    error(...args) {
-        _doLog('ERROR', ...args)
-    }
-}
-
-function _getTime() {
+//define the time format
+function getTime() {
     let now = new Date()
-    return now.toLocaleString('he') //define the time format
+    return now.toLocaleString('he')
 }
 
-function _isError(e) {
+function isError(e) {
     return e && e.stack && e.message
 }
 
-function _doLog(level, ...args) {
+function doLog(level, ...args) {
 
     const strs = args.map(arg =>
-        (typeof arg === 'string' || _isError(arg)) ? arg : JSON.stringify(arg)
+        (typeof arg === 'string' || isError(arg)) ? arg : JSON.stringify(arg)
     )
 
     var line = strs.join(' | ')
-    line = `${_getTime()} - ${level} - ${line} \n`
+    const store = asyncLocalStorage.getStore()
+    const userId = store?.loggedinUser?._id
+    const str = userId ? `(userId: ${userId})` : ''
+    line = `${getTime()} - ${level} - ${line} ${str}\n`
     console.log(line)
     fs.appendFile('./logs/backend.log', line, (err) =>{
         if (err) console.log('FATAL: cannot write to log file')
     })
+}
+
+export const logger = {
+    debug(...args) {
+        if (process.env.NODE_NEV === 'production') return
+        doLog('DEBUG', ...args)
+    },
+    info(...args) {
+        doLog('INFO', ...args)
+    },
+    warn(...args) {
+        doLog('WARN', ...args)
+    },
+    error(...args) {
+        doLog('ERROR', ...args)
+    }
 }

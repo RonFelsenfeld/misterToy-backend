@@ -1,5 +1,6 @@
-import { userService } from './user.service.js'
-import { logger } from '../../services/logger.service.js'
+import {userService} from './user.service.js'
+import {logger} from '../../services/logger.service.js'
+import {socketService} from '../../services/socket.service.js'
 
 export async function getUser(req, res) {
     try {
@@ -7,7 +8,7 @@ export async function getUser(req, res) {
         res.send(user)
     } catch (err) {
         logger.error('Failed to get user', err)
-        res.status(500).send({ err: 'Failed to get user' })
+        res.status(400).send({ err: 'Failed to get user' })
     }
 }
 
@@ -21,7 +22,7 @@ export async function getUsers(req, res) {
         res.send(users)
     } catch (err) {
         logger.error('Failed to get users', err)
-        res.status(500).send({ err: 'Failed to get users' })
+        res.status(400).send({ err: 'Failed to get users' })
     }
 }
 
@@ -31,7 +32,7 @@ export async function deleteUser(req, res) {
         res.send({ msg: 'Deleted successfully' })
     } catch (err) {
         logger.error('Failed to delete user', err)
-        res.status(500).send({ err: 'Failed to delete user' })
+        res.status(400).send({ err: 'Failed to delete user' })
     }
 }
 
@@ -42,6 +43,6 @@ export async function updateUser(req, res) {
         res.send(savedUser)
     } catch (err) {
         logger.error('Failed to update user', err)
-        res.status(500).send({ err: 'Failed to update user' })
+        res.status(400).send({ err: 'Failed to update user' })
     }
 }

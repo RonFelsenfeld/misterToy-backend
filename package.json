@@ -7,7 +7,7 @@
     "scripts": {
         "start": "nodemon server.js",
         "dev": "nodemon server.js",
-        "prod": "set NODE_ENV=production&&node server.js"
+        "prod": "export NODE_ENV=production && node server.js"
     },
     "author": "Me",
     "license": "ISC",
@@ -17,9 +17,10 @@
         "cors": "^2.8.5",
         "cryptr": "^6.0.3",
         "express": "^4.17.1",
-        "mongodb": "^6.3.0"
+        "mongodb": "^6.3.0",
+        "socket.io": "^4.2.0"
     },
     "devDependencies": {
-        "nodemon": "^2.0.20"
+        "nodemon": "^3.1.0"
     }
 }

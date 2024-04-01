@@ -1,8 +1,10 @@
 import express from 'express'
-import { login, signup, logout } from './auth.controller.js'
+import {login, signup, logout} from './auth.controller.js'
 
-export const authRoutes = express.Router()
+const router = express.Router()
 
-authRoutes.post('/login', login)
-authRoutes.post('/signup', signup)
-authRoutes.post('/logout', logout)
+router.post('/login', login)
+router.post('/signup', signup)
+router.post('/logout', logout)
+
+export const authRoutes = router
