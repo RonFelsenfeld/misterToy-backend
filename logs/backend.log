@@ -1357,3 +1357,66 @@
 1.4.2024, 21:17:04 - DEBUG - Getting Toys | {"name":"","maxPrice":"0"} | {"name":1} (userId: 6609b57a6917e18112abfa33)
 1.4.2024, 21:17:04 - INFO - Sample Logger Middleware (userId: 6609b57a6917e18112abfa33)
 1.4.2024, 21:17:04 - DEBUG - Getting Toys | {"name":"","maxPrice":"0"} | {"name":1} (userId: 6609b57a6917e18112abfa33)
+1.4.2024, 21:33:03 - INFO - Server is running on port: 3030 
+1.4.2024, 21:33:04 - INFO - Server is running on port: 3030 
+1.4.2024, 21:33:12 - INFO - Server is running on port: 3030 
+1.4.2024, 21:33:15 - INFO - Server is running on port: 3030 
+1.4.2024, 21:33:19 - INFO - Server is running on port: 3030 
+1.4.2024, 21:33:23 - INFO - Sample Logger Middleware (userId: 6609b57a6917e18112abfa33)
+1.4.2024, 21:33:23 - DEBUG - Getting Toys | {"name":"","maxPrice":"0"} | {"name":1} (userId: 6609b57a6917e18112abfa33)
+1.4.2024, 21:33:26 - INFO - Sample Logger Middleware (userId: 6609b57a6917e18112abfa33)
+1.4.2024, 21:33:26 - DEBUG - Getting Toys | {"name":"","maxPrice":"0"} | {"name":1} (userId: 6609b57a6917e18112abfa33)
+1.4.2024, 21:33:26 - INFO - Sample Logger Middleware (userId: 6609b57a6917e18112abfa33)
+1.4.2024, 21:33:26 - DEBUG - Getting Toys | {"name":"","maxPrice":"0"} | {"name":1} (userId: 6609b57a6917e18112abfa33)
+1.4.2024, 21:36:06 - INFO - Sample Logger Middleware (userId: 6609b57a6917e18112abfa33)
+1.4.2024, 21:36:06 - DEBUG - Getting Toys | {"name":"","maxPrice":"0"} | {"name":1} (userId: 6609b57a6917e18112abfa33)
+1.4.2024, 21:36:06 - INFO - Sample Logger Middleware (userId: 6609b57a6917e18112abfa33)
+1.4.2024, 21:36:06 - DEBUG - Getting Toys | {"name":"","maxPrice":"0"} | {"name":1} (userId: 6609b57a6917e18112abfa33)
+1.4.2024, 21:36:06 - INFO - Sample Logger Middleware (userId: 6609b57a6917e18112abfa33)
+1.4.2024, 21:36:06 - DEBUG - Getting Toys | {"name":"","maxPrice":"0"} | {"name":1} (userId: 6609b57a6917e18112abfa33)
+1.4.2024, 21:36:07 - INFO - Sample Logger Middleware (userId: 6609b57a6917e18112abfa33)
+1.4.2024, 21:36:09 - INFO - Sample Logger Middleware (userId: 6609b57a6917e18112abfa33)
+1.4.2024, 21:36:09 - DEBUG - Getting Toys | {"name":"","maxPrice":"0"} | {"name":1} (userId: 6609b57a6917e18112abfa33)
+1.4.2024, 21:36:09 - DEBUG - Getting Toys | {"name":"","maxPrice":"0"} | {"name":1} (userId: 6609b57a6917e18112abfa33)
+1.4.2024, 21:36:09 - INFO - Sample Logger Middleware (userId: 6609b57a6917e18112abfa33)
+1.4.2024, 21:36:09 - DEBUG - Getting Toys | {"name":"","maxPrice":"0"} | {"name":1} (userId: 6609b57a6917e18112abfa33)
+1.4.2024, 21:36:09 - INFO - Sample Logger Middleware (userId: 6609b57a6917e18112abfa33)
+1.4.2024, 21:37:24 - DEBUG - Getting Toys | {"name":"","maxPrice":"0"} | {"name":1} (userId: 6609b57a6917e18112abfa33)
+1.4.2024, 21:37:24 - INFO - Sample Logger Middleware (userId: 6609b57a6917e18112abfa33)
+1.4.2024, 21:37:24 - INFO - Sample Logger Middleware (userId: 6609b57a6917e18112abfa33)
+1.4.2024, 21:37:24 - DEBUG - Getting Toys | {"name":"","maxPrice":"0"} | {"name":1} (userId: 6609b57a6917e18112abfa33)
+1.4.2024, 21:37:25 - INFO - Sample Logger Middleware (userId: 6609b57a6917e18112abfa33)
+1.4.2024, 21:37:25 - DEBUG - Getting Toys | {"name":"","maxPrice":"0"} | {"name":1} (userId: 6609b57a6917e18112abfa33)
+1.4.2024, 21:38:04 - INFO - Server is running on port: 3030 
+1.4.2024, 21:38:06 - INFO - Sample Logger Middleware (userId: 6609b57a6917e18112abfa33)
+1.4.2024, 21:38:06 - DEBUG - Getting Toys | {"name":"","maxPrice":"0"} | {"name":1} (userId: 6609b57a6917e18112abfa33)
+1.4.2024, 21:38:07 - INFO - Sample Logger Middleware (userId: 6609b57a6917e18112abfa33)
+1.4.2024, 21:38:07 - DEBUG - Getting Toys | {"name":"","maxPrice":"0"} | {"name":1} (userId: 6609b57a6917e18112abfa33)
+1.4.2024, 21:38:07 - INFO - Sample Logger Middleware (userId: 6609b57a6917e18112abfa33)
+1.4.2024, 21:38:07 - DEBUG - Getting Toys | {"name":"","maxPrice":"0"} | {"name":1} (userId: 6609b57a6917e18112abfa33)
+1.4.2024, 21:38:15 - INFO - Server is running on port: 3030 
+1.4.2024, 21:38:32 - INFO - Server is running on port: 3030 
+1.4.2024, 21:38:39 - INFO - Sample Logger Middleware (userId: 6609b57a6917e18112abfa33)
+1.4.2024, 21:38:39 - DEBUG - Getting Toys | {"name":"","maxPrice":"0"} | {"name":1} (userId: 6609b57a6917e18112abfa33)
+1.4.2024, 21:38:39 - INFO - Sample Logger Middleware (userId: 6609b57a6917e18112abfa33)
+1.4.2024, 21:38:39 - DEBUG - Getting Toys | {"name":"","maxPrice":"0"} | {"name":1} (userId: 6609b57a6917e18112abfa33)
+1.4.2024, 21:38:39 - INFO - Sample Logger Middleware (userId: 6609b57a6917e18112abfa33)
+1.4.2024, 21:38:39 - DEBUG - Getting Toys | {"name":"","maxPrice":"0"} | {"name":1} (userId: 6609b57a6917e18112abfa33)
+1.4.2024, 21:44:58 - INFO - Server is running on port: 3030 
+1.4.2024, 21:45:02 - INFO - Server is running on port: 3030 
+1.4.2024, 21:45:05 - INFO - Server is running on port: 3030 
+1.4.2024, 21:45:09 - INFO - Sample Logger Middleware (userId: 6609b57a6917e18112abfa33)
+1.4.2024, 21:45:09 - DEBUG - Getting Toys | {"name":"","maxPrice":"0"} | {"name":1} (userId: 6609b57a6917e18112abfa33)
+1.4.2024, 21:45:10 - INFO - Sample Logger Middleware (userId: 6609b57a6917e18112abfa33)
+1.4.2024, 21:45:10 - DEBUG - Getting Toys | {"name":"","maxPrice":"0"} | {"name":1} (userId: 6609b57a6917e18112abfa33)
+1.4.2024, 21:45:10 - INFO - Sample Logger Middleware (userId: 6609b57a6917e18112abfa33)
+1.4.2024, 21:45:10 - DEBUG - Getting Toys | {"name":"","maxPrice":"0"} | {"name":1} (userId: 6609b57a6917e18112abfa33)
+1.4.2024, 21:45:50 - DEBUG - auth.service - login with username: Admin 
+1.4.2024, 21:45:50 - INFO - User login:  | {"_id":"6609b57a6917e18112abfa33","username":"Admin","fullname":"Admin Admin","isAdmin":true} 
+1.4.2024, 21:45:51 - INFO - Sample Logger Middleware (userId: 6609b57a6917e18112abfa33)
+1.4.2024, 21:45:51 - DEBUG - Getting Toys | {"name":"","maxPrice":"0"} | {"name":1} (userId: 6609b57a6917e18112abfa33)
+1.4.2024, 21:45:51 - INFO - Sample Logger Middleware (userId: 6609b57a6917e18112abfa33)
+1.4.2024, 21:45:51 - DEBUG - Getting Toys | {"name":"","maxPrice":"0"} | {"name":1} (userId: 6609b57a6917e18112abfa33)
+1.4.2024, 21:45:51 - INFO - Sample Logger Middleware (userId: 6609b57a6917e18112abfa33)
+1.4.2024, 21:45:51 - DEBUG - Getting Toys | {"name":"","maxPrice":"0"} | {"name":1} (userId: 6609b57a6917e18112abfa33)
+1.4.2024, 21:48:05 - INFO - Server is running on port: 3030 

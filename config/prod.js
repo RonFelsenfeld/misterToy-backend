@@ -1,6 +1,6 @@
 export default {
   dbURL:
     process.env.MONGO_URL ||
-    'mongodb+srv://theUser:thePass@cluster0-klgzh.mongodb.net/test?retryWrites=true&w=majority',
+    'mongodb+srv://ronF:ron123@mistertoy-cluster.tbahger.mongodb.net/?retryWrites=true&w=majority&appName=misterToy-cluster',
   dbName: process.env.DB_NAME || 'misterToy_db',
 }
