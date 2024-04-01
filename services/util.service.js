@@ -1,7 +1,6 @@
 function makeId(length = 5) {
   var txt = ''
-  var possible =
-    'ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789'
+  var possible = 'ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789'
   for (let i = 0; i < length; i++) {
     txt += possible.charAt(Math.floor(Math.random() * possible.length))
   }
@@ -57,7 +56,7 @@ function generateRandomName() {
     'wing',
     'yang',
     'snow',
-    'fire'
+    'fire',
   ]
   return (
     names[Math.floor(Math.random() * names.length)] +
@@ -97,7 +96,6 @@ function timeAgo(ms = new Date()) {
   }
 }
 
-
 function randomPastTime() {
   const HOUR = 1000 * 60 * 60
   const DAY = 1000 * 60 * 60 * 24
@@ -107,6 +105,19 @@ function randomPastTime() {
   return Date.now() - pastTime
 }
 
+function getRndImgUrl() {
+  const imgUrls = [
+    'https://res.cloudinary.com/df6vvhhoj/image/upload/e_bgremoval/v1711993948/1_jrw7mx.png',
+    'https://res.cloudinary.com/df6vvhhoj/image/upload/e_bgremoval/v1711993943/6_ako0rs.png',
+    'https://res.cloudinary.com/df6vvhhoj/image/upload/e_bgremoval/v1711993942/3_bam3jl.png',
+    'https://res.cloudinary.com/df6vvhhoj/image/upload/e_bgremoval/v1711993942/7_jriwsa.png',
+    'https://res.cloudinary.com/df6vvhhoj/image/upload/e_bgremoval/v1711993941/4_mineon.png',
+    'https://res.cloudinary.com/df6vvhhoj/image/upload/e_bgremoval/v1711993940/2_ikkdwb.png',
+  ]
+
+  return imgUrls[getRandomInt(0, imgUrls.length - 1)]
+}
+
 export const utilService = {
   makeId,
   getRandomInt,
@@ -114,5 +125,6 @@ export const utilService = {
   generateRandomName,
   timeAgo,
   generateRandomImg,
-  randomPastTime
+  randomPastTime,
+  getRndImgUrl,
 }

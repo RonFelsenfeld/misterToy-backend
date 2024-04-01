@@ -58,6 +58,7 @@ async function remove(toyId) {
 
 async function add(toy) {
   try {
+    toy.imgUrl = utilService.getRndImgUrl()
     const collection = await dbService.getCollection('toys')
     await collection.insertOne(toy)
     console.log(toy)
