@@ -98,6 +98,8 @@ async function add(review) {
 function _buildCriteria(filterBy) {
   const criteria = {}
   if (filterBy.toyId) criteria.toyId = new ObjectId(filterBy.toyId)
+  if (filterBy.userId) criteria.userId = new ObjectId(filterBy.userId)
+
   return criteria
 }
 
