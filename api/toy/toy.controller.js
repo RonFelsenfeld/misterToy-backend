@@ -1,5 +1,6 @@
 import { toyService } from './toy.service.js'
 import { logger } from '../../services/logger.service.js'
+import { socketService } from '../../services/socket.service.js'
 
 export async function getToys(req, res) {
   try {
@@ -89,6 +90,7 @@ export async function addToyMsg(req, res) {
     }
 
     const savedMsg = await toyService.addToyMsg(toyId, msg)
+
     res.json(savedMsg)
   } catch (err) {
     logger.error('Failed to update toy', err)
@@ -97,9 +99,13 @@ export async function addToyMsg(req, res) {
 }
 
 export async function removeToyMsg(req, res) {
+  const { loggedinUser } = req
+
   try {
     const { toyId, msgId } = req.params
     const removedId = await toyService.removeToyMsg(toyId, msgId)
+
+    socketService.broadcast({ type: 'review-removed', data: msgId, userId: loggedinUser._id })
     res.send(removedId)
   } catch (err) {
     logger.error('Failed to remove toy msg', err)

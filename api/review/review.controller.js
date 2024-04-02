@@ -50,15 +50,7 @@ export async function addReview(req, res) {
     const loginToken = authService.getLoginToken(loggedinUser)
     res.cookie('loginToken', loginToken)
 
-    // socketService.broadcast({ type: 'review-added', data: review, userId: loggedinUser._id })
-    // socketService.emitToUser({
-    //   type: 'review-about-you',
-    //   data: review,
-    //   userId: review.aboutUser._id,
-    // })
-
-    // const fullUser = await userService.getById(loggedinUser._id)
-    // socketService.emitTo({ type: 'user-updated', data: fullUser, label: fullUser._id })
+    socketService.broadcast({ type: 'review-added', data: review, userId: loggedinUser._id })
 
     res.send(review)
   } catch (err) {
