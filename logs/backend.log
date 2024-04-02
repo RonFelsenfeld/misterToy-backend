@@ -3910,3 +3910,18 @@
 2.4.2024, 18:42:09 - INFO - Remove chat msg from socket [id: naNsSQmttopuGdrIAAAH], emitting to topic 6606b15bdb0e180b7ef3228b 
 2.4.2024, 18:42:09 - INFO - Broadcasting event: chat-delete-msg 
 2.4.2024, 18:42:09 - INFO - Broadcast to room 6606b15bdb0e180b7ef3228b excluding user: 6609b57a6917e18112abfa33 
+2.4.2024, 18:44:12 - INFO - Server is running on port: 3030 
+2.4.2024, 18:44:13 - INFO - New connected socket [id: bdRkk7idY0jxIlHkAAAB] 
+2.4.2024, 18:44:14 - INFO - New connected socket [id: -7rZcB0ZtIGaFUC8AAAD] 
+2.4.2024, 18:51:06 - INFO - Server is running on port: 3030 
+2.4.2024, 18:51:07 - INFO - New connected socket [id: o8S9binjtYCGCqVgAAAB] 
+2.4.2024, 18:51:07 - INFO - New connected socket [id: TbX9Kx65xw4KViiGAAAD] 
+2.4.2024, 18:51:15 - INFO - Server is running on port: 3030 
+2.4.2024, 18:51:15 - INFO - New connected socket [id: JckGpJxFrPXITw2_AAAB] 
+2.4.2024, 18:51:16 - INFO - New connected socket [id: EX3J3ofxRRrkyr8uAAAD] 
+2.4.2024, 18:51:24 - INFO - Server is running on port: 3030 
+2.4.2024, 18:51:25 - INFO - New connected socket [id: x6LcwoBq8j4sXTy3AAAB] 
+2.4.2024, 18:51:25 - INFO - New connected socket [id: KRof_UJW8zARLip8AAAD] 
+2.4.2024, 18:51:39 - INFO - Server is running on port: 3030 
+2.4.2024, 18:51:39 - INFO - New connected socket [id: 1_pKj4xqN39lQ6D3AAAB] 
+2.4.2024, 18:51:40 - INFO - New connected socket [id: fpo7i45ZSt1Stv3EAAAD] 
