@@ -81,6 +81,7 @@ export async function removeToy(req, res) {
 
 export async function addToyMsg(req, res) {
   const { loggedinUser } = req
+
   try {
     const { toyId } = req.params
 

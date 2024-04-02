@@ -3925,3 +3925,920 @@
 2.4.2024, 18:51:39 - INFO - Server is running on port: 3030 
 2.4.2024, 18:51:39 - INFO - New connected socket [id: 1_pKj4xqN39lQ6D3AAAB] 
 2.4.2024, 18:51:40 - INFO - New connected socket [id: fpo7i45ZSt1Stv3EAAAD] 
+2.4.2024, 18:52:13 - INFO - Socket disconnected [id: undefined] 
+2.4.2024, 18:52:19 - INFO - Socket disconnected [id: undefined] 
+2.4.2024, 18:53:54 - INFO - New connected socket [id: jUbJjhs5_UYbxXXLAAAF] 
+2.4.2024, 18:53:54 - INFO - Sample Logger Middleware 
+2.4.2024, 18:53:54 - DEBUG - Getting Toys | {"name":"","maxPrice":"0"} | {"name":1} 
+2.4.2024, 18:53:54 - INFO - Socket disconnected [id: undefined] 
+2.4.2024, 19:01:41 - INFO - Server is running on port: 3030 
+2.4.2024, 19:01:45 - INFO - New connected socket [id: md7Ha0CeuewGU0cDAAAB] 
+2.4.2024, 19:02:09 - DEBUG - auth.service - login with username: Admin (userId: 6609b57a6917e18112abfa33)
+2.4.2024, 19:02:10 - INFO - User login:  | {"_id":"6609b57a6917e18112abfa33","username":"Admin","fullname":"Admin Admin","isAdmin":true} (userId: 6609b57a6917e18112abfa33)
+2.4.2024, 19:02:10 - INFO - Sample Logger Middleware (userId: 6609b57a6917e18112abfa33)
+2.4.2024, 19:02:10 - DEBUG - Getting Toys | {"name":"","maxPrice":"0"} | {"name":1} (userId: 6609b57a6917e18112abfa33)
+2.4.2024, 19:02:10 - INFO - Sample Logger Middleware (userId: 6609b57a6917e18112abfa33)
+2.4.2024, 19:02:10 - DEBUG - Getting Toys | {"name":"","maxPrice":"0"} | {"name":1} (userId: 6609b57a6917e18112abfa33)
+2.4.2024, 19:02:10 - INFO - Sample Logger Middleware (userId: 6609b57a6917e18112abfa33)
+2.4.2024, 19:02:10 - DEBUG - Getting Toys | {"name":"","maxPrice":"0"} | {"name":1} (userId: 6609b57a6917e18112abfa33)
+2.4.2024, 19:02:14 - INFO - Sample Logger Middleware (userId: 6609b57a6917e18112abfa33)
+2.4.2024, 19:02:25 - INFO - New connected socket [id: XwZIROZIAWu2pR1uAAAD] 
+2.4.2024, 19:02:25 - INFO - Sample Logger Middleware 
+2.4.2024, 19:12:16 - INFO - Server is running on port: 3030 
+2.4.2024, 19:12:17 - INFO - New connected socket [id: lE1itBDgQ09CkjRoAAAB] 
+2.4.2024, 19:12:19 - INFO - New connected socket [id: SKJ9s6dz6TXKa90dAAAD] 
+2.4.2024, 19:12:20 - INFO - New connected socket [id: MvkVsstXIvZMFIwPAAAF] 
+2.4.2024, 19:12:20 - INFO - Setting socket.userId = 6609b57a6917e18112abfa33 for socket [id: MvkVsstXIvZMFIwPAAAF] 
+2.4.2024, 19:13:52 - INFO - Server is running on port: 3030 
+2.4.2024, 19:13:53 - INFO - New connected socket [id: aD5RNValgtBa6pY-AAAB] 
+2.4.2024, 19:13:53 - INFO - New connected socket [id: RLRjr4q_TQEVmEk0AAAD] 
+2.4.2024, 19:13:53 - INFO - New connected socket [id: pujfE4mHMDnZCMG0AAAF] 
+2.4.2024, 19:13:56 - INFO - Socket disconnected [id: undefined] 
+2.4.2024, 19:13:56 - INFO - New connected socket [id: RcHbexAttI1QMR5FAAAH] 
+2.4.2024, 19:13:56 - INFO - Sample Logger Middleware (userId: 6609b57a6917e18112abfa33)
+2.4.2024, 19:13:56 - DEBUG - Getting Toys | {"name":"","maxPrice":"0"} | {"name":1} (userId: 6609b57a6917e18112abfa33)
+2.4.2024, 19:13:56 - INFO - Setting socket.userId = 6609b57a6917e18112abfa33 for socket [id: RcHbexAttI1QMR5FAAAH] 
+2.4.2024, 19:13:56 - INFO - Sample Logger Middleware (userId: 6609b57a6917e18112abfa33)
+2.4.2024, 19:13:56 - DEBUG - Getting Toys | {"name":"","maxPrice":"0"} | {"name":1} (userId: 6609b57a6917e18112abfa33)
+2.4.2024, 19:13:56 - INFO - Sample Logger Middleware (userId: 6609b57a6917e18112abfa33)
+2.4.2024, 19:13:56 - DEBUG - Getting Toys | {"name":"","maxPrice":"0"} | {"name":1} (userId: 6609b57a6917e18112abfa33)
+2.4.2024, 19:14:07 - INFO - Sample Logger Middleware (userId: 6609b57a6917e18112abfa33)
+2.4.2024, 19:14:19 - INFO - Typing chat msg from socket [id: RcHbexAttI1QMR5FAAAH], emitting to topic 660afa1fdc61d1c6bd5c2ee9 
+2.4.2024, 19:14:19 - INFO - Broadcasting event: chat-someone-typing 
+2.4.2024, 19:14:19 - INFO - Broadcast to room 660afa1fdc61d1c6bd5c2ee9 excluding user: 6609b57a6917e18112abfa33 
+2.4.2024, 19:14:38 - INFO - Sample Logger Middleware (userId: 6609b57a6917e18112abfa33)
+2.4.2024, 19:14:38 - DEBUG - Getting Toys | {"name":"","maxPrice":"0"} | {"name":1} (userId: 6609b57a6917e18112abfa33)
+2.4.2024, 19:14:38 - DEBUG - Getting Toys | {"name":"","maxPrice":"0"} | {"name":1} (userId: 6609b57a6917e18112abfa33)
+2.4.2024, 19:14:38 - INFO - Sample Logger Middleware (userId: 6609b57a6917e18112abfa33)
+2.4.2024, 19:14:39 - INFO - Sample Logger Middleware (userId: 6609b57a6917e18112abfa33)
+2.4.2024, 19:14:39 - DEBUG - Getting Toys | {"name":"","maxPrice":"0"} | {"name":1} (userId: 6609b57a6917e18112abfa33)
+2.4.2024, 19:15:12 - DEBUG - auth.service - login with username: Admin 
+2.4.2024, 19:15:12 - INFO - User login:  | {"_id":"6609b57a6917e18112abfa33","username":"Admin","fullname":"Admin Admin","isAdmin":true} 
+2.4.2024, 19:15:12 - DEBUG - Getting Toys | {"name":"","maxPrice":"0"} | {"name":1} (userId: 6609b57a6917e18112abfa33)
+2.4.2024, 19:15:12 - INFO - Sample Logger Middleware (userId: 6609b57a6917e18112abfa33)
+2.4.2024, 19:15:12 - INFO - Sample Logger Middleware (userId: 6609b57a6917e18112abfa33)
+2.4.2024, 19:15:12 - DEBUG - Getting Toys | {"name":"","maxPrice":"0"} | {"name":1} (userId: 6609b57a6917e18112abfa33)
+2.4.2024, 19:15:12 - INFO - Sample Logger Middleware (userId: 6609b57a6917e18112abfa33)
+2.4.2024, 19:15:12 - DEBUG - Getting Toys | {"name":"","maxPrice":"0"} | {"name":1} (userId: 6609b57a6917e18112abfa33)
+2.4.2024, 19:15:15 - INFO - Socket disconnected [id: undefined] 
+2.4.2024, 19:15:15 - INFO - Socket disconnected [id: undefined] 
+2.4.2024, 19:15:15 - INFO - Sample Logger Middleware 
+2.4.2024, 19:15:15 - DEBUG - Getting Toys | {"name":"","maxPrice":"0"} | {"name":1} 
+2.4.2024, 19:15:15 - INFO - New connected socket [id: LZ4qTs5frxwu9bMRAAAJ] 
+2.4.2024, 19:15:15 - INFO - Sample Logger Middleware 
+2.4.2024, 19:15:15 - DEBUG - Getting Toys | {"name":"","maxPrice":"0"} | {"name":1} 
+2.4.2024, 19:15:17 - INFO - Sample Logger Middleware (userId: 6609b57a6917e18112abfa33)
+2.4.2024, 19:15:18 - INFO - Sample Logger Middleware 
+2.4.2024, 19:15:22 - INFO - Typing chat msg from socket [id: RcHbexAttI1QMR5FAAAH], emitting to topic 660afa1fdc61d1c6bd5c2ee9 
+2.4.2024, 19:15:22 - INFO - Broadcasting event: chat-someone-typing 
+2.4.2024, 19:15:22 - INFO - Broadcast to room 660afa1fdc61d1c6bd5c2ee9 excluding user: 6609b57a6917e18112abfa33 
+2.4.2024, 19:15:28 - INFO - New chat msg from socket [id: RcHbexAttI1QMR5FAAAH], emitting to topic 660afa1fdc61d1c6bd5c2ee9 
+2.4.2024, 19:15:28 - INFO - Broadcasting event: chat-add-msg 
+2.4.2024, 19:15:28 - INFO - Typing chat msg from socket [id: RcHbexAttI1QMR5FAAAH], emitting to topic 660afa1fdc61d1c6bd5c2ee9 
+2.4.2024, 19:15:28 - INFO - Broadcasting event: chat-someone-typing 
+2.4.2024, 19:15:28 - INFO - Broadcast to room 660afa1fdc61d1c6bd5c2ee9 excluding user: 6609b57a6917e18112abfa33 
+2.4.2024, 19:15:28 - INFO - Broadcast to room 660afa1fdc61d1c6bd5c2ee9 excluding user: 6609b57a6917e18112abfa33 
+2.4.2024, 19:15:29 - INFO - Broadcast to all excluding user: 6609b57a6917e18112abfa33 (userId: 6609b57a6917e18112abfa33)
+2.4.2024, 19:15:29 - INFO - Broadcasting event: review-removed (userId: 6609b57a6917e18112abfa33)
+2.4.2024, 19:15:29 - INFO - Remove chat msg from socket [id: RcHbexAttI1QMR5FAAAH], emitting to topic 660afa1fdc61d1c6bd5c2ee9 
+2.4.2024, 19:15:29 - INFO - Broadcasting event: chat-delete-msg 
+2.4.2024, 19:15:29 - INFO - Broadcast to room 660afa1fdc61d1c6bd5c2ee9 excluding user: 6609b57a6917e18112abfa33 
+2.4.2024, 19:15:53 - INFO - Server is running on port: 3030 
+2.4.2024, 19:15:54 - INFO - New connected socket [id: KeLl2g5_McEWQftaAAAB] 
+2.4.2024, 19:15:54 - INFO - New connected socket [id: NqD5o2mnPMDDlKUaAAAD] 
+2.4.2024, 19:15:55 - INFO - Server is running on port: 3030 
+2.4.2024, 19:15:55 - INFO - New connected socket [id: _xjfFjn755JuiVpuAAAB] 
+2.4.2024, 19:15:56 - INFO - New connected socket [id: 530WTgefUh0bh5ecAAAD] 
+2.4.2024, 19:17:39 - INFO - Socket disconnected [id: undefined] 
+2.4.2024, 19:20:57 - INFO - Sample Logger Middleware 
+2.4.2024, 19:20:57 - INFO - New connected socket [id: ah4U2OJMYeNmhY3SAAAF] 
+2.4.2024, 19:21:02 - INFO - Server is running on port: 3030 
+2.4.2024, 19:21:03 - INFO - New connected socket [id: iDeJSLCYqPFXrNIDAAAB] 
+2.4.2024, 19:21:04 - INFO - New connected socket [id: I0vpxVZeLmIdrTZNAAAD] 
+2.4.2024, 19:21:04 - INFO - Setting socket.userId = 6609b57a6917e18112abfa33 for socket [id: I0vpxVZeLmIdrTZNAAAD] 
+2.4.2024, 19:21:04 - INFO - Sample Logger Middleware (userId: 6609b57a6917e18112abfa33)
+2.4.2024, 19:21:05 - INFO - Socket disconnected [id: undefined] 
+2.4.2024, 19:21:05 - INFO - New connected socket [id: a3B6w2hjBTcHlSibAAAF] 
+2.4.2024, 19:21:05 - INFO - Sample Logger Middleware (userId: 6609b57a6917e18112abfa33)
+2.4.2024, 19:21:05 - INFO - Setting socket.userId = 6609b57a6917e18112abfa33 for socket [id: a3B6w2hjBTcHlSibAAAF] 
+2.4.2024, 19:21:07 - INFO - Socket disconnected [id: undefined] 
+2.4.2024, 19:21:07 - INFO - New connected socket [id: IchI73HHp6RFd_8jAAAH] 
+2.4.2024, 19:21:07 - INFO - Sample Logger Middleware 
+2.4.2024, 19:21:13 - DEBUG - auth.service - login with username: Popo 
+2.4.2024, 19:21:13 - INFO - User login:  | {"_id":"6609b67e9c1d8782a6c40745","username":"Popo","fullname":"Popo Pa","isAdmin":false} 
+2.4.2024, 19:21:13 - INFO - Sample Logger Middleware 
+2.4.2024, 19:21:13 - DEBUG - Getting Toys | {"name":"","maxPrice":"0"} | {"name":1} 
+2.4.2024, 19:21:13 - DEBUG - Getting Toys | {"name":"","maxPrice":"0"} | {"name":1} 
+2.4.2024, 19:21:13 - INFO - Sample Logger Middleware 
+2.4.2024, 19:21:14 - INFO - Sample Logger Middleware 
+2.4.2024, 19:21:14 - DEBUG - Getting Toys | {"name":"","maxPrice":"0"} | {"name":1} 
+2.4.2024, 19:21:20 - INFO - Sample Logger Middleware 
+2.4.2024, 19:21:21 - INFO - Typing chat msg from socket [id: IchI73HHp6RFd_8jAAAH], emitting to topic 660afa1fdc61d1c6bd5c2ee9 
+2.4.2024, 19:21:21 - INFO - Broadcasting event: chat-someone-typing 
+2.4.2024, 19:21:21 - INFO - Broadcast to room 660afa1fdc61d1c6bd5c2ee9 excluding user: undefined 
+2.4.2024, 19:21:22 - INFO - Typing chat msg from socket [id: IchI73HHp6RFd_8jAAAH], emitting to topic 660afa1fdc61d1c6bd5c2ee9 
+2.4.2024, 19:21:22 - INFO - Broadcasting event: chat-someone-typing 
+2.4.2024, 19:21:22 - INFO - Broadcast to room 660afa1fdc61d1c6bd5c2ee9 excluding user: undefined 
+2.4.2024, 19:21:22 - INFO - Typing chat msg from socket [id: IchI73HHp6RFd_8jAAAH], emitting to topic 660afa1fdc61d1c6bd5c2ee9 
+2.4.2024, 19:21:22 - INFO - Broadcasting event: chat-someone-typing 
+2.4.2024, 19:21:22 - INFO - Broadcast to room 660afa1fdc61d1c6bd5c2ee9 excluding user: undefined 
+2.4.2024, 19:21:22 - INFO - Typing chat msg from socket [id: IchI73HHp6RFd_8jAAAH], emitting to topic 660afa1fdc61d1c6bd5c2ee9 
+2.4.2024, 19:21:22 - INFO - Broadcast to room 660afa1fdc61d1c6bd5c2ee9 excluding user: undefined 
+2.4.2024, 19:21:22 - INFO - Broadcasting event: chat-someone-typing 
+2.4.2024, 19:21:22 - INFO - Typing chat msg from socket [id: IchI73HHp6RFd_8jAAAH], emitting to topic 660afa1fdc61d1c6bd5c2ee9 
+2.4.2024, 19:21:22 - INFO - Broadcasting event: chat-someone-typing 
+2.4.2024, 19:21:22 - INFO - Broadcast to room 660afa1fdc61d1c6bd5c2ee9 excluding user: undefined 
+2.4.2024, 19:21:23 - INFO - Typing chat msg from socket [id: IchI73HHp6RFd_8jAAAH], emitting to topic 660afa1fdc61d1c6bd5c2ee9 
+2.4.2024, 19:21:23 - INFO - Broadcasting event: chat-someone-typing 
+2.4.2024, 19:21:23 - INFO - Broadcast to room 660afa1fdc61d1c6bd5c2ee9 excluding user: undefined 
+2.4.2024, 19:21:23 - INFO - Typing chat msg from socket [id: IchI73HHp6RFd_8jAAAH], emitting to topic 660afa1fdc61d1c6bd5c2ee9 
+2.4.2024, 19:21:23 - INFO - Broadcasting event: chat-someone-typing 
+2.4.2024, 19:21:23 - INFO - Broadcast to room 660afa1fdc61d1c6bd5c2ee9 excluding user: undefined 
+2.4.2024, 19:21:23 - INFO - Broadcasting event: chat-someone-typing 
+2.4.2024, 19:21:23 - INFO - Typing chat msg from socket [id: IchI73HHp6RFd_8jAAAH], emitting to topic 660afa1fdc61d1c6bd5c2ee9 
+2.4.2024, 19:21:23 - INFO - Broadcast to room 660afa1fdc61d1c6bd5c2ee9 excluding user: undefined 
+2.4.2024, 19:21:23 - INFO - Typing chat msg from socket [id: IchI73HHp6RFd_8jAAAH], emitting to topic 660afa1fdc61d1c6bd5c2ee9 
+2.4.2024, 19:21:23 - INFO - Broadcasting event: chat-someone-typing 
+2.4.2024, 19:21:23 - INFO - Broadcast to room 660afa1fdc61d1c6bd5c2ee9 excluding user: undefined 
+2.4.2024, 19:21:23 - INFO - Broadcasting event: chat-someone-typing 
+2.4.2024, 19:21:23 - INFO - Typing chat msg from socket [id: IchI73HHp6RFd_8jAAAH], emitting to topic 660afa1fdc61d1c6bd5c2ee9 
+2.4.2024, 19:21:23 - INFO - Broadcast to room 660afa1fdc61d1c6bd5c2ee9 excluding user: undefined 
+2.4.2024, 19:21:23 - INFO - Typing chat msg from socket [id: IchI73HHp6RFd_8jAAAH], emitting to topic 660afa1fdc61d1c6bd5c2ee9 
+2.4.2024, 19:21:23 - INFO - Broadcasting event: chat-someone-typing 
+2.4.2024, 19:21:23 - INFO - Broadcast to room 660afa1fdc61d1c6bd5c2ee9 excluding user: undefined 
+2.4.2024, 19:21:24 - INFO - Typing chat msg from socket [id: IchI73HHp6RFd_8jAAAH], emitting to topic 660afa1fdc61d1c6bd5c2ee9 
+2.4.2024, 19:21:24 - INFO - Broadcasting event: chat-someone-typing 
+2.4.2024, 19:21:24 - INFO - Broadcast to room 660afa1fdc61d1c6bd5c2ee9 excluding user: undefined 
+2.4.2024, 19:21:24 - INFO - Broadcasting event: chat-someone-typing 
+2.4.2024, 19:21:24 - INFO - Broadcast to room 660afa1fdc61d1c6bd5c2ee9 excluding user: undefined 
+2.4.2024, 19:21:24 - INFO - Typing chat msg from socket [id: IchI73HHp6RFd_8jAAAH], emitting to topic 660afa1fdc61d1c6bd5c2ee9 
+2.4.2024, 19:21:24 - INFO - Typing chat msg from socket [id: IchI73HHp6RFd_8jAAAH], emitting to topic 660afa1fdc61d1c6bd5c2ee9 
+2.4.2024, 19:21:24 - INFO - Broadcasting event: chat-someone-typing 
+2.4.2024, 19:21:24 - INFO - Broadcast to room 660afa1fdc61d1c6bd5c2ee9 excluding user: undefined 
+2.4.2024, 19:23:10 - INFO - Typing chat msg from socket [id: IchI73HHp6RFd_8jAAAH], emitting to topic 660afa1fdc61d1c6bd5c2ee9 
+2.4.2024, 19:23:10 - INFO - Broadcasting event: chat-someone-typing 
+2.4.2024, 19:23:10 - INFO - Broadcast to room 660afa1fdc61d1c6bd5c2ee9 excluding user: undefined 
+2.4.2024, 19:23:11 - INFO - Typing chat msg from socket [id: IchI73HHp6RFd_8jAAAH], emitting to topic 660afa1fdc61d1c6bd5c2ee9 
+2.4.2024, 19:23:11 - INFO - Broadcasting event: chat-someone-typing 
+2.4.2024, 19:23:11 - INFO - Broadcast to room 660afa1fdc61d1c6bd5c2ee9 excluding user: undefined 
+2.4.2024, 19:23:11 - INFO - Typing chat msg from socket [id: IchI73HHp6RFd_8jAAAH], emitting to topic 660afa1fdc61d1c6bd5c2ee9 
+2.4.2024, 19:23:11 - INFO - Broadcast to room 660afa1fdc61d1c6bd5c2ee9 excluding user: undefined 
+2.4.2024, 19:23:11 - INFO - Broadcasting event: chat-someone-typing 
+2.4.2024, 19:23:11 - INFO - Typing chat msg from socket [id: IchI73HHp6RFd_8jAAAH], emitting to topic 660afa1fdc61d1c6bd5c2ee9 
+2.4.2024, 19:23:11 - INFO - Broadcasting event: chat-someone-typing 
+2.4.2024, 19:23:11 - INFO - Broadcast to room 660afa1fdc61d1c6bd5c2ee9 excluding user: undefined 
+2.4.2024, 19:23:13 - INFO - Typing chat msg from socket [id: IchI73HHp6RFd_8jAAAH], emitting to topic 660afa1fdc61d1c6bd5c2ee9 
+2.4.2024, 19:23:13 - INFO - Broadcasting event: chat-someone-typing 
+2.4.2024, 19:23:13 - INFO - Broadcast to room 660afa1fdc61d1c6bd5c2ee9 excluding user: undefined 
+2.4.2024, 19:23:13 - INFO - Typing chat msg from socket [id: IchI73HHp6RFd_8jAAAH], emitting to topic 660afa1fdc61d1c6bd5c2ee9 
+2.4.2024, 19:23:13 - INFO - Broadcasting event: chat-someone-typing 
+2.4.2024, 19:23:13 - INFO - Broadcast to room 660afa1fdc61d1c6bd5c2ee9 excluding user: undefined 
+2.4.2024, 19:23:13 - INFO - Typing chat msg from socket [id: IchI73HHp6RFd_8jAAAH], emitting to topic 660afa1fdc61d1c6bd5c2ee9 
+2.4.2024, 19:23:13 - INFO - Broadcasting event: chat-someone-typing 
+2.4.2024, 19:23:13 - INFO - Broadcast to room 660afa1fdc61d1c6bd5c2ee9 excluding user: undefined 
+2.4.2024, 19:23:13 - INFO - Typing chat msg from socket [id: IchI73HHp6RFd_8jAAAH], emitting to topic 660afa1fdc61d1c6bd5c2ee9 
+2.4.2024, 19:23:13 - INFO - Broadcasting event: chat-someone-typing 
+2.4.2024, 19:23:13 - INFO - Broadcast to room 660afa1fdc61d1c6bd5c2ee9 excluding user: undefined 
+2.4.2024, 19:23:45 - INFO - Server is running on port: 3030 
+2.4.2024, 19:23:46 - INFO - New connected socket [id: WLMUMRwUz7d1mdz_AAAB] 
+2.4.2024, 19:23:46 - INFO - New connected socket [id: ZVA6UMSkMeIoAC75AAAD] 
+2.4.2024, 19:23:47 - INFO - Typing chat msg from socket [id: ZVA6UMSkMeIoAC75AAAD], emitting to topic undefined 
+2.4.2024, 19:23:47 - INFO - Broadcasting event: chat-someone-typing 
+2.4.2024, 19:23:47 - INFO - Broadcast to all excluding user: undefined 
+2.4.2024, 19:23:54 - INFO - Server is running on port: 3030 
+2.4.2024, 19:23:55 - INFO - New connected socket [id: baOXY7e5wWjiyw5PAAAB] 
+2.4.2024, 19:23:56 - INFO - New connected socket [id: 5RMMjJi8Hk6WI9rbAAAD] 
+2.4.2024, 19:24:14 - INFO - New connected socket [id: OaIGiwsOLnXAsKgkAAAF] 
+2.4.2024, 19:24:14 - INFO - Setting socket.userId = 6609b57a6917e18112abfa33 for socket [id: OaIGiwsOLnXAsKgkAAAF] 
+2.4.2024, 19:24:14 - INFO - New connected socket [id: iVBCSTfKPjF9aEmUAAAH] 
+2.4.2024, 19:24:14 - INFO - Setting socket.userId = 6609b67e9c1d8782a6c40745 for socket [id: iVBCSTfKPjF9aEmUAAAH] 
+2.4.2024, 19:24:14 - INFO - Sample Logger Middleware (userId: 6609b57a6917e18112abfa33)
+2.4.2024, 19:24:14 - INFO - Sample Logger Middleware 
+2.4.2024, 19:24:30 - INFO - New connected socket [id: HfE0hP04Na-mMr1aAAAJ] 
+2.4.2024, 19:24:30 - INFO - Setting socket.userId = 6609b57a6917e18112abfa33 for socket [id: HfE0hP04Na-mMr1aAAAJ] 
+2.4.2024, 19:24:30 - INFO - New connected socket [id: -3VBVH7hpDzsr9UbAAAL] 
+2.4.2024, 19:24:30 - INFO - Sample Logger Middleware 
+2.4.2024, 19:24:30 - INFO - Setting socket.userId = 6609b67e9c1d8782a6c40745 for socket [id: -3VBVH7hpDzsr9UbAAAL] 
+2.4.2024, 19:24:30 - INFO - Sample Logger Middleware (userId: 6609b57a6917e18112abfa33)
+2.4.2024, 19:24:40 - INFO - Socket disconnected [id: undefined] 
+2.4.2024, 19:24:40 - INFO - Socket disconnected [id: undefined] 
+2.4.2024, 19:24:40 - INFO - Socket disconnected [id: undefined] 
+2.4.2024, 19:24:40 - INFO - New connected socket [id: rNXkpRq-XmaWKNP0AAAN] 
+2.4.2024, 19:24:40 - INFO - Sample Logger Middleware (userId: 6609b57a6917e18112abfa33)
+2.4.2024, 19:24:40 - INFO - Setting socket.userId = 6609b57a6917e18112abfa33 for socket [id: rNXkpRq-XmaWKNP0AAAN] 
+2.4.2024, 19:24:46 - INFO - Sample Logger Middleware (userId: 6609b57a6917e18112abfa33)
+2.4.2024, 19:24:47 - INFO - Sample Logger Middleware (userId: 6609b57a6917e18112abfa33)
+2.4.2024, 19:24:47 - DEBUG - Getting Toys | {"name":""} | {"name":1} (userId: 6609b57a6917e18112abfa33)
+2.4.2024, 19:24:48 - INFO - Sample Logger Middleware (userId: 6609b57a6917e18112abfa33)
+2.4.2024, 19:24:48 - INFO - Sample Logger Middleware (userId: 6609b57a6917e18112abfa33)
+2.4.2024, 19:24:48 - DEBUG - Getting Toys | {"name":"","maxPrice":"0"} | {"name":1} (userId: 6609b57a6917e18112abfa33)
+2.4.2024, 19:24:48 - INFO - Sample Logger Middleware (userId: 6609b57a6917e18112abfa33)
+2.4.2024, 19:24:48 - DEBUG - Getting Toys | {"name":"","maxPrice":"0"} | {"name":1} (userId: 6609b57a6917e18112abfa33)
+2.4.2024, 19:24:49 - DEBUG - Getting Toys | {"name":"","maxPrice":"0"} | {"name":1} (userId: 6609b57a6917e18112abfa33)
+2.4.2024, 19:24:49 - INFO - Sample Logger Middleware (userId: 6609b57a6917e18112abfa33)
+2.4.2024, 19:24:54 - DEBUG - auth.service - login with username: Popo 
+2.4.2024, 19:24:54 - INFO - User login:  | {"_id":"6609b67e9c1d8782a6c40745","username":"Popo","fullname":"Popo Pa","isAdmin":false} 
+2.4.2024, 19:24:54 - INFO - Sample Logger Middleware (userId: 6609b67e9c1d8782a6c40745)
+2.4.2024, 19:24:54 - DEBUG - Getting Toys | {"name":"","maxPrice":"0"} | {"name":1} (userId: 6609b67e9c1d8782a6c40745)
+2.4.2024, 19:24:54 - INFO - Sample Logger Middleware (userId: 6609b67e9c1d8782a6c40745)
+2.4.2024, 19:24:54 - DEBUG - Getting Toys | {"name":"","maxPrice":"0"} | {"name":1} (userId: 6609b67e9c1d8782a6c40745)
+2.4.2024, 19:24:55 - INFO - Sample Logger Middleware (userId: 6609b67e9c1d8782a6c40745)
+2.4.2024, 19:24:55 - DEBUG - Getting Toys | {"name":"","maxPrice":"0"} | {"name":1} (userId: 6609b67e9c1d8782a6c40745)
+2.4.2024, 19:25:03 - INFO - Socket disconnected [id: undefined] 
+2.4.2024, 19:25:03 - INFO - Sample Logger Middleware (userId: 6609b67e9c1d8782a6c40745)
+2.4.2024, 19:25:03 - INFO - New connected socket [id: 84mCxnl65MtD7GErAAAP] 
+2.4.2024, 19:25:03 - DEBUG - Getting Toys | {"name":"","maxPrice":"0"} | {"name":1} (userId: 6609b67e9c1d8782a6c40745)
+2.4.2024, 19:25:03 - INFO - Setting socket.userId = 6609b67e9c1d8782a6c40745 for socket [id: 84mCxnl65MtD7GErAAAP] 
+2.4.2024, 19:25:03 - INFO - Sample Logger Middleware (userId: 6609b67e9c1d8782a6c40745)
+2.4.2024, 19:25:03 - DEBUG - Getting Toys | {"name":"","maxPrice":"0"} | {"name":1} (userId: 6609b67e9c1d8782a6c40745)
+2.4.2024, 19:25:03 - INFO - Sample Logger Middleware (userId: 6609b67e9c1d8782a6c40745)
+2.4.2024, 19:25:03 - DEBUG - Getting Toys | {"name":"","maxPrice":"0"} | {"name":1} (userId: 6609b67e9c1d8782a6c40745)
+2.4.2024, 19:25:08 - INFO - Sample Logger Middleware 
+2.4.2024, 19:25:08 - DEBUG - Getting Toys | {"name":"","maxPrice":"0"} | {"name":1} 
+2.4.2024, 19:25:08 - INFO - Sample Logger Middleware 
+2.4.2024, 19:25:08 - DEBUG - Getting Toys | {"name":"","maxPrice":"0"} | {"name":1} 
+2.4.2024, 19:25:08 - INFO - Sample Logger Middleware 
+2.4.2024, 19:25:08 - DEBUG - Getting Toys | {"name":"","maxPrice":"0"} | {"name":1} 
+2.4.2024, 19:27:17 - INFO - Server is running on port: 3030 
+2.4.2024, 19:27:17 - INFO - New connected socket [id: 4PTskF4PLGVHG8iVAAAB] 
+2.4.2024, 19:27:18 - INFO - New connected socket [id: t7YoisnFspBth1rNAAAD] 
+2.4.2024, 19:27:18 - INFO - New connected socket [id: AWcvP25m-F__5w_qAAAF] 
+2.4.2024, 19:27:18 - INFO - New connected socket [id: oW0bmfoYAq4bRCgiAAAH] 
+2.4.2024, 19:27:28 - INFO - Server is running on port: 3030 
+2.4.2024, 19:27:28 - INFO - New connected socket [id: JNwXAA1NxzsbagNuAAAB] 
+2.4.2024, 19:27:29 - INFO - New connected socket [id: tK-pUPO7arGoiLQUAAAD] 
+2.4.2024, 19:27:29 - INFO - New connected socket [id: IrgTDBp3ZTOjL66DAAAF] 
+2.4.2024, 19:27:29 - INFO - New connected socket [id: gdJg4cWJuDjeXZaFAAAH] 
+2.4.2024, 19:27:37 - DEBUG - auth.service - login with username: Popo 
+2.4.2024, 19:27:37 - INFO - User login:  | {"_id":"6609b67e9c1d8782a6c40745","username":"Popo","fullname":"Popo Pa","isAdmin":false} 
+2.4.2024, 19:27:37 - INFO - Sample Logger Middleware (userId: 6609b67e9c1d8782a6c40745)
+2.4.2024, 19:27:37 - DEBUG - Getting Toys | {"name":"","maxPrice":"0"} | {"name":1} (userId: 6609b67e9c1d8782a6c40745)
+2.4.2024, 19:27:37 - INFO - Sample Logger Middleware (userId: 6609b67e9c1d8782a6c40745)
+2.4.2024, 19:27:37 - DEBUG - Getting Toys | {"name":"","maxPrice":"0"} | {"name":1} (userId: 6609b67e9c1d8782a6c40745)
+2.4.2024, 19:27:38 - INFO - Sample Logger Middleware (userId: 6609b67e9c1d8782a6c40745)
+2.4.2024, 19:27:38 - DEBUG - Getting Toys | {"name":"","maxPrice":"0"} | {"name":1} (userId: 6609b67e9c1d8782a6c40745)
+2.4.2024, 19:29:16 - INFO - Socket disconnected [id: undefined] 
+2.4.2024, 19:29:16 - INFO - Sample Logger Middleware (userId: 6609b67e9c1d8782a6c40745)
+2.4.2024, 19:29:16 - DEBUG - Getting Toys | {"name":"","maxPrice":"0"} | {"name":1} (userId: 6609b67e9c1d8782a6c40745)
+2.4.2024, 19:29:16 - INFO - New connected socket [id: GLWvssQvdprDw5f1AAAJ] 
+2.4.2024, 19:29:16 - INFO - Setting socket.userId = 6609b67e9c1d8782a6c40745 for socket [id: GLWvssQvdprDw5f1AAAJ] 
+2.4.2024, 19:29:16 - DEBUG - Getting Toys | {"name":"","maxPrice":"0"} | {"name":1} (userId: 6609b67e9c1d8782a6c40745)
+2.4.2024, 19:29:16 - INFO - Sample Logger Middleware (userId: 6609b67e9c1d8782a6c40745)
+2.4.2024, 19:29:16 - DEBUG - Getting Toys | {"name":"","maxPrice":"0"} | {"name":1} (userId: 6609b67e9c1d8782a6c40745)
+2.4.2024, 19:29:16 - INFO - Sample Logger Middleware (userId: 6609b67e9c1d8782a6c40745)
+2.4.2024, 19:31:12 - INFO - Socket disconnected [id: undefined] 
+2.4.2024, 19:31:12 - INFO - Socket disconnected [id: undefined] 
+2.4.2024, 19:31:12 - INFO - Socket disconnected [id: undefined] 
+2.4.2024, 19:31:13 - INFO - New connected socket [id: yz7JNU0WLqfAvUqlAAAM] 
+2.4.2024, 19:31:13 - INFO - New connected socket [id: PR1TN_kxL7csbEuWAAAN] 
+2.4.2024, 19:31:13 - INFO - New connected socket [id: GWgzLtR7VobZfHBmAAAP] 
+2.4.2024, 21:24:14 - INFO - Socket disconnected [id: undefined] 
+2.4.2024, 21:24:14 - INFO - Socket disconnected [id: undefined] 
+2.4.2024, 21:24:14 - INFO - Socket disconnected [id: undefined] 
+2.4.2024, 21:24:14 - INFO - Socket disconnected [id: undefined] 
+2.4.2024, 21:24:15 - INFO - New connected socket [id: dMTmExOmYkro6EjgAAAT] 
+2.4.2024, 21:24:15 - INFO - New connected socket [id: hPf2JSPAg01MWKzZAAAU] 
+2.4.2024, 21:24:15 - INFO - New connected socket [id: xyJ0p9QGICXD2zb_AAAV] 
+2.4.2024, 21:24:16 - INFO - New connected socket [id: OcqbCL94fXqSPMmVAAAX] 
+2.4.2024, 22:23:53 - INFO - Socket disconnected [id: undefined] 
+2.4.2024, 22:23:54 - INFO - Sample Logger Middleware (userId: 6609b67e9c1d8782a6c40745)
+2.4.2024, 22:23:54 - DEBUG - Getting Toys | {"name":"","maxPrice":"0"} | {"name":1} (userId: 6609b67e9c1d8782a6c40745)
+2.4.2024, 22:23:54 - INFO - New connected socket [id: m2jHRAUzRwXpSIElAAAZ] 
+2.4.2024, 22:23:54 - INFO - Setting socket.userId = 6609b67e9c1d8782a6c40745 for socket [id: m2jHRAUzRwXpSIElAAAZ] 
+2.4.2024, 22:23:54 - INFO - Sample Logger Middleware (userId: 6609b67e9c1d8782a6c40745)
+2.4.2024, 22:23:54 - DEBUG - Getting Toys | {"name":"","maxPrice":"0"} | {"name":1} (userId: 6609b67e9c1d8782a6c40745)
+2.4.2024, 22:23:54 - INFO - Sample Logger Middleware (userId: 6609b67e9c1d8782a6c40745)
+2.4.2024, 22:23:54 - DEBUG - Getting Toys | {"name":"","maxPrice":"0"} | {"name":1} (userId: 6609b67e9c1d8782a6c40745)
+2.4.2024, 22:34:08 - INFO - Socket disconnected [id: undefined] 
+2.4.2024, 22:34:08 - INFO - Socket disconnected [id: undefined] 
+2.4.2024, 22:34:08 - INFO - Socket disconnected [id: undefined] 
+2.4.2024, 22:59:56 - INFO - Socket disconnected [id: undefined] 
+3.4.2024, 0:01:45 - INFO - Server is running on port: 3030 
+3.4.2024, 0:01:50 - INFO - New connected socket [id: xhLcrAEHwuCQ6URlAAAB] 
+3.4.2024, 0:02:07 - INFO - New connected socket [id: pn83XJ0gxcEAa7_gAAAD] 
+3.4.2024, 0:02:09 - INFO - Socket disconnected [id: undefined] 
+3.4.2024, 0:02:10 - INFO - New connected socket [id: okJXFAhPO5nh3wK0AAAF] 
+3.4.2024, 0:02:16 - DEBUG - auth.service - login with username: Admin 
+3.4.2024, 0:02:16 - INFO - User login:  | {"_id":"6609b57a6917e18112abfa33","username":"Admin","fullname":"Admin Admin","isAdmin":true} 
+3.4.2024, 0:02:16 - INFO - Sample Logger Middleware (userId: 6609b57a6917e18112abfa33)
+3.4.2024, 0:02:16 - DEBUG - Getting Toys | {"name":"","maxPrice":"0"} | {"name":1} (userId: 6609b57a6917e18112abfa33)
+3.4.2024, 0:02:16 - INFO - Sample Logger Middleware (userId: 6609b57a6917e18112abfa33)
+3.4.2024, 0:02:16 - DEBUG - Getting Toys | {"name":"","maxPrice":"0"} | {"name":1} (userId: 6609b57a6917e18112abfa33)
+3.4.2024, 0:02:17 - INFO - Sample Logger Middleware (userId: 6609b57a6917e18112abfa33)
+3.4.2024, 0:02:17 - DEBUG - Getting Toys | {"name":"","maxPrice":"0"} | {"name":1} (userId: 6609b57a6917e18112abfa33)
+3.4.2024, 0:02:22 - DEBUG - auth.service - login with username: Popo 
+3.4.2024, 0:02:23 - INFO - User login:  | {"_id":"6609b67e9c1d8782a6c40745","username":"Popo","fullname":"Popo Pa","isAdmin":false} 
+3.4.2024, 0:02:23 - INFO - Sample Logger Middleware 
+3.4.2024, 0:02:23 - DEBUG - Getting Toys | {"name":"","maxPrice":"0"} | {"name":1} 
+3.4.2024, 0:02:23 - INFO - Sample Logger Middleware 
+3.4.2024, 0:02:23 - DEBUG - Getting Toys | {"name":"","maxPrice":"0"} | {"name":1} 
+3.4.2024, 0:02:27 - INFO - Sample Logger Middleware (userId: 6609b57a6917e18112abfa33)
+3.4.2024, 0:02:28 - INFO - Sample Logger Middleware 
+3.4.2024, 0:02:29 - INFO - Typing chat msg from socket [id: okJXFAhPO5nh3wK0AAAF], emitting to topic 660afa1fdc61d1c6bd5c2ee9 
+3.4.2024, 0:02:29 - INFO - Broadcasting event: chat-someone-typing 
+3.4.2024, 0:02:29 - INFO - Broadcast to room 660afa1fdc61d1c6bd5c2ee9 excluding user: undefined 
+3.4.2024, 0:02:30 - INFO - Broadcasting event: chat-someone-typing 
+3.4.2024, 0:02:30 - INFO - Typing chat msg from socket [id: okJXFAhPO5nh3wK0AAAF], emitting to topic 660afa1fdc61d1c6bd5c2ee9 
+3.4.2024, 0:02:30 - INFO - Broadcast to room 660afa1fdc61d1c6bd5c2ee9 excluding user: undefined 
+3.4.2024, 0:02:33 - INFO - Typing chat msg from socket [id: okJXFAhPO5nh3wK0AAAF], emitting to topic 660afa1fdc61d1c6bd5c2ee9 
+3.4.2024, 0:02:33 - INFO - Broadcasting event: chat-someone-typing 
+3.4.2024, 0:02:33 - INFO - Broadcast to room 660afa1fdc61d1c6bd5c2ee9 excluding user: undefined 
+3.4.2024, 0:02:34 - INFO - Typing chat msg from socket [id: okJXFAhPO5nh3wK0AAAF], emitting to topic 660afa1fdc61d1c6bd5c2ee9 
+3.4.2024, 0:02:34 - INFO - Broadcasting event: chat-someone-typing 
+3.4.2024, 0:02:34 - INFO - Broadcast to room 660afa1fdc61d1c6bd5c2ee9 excluding user: undefined 
+3.4.2024, 0:02:38 - INFO - Typing chat msg from socket [id: xhLcrAEHwuCQ6URlAAAB], emitting to topic 660afa1fdc61d1c6bd5c2ee9 
+3.4.2024, 0:02:38 - INFO - Broadcasting event: chat-someone-typing 
+3.4.2024, 0:02:38 - INFO - Broadcast to room 660afa1fdc61d1c6bd5c2ee9 excluding user: undefined 
+3.4.2024, 0:02:39 - INFO - Typing chat msg from socket [id: xhLcrAEHwuCQ6URlAAAB], emitting to topic 660afa1fdc61d1c6bd5c2ee9 
+3.4.2024, 0:02:39 - INFO - Broadcasting event: chat-someone-typing 
+3.4.2024, 0:02:39 - INFO - Broadcast to room 660afa1fdc61d1c6bd5c2ee9 excluding user: undefined 
+3.4.2024, 0:02:39 - INFO - Typing chat msg from socket [id: xhLcrAEHwuCQ6URlAAAB], emitting to topic 660afa1fdc61d1c6bd5c2ee9 
+3.4.2024, 0:02:39 - INFO - Broadcasting event: chat-someone-typing 
+3.4.2024, 0:02:39 - INFO - Typing chat msg from socket [id: xhLcrAEHwuCQ6URlAAAB], emitting to topic 660afa1fdc61d1c6bd5c2ee9 
+3.4.2024, 0:02:39 - INFO - Broadcasting event: chat-someone-typing 
+3.4.2024, 0:02:39 - INFO - Broadcast to room 660afa1fdc61d1c6bd5c2ee9 excluding user: undefined 
+3.4.2024, 0:02:39 - INFO - Broadcast to room 660afa1fdc61d1c6bd5c2ee9 excluding user: undefined 
+3.4.2024, 0:02:39 - INFO - Typing chat msg from socket [id: xhLcrAEHwuCQ6URlAAAB], emitting to topic 660afa1fdc61d1c6bd5c2ee9 
+3.4.2024, 0:02:39 - INFO - Broadcasting event: chat-someone-typing 
+3.4.2024, 0:02:39 - INFO - Broadcast to room 660afa1fdc61d1c6bd5c2ee9 excluding user: undefined 
+3.4.2024, 0:02:40 - INFO - Typing chat msg from socket [id: xhLcrAEHwuCQ6URlAAAB], emitting to topic 660afa1fdc61d1c6bd5c2ee9 
+3.4.2024, 0:02:40 - INFO - Broadcasting event: chat-someone-typing 
+3.4.2024, 0:02:40 - INFO - Broadcast to room 660afa1fdc61d1c6bd5c2ee9 excluding user: undefined 
+3.4.2024, 0:02:40 - INFO - Typing chat msg from socket [id: xhLcrAEHwuCQ6URlAAAB], emitting to topic 660afa1fdc61d1c6bd5c2ee9 
+3.4.2024, 0:02:40 - INFO - Broadcasting event: chat-someone-typing 
+3.4.2024, 0:02:40 - INFO - Broadcast to room 660afa1fdc61d1c6bd5c2ee9 excluding user: undefined 
+3.4.2024, 0:02:40 - INFO - Broadcasting event: chat-someone-typing 
+3.4.2024, 0:02:40 - INFO - Broadcast to room 660afa1fdc61d1c6bd5c2ee9 excluding user: undefined 
+3.4.2024, 0:02:40 - INFO - Typing chat msg from socket [id: xhLcrAEHwuCQ6URlAAAB], emitting to topic 660afa1fdc61d1c6bd5c2ee9 
+3.4.2024, 0:02:40 - INFO - Typing chat msg from socket [id: xhLcrAEHwuCQ6URlAAAB], emitting to topic 660afa1fdc61d1c6bd5c2ee9 
+3.4.2024, 0:02:40 - INFO - Broadcasting event: chat-someone-typing 
+3.4.2024, 0:02:40 - INFO - Broadcast to room 660afa1fdc61d1c6bd5c2ee9 excluding user: undefined 
+3.4.2024, 0:02:40 - INFO - Typing chat msg from socket [id: xhLcrAEHwuCQ6URlAAAB], emitting to topic 660afa1fdc61d1c6bd5c2ee9 
+3.4.2024, 0:02:40 - INFO - Broadcasting event: chat-someone-typing 
+3.4.2024, 0:02:40 - INFO - Broadcast to room 660afa1fdc61d1c6bd5c2ee9 excluding user: undefined 
+3.4.2024, 0:02:41 - INFO - Typing chat msg from socket [id: okJXFAhPO5nh3wK0AAAF], emitting to topic 660afa1fdc61d1c6bd5c2ee9 
+3.4.2024, 0:02:41 - INFO - Broadcasting event: chat-someone-typing 
+3.4.2024, 0:02:41 - INFO - Broadcast to room 660afa1fdc61d1c6bd5c2ee9 excluding user: undefined 
+3.4.2024, 0:02:42 - INFO - Broadcasting event: chat-someone-typing 
+3.4.2024, 0:02:42 - INFO - Typing chat msg from socket [id: okJXFAhPO5nh3wK0AAAF], emitting to topic 660afa1fdc61d1c6bd5c2ee9 
+3.4.2024, 0:02:42 - INFO - Broadcast to room 660afa1fdc61d1c6bd5c2ee9 excluding user: undefined 
+3.4.2024, 0:02:42 - INFO - Typing chat msg from socket [id: okJXFAhPO5nh3wK0AAAF], emitting to topic 660afa1fdc61d1c6bd5c2ee9 
+3.4.2024, 0:02:42 - INFO - Broadcasting event: chat-someone-typing 
+3.4.2024, 0:02:42 - INFO - Broadcast to room 660afa1fdc61d1c6bd5c2ee9 excluding user: undefined 
+3.4.2024, 0:02:42 - INFO - Typing chat msg from socket [id: okJXFAhPO5nh3wK0AAAF], emitting to topic 660afa1fdc61d1c6bd5c2ee9 
+3.4.2024, 0:02:42 - INFO - Broadcasting event: chat-someone-typing 
+3.4.2024, 0:02:42 - INFO - Broadcast to room 660afa1fdc61d1c6bd5c2ee9 excluding user: undefined 
+3.4.2024, 0:02:42 - INFO - Broadcasting event: chat-someone-typing 
+3.4.2024, 0:02:42 - INFO - Broadcast to room 660afa1fdc61d1c6bd5c2ee9 excluding user: undefined 
+3.4.2024, 0:02:42 - INFO - Typing chat msg from socket [id: okJXFAhPO5nh3wK0AAAF], emitting to topic 660afa1fdc61d1c6bd5c2ee9 
+3.4.2024, 0:02:43 - INFO - Typing chat msg from socket [id: okJXFAhPO5nh3wK0AAAF], emitting to topic 660afa1fdc61d1c6bd5c2ee9 
+3.4.2024, 0:02:43 - INFO - Broadcasting event: chat-someone-typing 
+3.4.2024, 0:02:43 - INFO - Broadcast to room 660afa1fdc61d1c6bd5c2ee9 excluding user: undefined 
+3.4.2024, 0:02:43 - INFO - Typing chat msg from socket [id: okJXFAhPO5nh3wK0AAAF], emitting to topic 660afa1fdc61d1c6bd5c2ee9 
+3.4.2024, 0:02:43 - INFO - Broadcasting event: chat-someone-typing 
+3.4.2024, 0:02:43 - INFO - Broadcast to room 660afa1fdc61d1c6bd5c2ee9 excluding user: undefined 
+3.4.2024, 0:02:43 - INFO - Broadcasting event: chat-someone-typing 
+3.4.2024, 0:02:43 - INFO - Typing chat msg from socket [id: okJXFAhPO5nh3wK0AAAF], emitting to topic 660afa1fdc61d1c6bd5c2ee9 
+3.4.2024, 0:02:43 - INFO - Broadcast to room 660afa1fdc61d1c6bd5c2ee9 excluding user: undefined 
+3.4.2024, 0:02:43 - INFO - Typing chat msg from socket [id: okJXFAhPO5nh3wK0AAAF], emitting to topic 660afa1fdc61d1c6bd5c2ee9 
+3.4.2024, 0:02:43 - INFO - Broadcasting event: chat-someone-typing 
+3.4.2024, 0:02:43 - INFO - Broadcast to room 660afa1fdc61d1c6bd5c2ee9 excluding user: undefined 
+3.4.2024, 0:02:43 - INFO - Typing chat msg from socket [id: okJXFAhPO5nh3wK0AAAF], emitting to topic 660afa1fdc61d1c6bd5c2ee9 
+3.4.2024, 0:02:43 - INFO - Broadcasting event: chat-someone-typing 
+3.4.2024, 0:02:43 - INFO - Broadcast to room 660afa1fdc61d1c6bd5c2ee9 excluding user: undefined 
+3.4.2024, 0:04:38 - INFO - Socket disconnected [id: undefined] 
+3.4.2024, 0:04:39 - INFO - New connected socket [id: EKNRv3Oe2Akc0s2QAAAH] 
+3.4.2024, 0:04:39 - INFO - Sample Logger Middleware 
+3.4.2024, 0:04:39 - INFO - Setting socket.userId = 6609b67e9c1d8782a6c40745 for socket [id: EKNRv3Oe2Akc0s2QAAAH] 
+3.4.2024, 0:04:40 - INFO - Socket disconnected [id: undefined] 
+3.4.2024, 0:04:40 - INFO - New connected socket [id: x5EcnzjEVvp2z_ZLAAAJ] 
+3.4.2024, 0:04:40 - INFO - Sample Logger Middleware (userId: 6609b57a6917e18112abfa33)
+3.4.2024, 0:04:40 - INFO - Setting socket.userId = 6609b57a6917e18112abfa33 for socket [id: x5EcnzjEVvp2z_ZLAAAJ] 
+3.4.2024, 0:04:42 - INFO - Typing chat msg from socket [id: x5EcnzjEVvp2z_ZLAAAJ], emitting to topic 660afa1fdc61d1c6bd5c2ee9 
+3.4.2024, 0:04:42 - INFO - Broadcasting event: chat-someone-typing 
+3.4.2024, 0:04:42 - INFO - Broadcast to room 660afa1fdc61d1c6bd5c2ee9 excluding user: 6609b57a6917e18112abfa33 
+3.4.2024, 0:04:42 - INFO - Typing chat msg from socket [id: x5EcnzjEVvp2z_ZLAAAJ], emitting to topic 660afa1fdc61d1c6bd5c2ee9 
+3.4.2024, 0:04:42 - INFO - Broadcasting event: chat-someone-typing 
+3.4.2024, 0:04:42 - INFO - Broadcast to room 660afa1fdc61d1c6bd5c2ee9 excluding user: 6609b57a6917e18112abfa33 
+3.4.2024, 0:04:44 - INFO - Typing chat msg from socket [id: EKNRv3Oe2Akc0s2QAAAH], emitting to topic 660afa1fdc61d1c6bd5c2ee9 
+3.4.2024, 0:04:44 - INFO - Broadcasting event: chat-someone-typing 
+3.4.2024, 0:04:44 - INFO - Broadcast to room 660afa1fdc61d1c6bd5c2ee9 excluding user: 6609b67e9c1d8782a6c40745 
+3.4.2024, 0:04:44 - INFO - Typing chat msg from socket [id: EKNRv3Oe2Akc0s2QAAAH], emitting to topic 660afa1fdc61d1c6bd5c2ee9 
+3.4.2024, 0:04:44 - INFO - Broadcasting event: chat-someone-typing 
+3.4.2024, 0:04:44 - INFO - Broadcast to room 660afa1fdc61d1c6bd5c2ee9 excluding user: 6609b67e9c1d8782a6c40745 
+3.4.2024, 0:04:44 - INFO - Typing chat msg from socket [id: EKNRv3Oe2Akc0s2QAAAH], emitting to topic 660afa1fdc61d1c6bd5c2ee9 
+3.4.2024, 0:04:44 - INFO - Broadcasting event: chat-someone-typing 
+3.4.2024, 0:04:44 - INFO - Broadcast to room 660afa1fdc61d1c6bd5c2ee9 excluding user: 6609b67e9c1d8782a6c40745 
+3.4.2024, 0:04:44 - INFO - Typing chat msg from socket [id: EKNRv3Oe2Akc0s2QAAAH], emitting to topic 660afa1fdc61d1c6bd5c2ee9 
+3.4.2024, 0:04:44 - INFO - Broadcasting event: chat-someone-typing 
+3.4.2024, 0:04:44 - INFO - Broadcast to room 660afa1fdc61d1c6bd5c2ee9 excluding user: 6609b67e9c1d8782a6c40745 
+3.4.2024, 0:04:45 - INFO - Typing chat msg from socket [id: EKNRv3Oe2Akc0s2QAAAH], emitting to topic 660afa1fdc61d1c6bd5c2ee9 
+3.4.2024, 0:04:45 - INFO - Broadcasting event: chat-someone-typing 
+3.4.2024, 0:04:45 - INFO - Broadcast to room 660afa1fdc61d1c6bd5c2ee9 excluding user: 6609b67e9c1d8782a6c40745 
+3.4.2024, 0:04:46 - INFO - Typing chat msg from socket [id: x5EcnzjEVvp2z_ZLAAAJ], emitting to topic 660afa1fdc61d1c6bd5c2ee9 
+3.4.2024, 0:04:46 - INFO - Broadcasting event: chat-someone-typing 
+3.4.2024, 0:04:46 - INFO - Broadcast to room 660afa1fdc61d1c6bd5c2ee9 excluding user: 6609b57a6917e18112abfa33 
+3.4.2024, 0:04:47 - INFO - Typing chat msg from socket [id: x5EcnzjEVvp2z_ZLAAAJ], emitting to topic 660afa1fdc61d1c6bd5c2ee9 
+3.4.2024, 0:04:47 - INFO - Broadcasting event: chat-someone-typing 
+3.4.2024, 0:04:47 - INFO - Broadcast to room 660afa1fdc61d1c6bd5c2ee9 excluding user: 6609b57a6917e18112abfa33 
+3.4.2024, 0:04:47 - INFO - Typing chat msg from socket [id: x5EcnzjEVvp2z_ZLAAAJ], emitting to topic 660afa1fdc61d1c6bd5c2ee9 
+3.4.2024, 0:04:47 - INFO - Broadcasting event: chat-someone-typing 
+3.4.2024, 0:04:47 - INFO - Broadcast to room 660afa1fdc61d1c6bd5c2ee9 excluding user: 6609b57a6917e18112abfa33 
+3.4.2024, 0:04:47 - INFO - Typing chat msg from socket [id: x5EcnzjEVvp2z_ZLAAAJ], emitting to topic 660afa1fdc61d1c6bd5c2ee9 
+3.4.2024, 0:04:47 - INFO - Broadcasting event: chat-someone-typing 
+3.4.2024, 0:04:47 - INFO - Broadcast to room 660afa1fdc61d1c6bd5c2ee9 excluding user: 6609b57a6917e18112abfa33 
+3.4.2024, 0:04:48 - INFO - Typing chat msg from socket [id: x5EcnzjEVvp2z_ZLAAAJ], emitting to topic 660afa1fdc61d1c6bd5c2ee9 
+3.4.2024, 0:04:48 - INFO - Broadcasting event: chat-someone-typing 
+3.4.2024, 0:04:48 - INFO - Broadcast to room 660afa1fdc61d1c6bd5c2ee9 excluding user: 6609b57a6917e18112abfa33 
+3.4.2024, 0:04:49 - INFO - New chat msg from socket [id: x5EcnzjEVvp2z_ZLAAAJ], emitting to topic 660afa1fdc61d1c6bd5c2ee9 
+3.4.2024, 0:04:49 - INFO - Broadcasting event: chat-add-msg 
+3.4.2024, 0:04:49 - INFO - Broadcast to room 660afa1fdc61d1c6bd5c2ee9 excluding user: 6609b57a6917e18112abfa33 
+3.4.2024, 0:04:49 - INFO - Typing chat msg from socket [id: x5EcnzjEVvp2z_ZLAAAJ], emitting to topic 660afa1fdc61d1c6bd5c2ee9 
+3.4.2024, 0:04:49 - INFO - Broadcasting event: chat-someone-typing 
+3.4.2024, 0:04:49 - INFO - Broadcast to room 660afa1fdc61d1c6bd5c2ee9 excluding user: 6609b57a6917e18112abfa33 
+3.4.2024, 0:04:51 - INFO - Broadcasting event: review-removed (userId: 6609b57a6917e18112abfa33)
+3.4.2024, 0:04:51 - INFO - Broadcast to all excluding user: 6609b57a6917e18112abfa33 (userId: 6609b57a6917e18112abfa33)
+3.4.2024, 0:04:51 - INFO - Remove chat msg from socket [id: x5EcnzjEVvp2z_ZLAAAJ], emitting to topic 660afa1fdc61d1c6bd5c2ee9 
+3.4.2024, 0:04:51 - INFO - Broadcast to room 660afa1fdc61d1c6bd5c2ee9 excluding user: 6609b57a6917e18112abfa33 
+3.4.2024, 0:04:51 - INFO - Broadcasting event: chat-delete-msg 
+3.4.2024, 0:04:52 - INFO - Typing chat msg from socket [id: EKNRv3Oe2Akc0s2QAAAH], emitting to topic 660afa1fdc61d1c6bd5c2ee9 
+3.4.2024, 0:04:52 - INFO - Broadcast to room 660afa1fdc61d1c6bd5c2ee9 excluding user: 6609b67e9c1d8782a6c40745 
+3.4.2024, 0:04:52 - INFO - Broadcasting event: chat-someone-typing 
+3.4.2024, 0:04:52 - INFO - Typing chat msg from socket [id: EKNRv3Oe2Akc0s2QAAAH], emitting to topic 660afa1fdc61d1c6bd5c2ee9 
+3.4.2024, 0:04:52 - INFO - Broadcasting event: chat-someone-typing 
+3.4.2024, 0:04:52 - INFO - Broadcast to room 660afa1fdc61d1c6bd5c2ee9 excluding user: 6609b67e9c1d8782a6c40745 
+3.4.2024, 0:04:52 - INFO - Typing chat msg from socket [id: EKNRv3Oe2Akc0s2QAAAH], emitting to topic 660afa1fdc61d1c6bd5c2ee9 
+3.4.2024, 0:04:52 - INFO - Broadcasting event: chat-someone-typing 
+3.4.2024, 0:04:52 - INFO - Broadcast to room 660afa1fdc61d1c6bd5c2ee9 excluding user: 6609b67e9c1d8782a6c40745 
+3.4.2024, 0:04:52 - INFO - Broadcasting event: chat-someone-typing 
+3.4.2024, 0:04:52 - INFO - Broadcast to room 660afa1fdc61d1c6bd5c2ee9 excluding user: 6609b67e9c1d8782a6c40745 
+3.4.2024, 0:04:52 - INFO - Typing chat msg from socket [id: EKNRv3Oe2Akc0s2QAAAH], emitting to topic 660afa1fdc61d1c6bd5c2ee9 
+3.4.2024, 0:04:53 - INFO - Typing chat msg from socket [id: EKNRv3Oe2Akc0s2QAAAH], emitting to topic 660afa1fdc61d1c6bd5c2ee9 
+3.4.2024, 0:04:53 - INFO - Broadcasting event: chat-someone-typing 
+3.4.2024, 0:04:53 - INFO - Broadcast to room 660afa1fdc61d1c6bd5c2ee9 excluding user: 6609b67e9c1d8782a6c40745 
+3.4.2024, 0:04:53 - INFO - Typing chat msg from socket [id: EKNRv3Oe2Akc0s2QAAAH], emitting to topic 660afa1fdc61d1c6bd5c2ee9 
+3.4.2024, 0:04:53 - INFO - Broadcasting event: chat-someone-typing 
+3.4.2024, 0:04:53 - INFO - Broadcast to room 660afa1fdc61d1c6bd5c2ee9 excluding user: 6609b67e9c1d8782a6c40745 
+3.4.2024, 0:04:53 - INFO - Typing chat msg from socket [id: EKNRv3Oe2Akc0s2QAAAH], emitting to topic 660afa1fdc61d1c6bd5c2ee9 
+3.4.2024, 0:04:53 - INFO - Broadcasting event: chat-someone-typing 
+3.4.2024, 0:04:53 - INFO - Broadcast to room 660afa1fdc61d1c6bd5c2ee9 excluding user: 6609b67e9c1d8782a6c40745 
+3.4.2024, 0:04:53 - INFO - Typing chat msg from socket [id: EKNRv3Oe2Akc0s2QAAAH], emitting to topic 660afa1fdc61d1c6bd5c2ee9 
+3.4.2024, 0:04:53 - INFO - Broadcasting event: chat-someone-typing 
+3.4.2024, 0:04:53 - INFO - Broadcast to room 660afa1fdc61d1c6bd5c2ee9 excluding user: 6609b67e9c1d8782a6c40745 
+3.4.2024, 0:04:54 - INFO - New chat msg from socket [id: EKNRv3Oe2Akc0s2QAAAH], emitting to topic 660afa1fdc61d1c6bd5c2ee9 
+3.4.2024, 0:04:54 - INFO - Broadcasting event: chat-add-msg 
+3.4.2024, 0:04:54 - INFO - Broadcast to room 660afa1fdc61d1c6bd5c2ee9 excluding user: 6609b67e9c1d8782a6c40745 
+3.4.2024, 0:04:54 - INFO - Typing chat msg from socket [id: EKNRv3Oe2Akc0s2QAAAH], emitting to topic 660afa1fdc61d1c6bd5c2ee9 
+3.4.2024, 0:04:54 - INFO - Broadcasting event: chat-someone-typing 
+3.4.2024, 0:04:54 - INFO - Broadcast to room 660afa1fdc61d1c6bd5c2ee9 excluding user: 6609b67e9c1d8782a6c40745 
+3.4.2024, 0:05:00 - INFO - Broadcasting event: review-removed (userId: 6609b57a6917e18112abfa33)
+3.4.2024, 0:05:00 - INFO - Broadcast to all excluding user: 6609b57a6917e18112abfa33 (userId: 6609b57a6917e18112abfa33)
+3.4.2024, 0:05:00 - INFO - Remove chat msg from socket [id: x5EcnzjEVvp2z_ZLAAAJ], emitting to topic 660afa1fdc61d1c6bd5c2ee9 
+3.4.2024, 0:05:00 - INFO - Broadcasting event: chat-delete-msg 
+3.4.2024, 0:05:00 - INFO - Broadcast to room 660afa1fdc61d1c6bd5c2ee9 excluding user: 6609b57a6917e18112abfa33 
+3.4.2024, 0:05:06 - INFO - Sample Logger Middleware 
+3.4.2024, 0:05:06 - DEBUG - Getting Toys | {"name":"","maxPrice":"0"} | {"name":1} 
+3.4.2024, 0:05:06 - INFO - Sample Logger Middleware 
+3.4.2024, 0:05:06 - DEBUG - Getting Toys | {"name":"","maxPrice":"0"} | {"name":1} 
+3.4.2024, 0:05:06 - INFO - Sample Logger Middleware 
+3.4.2024, 0:05:06 - DEBUG - Getting Toys | {"name":"","maxPrice":"0"} | {"name":1} 
+3.4.2024, 0:05:07 - INFO - Removing socket.userId for socket [id: EKNRv3Oe2Akc0s2QAAAH] 
+3.4.2024, 0:05:08 - DEBUG - Getting Toys | {"name":"","maxPrice":"0"} | {"name":1} (userId: 6609b57a6917e18112abfa33)
+3.4.2024, 0:05:08 - INFO - Sample Logger Middleware (userId: 6609b57a6917e18112abfa33)
+3.4.2024, 0:05:08 - INFO - Sample Logger Middleware (userId: 6609b57a6917e18112abfa33)
+3.4.2024, 0:05:08 - DEBUG - Getting Toys | {"name":"","maxPrice":"0"} | {"name":1} (userId: 6609b57a6917e18112abfa33)
+3.4.2024, 0:05:08 - INFO - Sample Logger Middleware (userId: 6609b57a6917e18112abfa33)
+3.4.2024, 0:05:08 - DEBUG - Getting Toys | {"name":"","maxPrice":"0"} | {"name":1} (userId: 6609b57a6917e18112abfa33)
+3.4.2024, 0:05:09 - INFO - Removing socket.userId for socket [id: x5EcnzjEVvp2z_ZLAAAJ] 
+3.4.2024, 0:05:16 - DEBUG - auth.service - login with username: Admin 
+3.4.2024, 0:05:16 - INFO - User login:  | {"_id":"6609b57a6917e18112abfa33","username":"Admin","fullname":"Admin Admin","isAdmin":true} 
+3.4.2024, 0:05:16 - INFO - Setting socket.userId = 6609b57a6917e18112abfa33 for socket [id: EKNRv3Oe2Akc0s2QAAAH] 
+3.4.2024, 0:05:17 - INFO - Sample Logger Middleware 
+3.4.2024, 0:05:17 - DEBUG - Getting Toys | {"name":"","maxPrice":"0"} | {"name":1} 
+3.4.2024, 0:05:17 - INFO - Sample Logger Middleware 
+3.4.2024, 0:05:17 - DEBUG - Getting Toys | {"name":"","maxPrice":"0"} | {"name":1} 
+3.4.2024, 0:05:17 - INFO - Sample Logger Middleware 
+3.4.2024, 0:05:17 - DEBUG - Getting Toys | {"name":"","maxPrice":"0"} | {"name":1} 
+3.4.2024, 0:05:22 - DEBUG - auth.service - login with username: Popo 
+3.4.2024, 0:05:22 - INFO - User login:  | {"_id":"6609b67e9c1d8782a6c40745","username":"Popo","fullname":"Popo Pa","isAdmin":false} 
+3.4.2024, 0:05:22 - INFO - Setting socket.userId = 6609b67e9c1d8782a6c40745 for socket [id: x5EcnzjEVvp2z_ZLAAAJ] 
+3.4.2024, 0:05:22 - DEBUG - Getting Toys | {"name":"","maxPrice":"0"} | {"name":1} (userId: 6609b67e9c1d8782a6c40745)
+3.4.2024, 0:05:22 - INFO - Sample Logger Middleware (userId: 6609b67e9c1d8782a6c40745)
+3.4.2024, 0:05:22 - INFO - Sample Logger Middleware (userId: 6609b67e9c1d8782a6c40745)
+3.4.2024, 0:05:22 - DEBUG - Getting Toys | {"name":"","maxPrice":"0"} | {"name":1} (userId: 6609b67e9c1d8782a6c40745)
+3.4.2024, 0:05:23 - DEBUG - Getting Toys | {"name":"","maxPrice":"0"} | {"name":1} (userId: 6609b67e9c1d8782a6c40745)
+3.4.2024, 0:05:23 - INFO - Sample Logger Middleware (userId: 6609b67e9c1d8782a6c40745)
+3.4.2024, 0:05:26 - INFO - Sample Logger Middleware (userId: 6609b67e9c1d8782a6c40745)
+3.4.2024, 0:05:27 - INFO - Sample Logger Middleware 
+3.4.2024, 0:05:29 - INFO - Typing chat msg from socket [id: EKNRv3Oe2Akc0s2QAAAH], emitting to topic 660afa1fdc61d1c6bd5c2ee9 
+3.4.2024, 0:05:29 - INFO - Broadcasting event: chat-someone-typing 
+3.4.2024, 0:05:29 - INFO - Broadcast to room 660afa1fdc61d1c6bd5c2ee9 excluding user: 6609b57a6917e18112abfa33 
+3.4.2024, 0:05:29 - INFO - Typing chat msg from socket [id: EKNRv3Oe2Akc0s2QAAAH], emitting to topic 660afa1fdc61d1c6bd5c2ee9 
+3.4.2024, 0:05:29 - INFO - Broadcasting event: chat-someone-typing 
+3.4.2024, 0:05:29 - INFO - Broadcast to room 660afa1fdc61d1c6bd5c2ee9 excluding user: 6609b57a6917e18112abfa33 
+3.4.2024, 0:05:31 - INFO - Typing chat msg from socket [id: EKNRv3Oe2Akc0s2QAAAH], emitting to topic 660afa1fdc61d1c6bd5c2ee9 
+3.4.2024, 0:05:31 - INFO - Broadcasting event: chat-someone-typing 
+3.4.2024, 0:05:31 - INFO - Broadcast to room 660afa1fdc61d1c6bd5c2ee9 excluding user: 6609b57a6917e18112abfa33 
+3.4.2024, 0:05:31 - INFO - Typing chat msg from socket [id: EKNRv3Oe2Akc0s2QAAAH], emitting to topic 660afa1fdc61d1c6bd5c2ee9 
+3.4.2024, 0:05:31 - INFO - Broadcasting event: chat-someone-typing 
+3.4.2024, 0:05:31 - INFO - Broadcast to room 660afa1fdc61d1c6bd5c2ee9 excluding user: 6609b57a6917e18112abfa33 
+3.4.2024, 0:05:32 - INFO - Typing chat msg from socket [id: EKNRv3Oe2Akc0s2QAAAH], emitting to topic 660afa1fdc61d1c6bd5c2ee9 
+3.4.2024, 0:05:32 - INFO - Broadcasting event: chat-someone-typing 
+3.4.2024, 0:05:32 - INFO - Broadcast to room 660afa1fdc61d1c6bd5c2ee9 excluding user: 6609b57a6917e18112abfa33 
+3.4.2024, 0:05:33 - INFO - Typing chat msg from socket [id: EKNRv3Oe2Akc0s2QAAAH], emitting to topic 660afa1fdc61d1c6bd5c2ee9 
+3.4.2024, 0:05:33 - INFO - Broadcasting event: chat-someone-typing 
+3.4.2024, 0:05:33 - INFO - Broadcast to room 660afa1fdc61d1c6bd5c2ee9 excluding user: 6609b57a6917e18112abfa33 
+3.4.2024, 0:05:33 - INFO - Typing chat msg from socket [id: EKNRv3Oe2Akc0s2QAAAH], emitting to topic 660afa1fdc61d1c6bd5c2ee9 
+3.4.2024, 0:05:33 - INFO - Broadcasting event: chat-someone-typing 
+3.4.2024, 0:05:33 - INFO - Broadcast to room 660afa1fdc61d1c6bd5c2ee9 excluding user: 6609b57a6917e18112abfa33 
+3.4.2024, 0:05:33 - INFO - Typing chat msg from socket [id: EKNRv3Oe2Akc0s2QAAAH], emitting to topic 660afa1fdc61d1c6bd5c2ee9 
+3.4.2024, 0:05:33 - INFO - Broadcasting event: chat-someone-typing 
+3.4.2024, 0:05:33 - INFO - Broadcast to room 660afa1fdc61d1c6bd5c2ee9 excluding user: 6609b57a6917e18112abfa33 
+3.4.2024, 0:05:33 - INFO - Typing chat msg from socket [id: EKNRv3Oe2Akc0s2QAAAH], emitting to topic 660afa1fdc61d1c6bd5c2ee9 
+3.4.2024, 0:05:33 - INFO - Broadcasting event: chat-someone-typing 
+3.4.2024, 0:05:33 - INFO - Broadcast to room 660afa1fdc61d1c6bd5c2ee9 excluding user: 6609b57a6917e18112abfa33 
+3.4.2024, 0:05:33 - INFO - Typing chat msg from socket [id: EKNRv3Oe2Akc0s2QAAAH], emitting to topic 660afa1fdc61d1c6bd5c2ee9 
+3.4.2024, 0:05:33 - INFO - Broadcasting event: chat-someone-typing 
+3.4.2024, 0:05:33 - INFO - Broadcast to room 660afa1fdc61d1c6bd5c2ee9 excluding user: 6609b57a6917e18112abfa33 
+3.4.2024, 0:05:34 - INFO - Typing chat msg from socket [id: EKNRv3Oe2Akc0s2QAAAH], emitting to topic 660afa1fdc61d1c6bd5c2ee9 
+3.4.2024, 0:05:34 - INFO - Broadcasting event: chat-someone-typing 
+3.4.2024, 0:05:34 - INFO - Broadcast to room 660afa1fdc61d1c6bd5c2ee9 excluding user: 6609b57a6917e18112abfa33 
+3.4.2024, 0:05:34 - INFO - Typing chat msg from socket [id: EKNRv3Oe2Akc0s2QAAAH], emitting to topic 660afa1fdc61d1c6bd5c2ee9 
+3.4.2024, 0:05:34 - INFO - Broadcasting event: chat-someone-typing 
+3.4.2024, 0:05:34 - INFO - Broadcast to room 660afa1fdc61d1c6bd5c2ee9 excluding user: 6609b57a6917e18112abfa33 
+3.4.2024, 0:05:34 - INFO - Typing chat msg from socket [id: EKNRv3Oe2Akc0s2QAAAH], emitting to topic 660afa1fdc61d1c6bd5c2ee9 
+3.4.2024, 0:05:34 - INFO - Broadcasting event: chat-someone-typing 
+3.4.2024, 0:05:34 - INFO - Broadcast to room 660afa1fdc61d1c6bd5c2ee9 excluding user: 6609b57a6917e18112abfa33 
+3.4.2024, 0:05:34 - INFO - Typing chat msg from socket [id: EKNRv3Oe2Akc0s2QAAAH], emitting to topic 660afa1fdc61d1c6bd5c2ee9 
+3.4.2024, 0:05:34 - INFO - Broadcasting event: chat-someone-typing 
+3.4.2024, 0:05:34 - INFO - Broadcast to room 660afa1fdc61d1c6bd5c2ee9 excluding user: 6609b57a6917e18112abfa33 
+3.4.2024, 0:05:35 - INFO - Typing chat msg from socket [id: EKNRv3Oe2Akc0s2QAAAH], emitting to topic 660afa1fdc61d1c6bd5c2ee9 
+3.4.2024, 0:05:35 - INFO - Broadcast to room 660afa1fdc61d1c6bd5c2ee9 excluding user: 6609b57a6917e18112abfa33 
+3.4.2024, 0:05:35 - INFO - Broadcasting event: chat-someone-typing 
+3.4.2024, 0:05:35 - INFO - Typing chat msg from socket [id: EKNRv3Oe2Akc0s2QAAAH], emitting to topic 660afa1fdc61d1c6bd5c2ee9 
+3.4.2024, 0:05:35 - INFO - Broadcasting event: chat-someone-typing 
+3.4.2024, 0:05:35 - INFO - Broadcast to room 660afa1fdc61d1c6bd5c2ee9 excluding user: 6609b57a6917e18112abfa33 
+3.4.2024, 0:05:35 - INFO - Typing chat msg from socket [id: EKNRv3Oe2Akc0s2QAAAH], emitting to topic 660afa1fdc61d1c6bd5c2ee9 
+3.4.2024, 0:05:35 - INFO - Broadcasting event: chat-someone-typing 
+3.4.2024, 0:05:35 - INFO - Broadcast to room 660afa1fdc61d1c6bd5c2ee9 excluding user: 6609b57a6917e18112abfa33 
+3.4.2024, 0:05:35 - INFO - Typing chat msg from socket [id: EKNRv3Oe2Akc0s2QAAAH], emitting to topic 660afa1fdc61d1c6bd5c2ee9 
+3.4.2024, 0:05:35 - INFO - Broadcasting event: chat-someone-typing 
+3.4.2024, 0:05:35 - INFO - Broadcast to room 660afa1fdc61d1c6bd5c2ee9 excluding user: 6609b57a6917e18112abfa33 
+3.4.2024, 0:05:35 - INFO - Typing chat msg from socket [id: EKNRv3Oe2Akc0s2QAAAH], emitting to topic 660afa1fdc61d1c6bd5c2ee9 
+3.4.2024, 0:05:35 - INFO - Broadcasting event: chat-someone-typing 
+3.4.2024, 0:05:35 - INFO - Broadcast to room 660afa1fdc61d1c6bd5c2ee9 excluding user: 6609b57a6917e18112abfa33 
+3.4.2024, 0:05:35 - INFO - Typing chat msg from socket [id: EKNRv3Oe2Akc0s2QAAAH], emitting to topic 660afa1fdc61d1c6bd5c2ee9 
+3.4.2024, 0:05:35 - INFO - Broadcasting event: chat-someone-typing 
+3.4.2024, 0:05:35 - INFO - Broadcast to room 660afa1fdc61d1c6bd5c2ee9 excluding user: 6609b57a6917e18112abfa33 
+3.4.2024, 0:05:35 - INFO - Typing chat msg from socket [id: EKNRv3Oe2Akc0s2QAAAH], emitting to topic 660afa1fdc61d1c6bd5c2ee9 
+3.4.2024, 0:05:35 - INFO - Broadcasting event: chat-someone-typing 
+3.4.2024, 0:05:35 - INFO - Broadcast to room 660afa1fdc61d1c6bd5c2ee9 excluding user: 6609b57a6917e18112abfa33 
+3.4.2024, 0:05:36 - INFO - Typing chat msg from socket [id: EKNRv3Oe2Akc0s2QAAAH], emitting to topic 660afa1fdc61d1c6bd5c2ee9 
+3.4.2024, 0:05:36 - INFO - Broadcasting event: chat-someone-typing 
+3.4.2024, 0:05:36 - INFO - Broadcast to room 660afa1fdc61d1c6bd5c2ee9 excluding user: 6609b57a6917e18112abfa33 
+3.4.2024, 0:05:36 - INFO - New chat msg from socket [id: EKNRv3Oe2Akc0s2QAAAH], emitting to topic 660afa1fdc61d1c6bd5c2ee9 
+3.4.2024, 0:05:36 - INFO - Broadcasting event: chat-add-msg 
+3.4.2024, 0:05:36 - INFO - Broadcast to room 660afa1fdc61d1c6bd5c2ee9 excluding user: 6609b57a6917e18112abfa33 
+3.4.2024, 0:05:36 - INFO - Typing chat msg from socket [id: EKNRv3Oe2Akc0s2QAAAH], emitting to topic 660afa1fdc61d1c6bd5c2ee9 
+3.4.2024, 0:05:36 - INFO - Broadcasting event: chat-someone-typing 
+3.4.2024, 0:05:36 - INFO - Broadcast to room 660afa1fdc61d1c6bd5c2ee9 excluding user: 6609b57a6917e18112abfa33 
+3.4.2024, 0:05:42 - INFO - Broadcast to room 660afa1fdc61d1c6bd5c2ee9 excluding user: 6609b67e9c1d8782a6c40745 
+3.4.2024, 0:05:42 - INFO - Typing chat msg from socket [id: x5EcnzjEVvp2z_ZLAAAJ], emitting to topic 660afa1fdc61d1c6bd5c2ee9 
+3.4.2024, 0:05:42 - INFO - Broadcasting event: chat-someone-typing 
+3.4.2024, 0:05:42 - INFO - Typing chat msg from socket [id: x5EcnzjEVvp2z_ZLAAAJ], emitting to topic 660afa1fdc61d1c6bd5c2ee9 
+3.4.2024, 0:05:42 - INFO - Broadcasting event: chat-someone-typing 
+3.4.2024, 0:05:42 - INFO - Broadcast to room 660afa1fdc61d1c6bd5c2ee9 excluding user: 6609b67e9c1d8782a6c40745 
+3.4.2024, 0:05:42 - INFO - Typing chat msg from socket [id: x5EcnzjEVvp2z_ZLAAAJ], emitting to topic 660afa1fdc61d1c6bd5c2ee9 
+3.4.2024, 0:05:42 - INFO - Broadcasting event: chat-someone-typing 
+3.4.2024, 0:05:42 - INFO - Broadcast to room 660afa1fdc61d1c6bd5c2ee9 excluding user: 6609b67e9c1d8782a6c40745 
+3.4.2024, 0:05:42 - INFO - Broadcasting event: chat-someone-typing 
+3.4.2024, 0:05:42 - INFO - Typing chat msg from socket [id: x5EcnzjEVvp2z_ZLAAAJ], emitting to topic 660afa1fdc61d1c6bd5c2ee9 
+3.4.2024, 0:05:42 - INFO - Broadcast to room 660afa1fdc61d1c6bd5c2ee9 excluding user: 6609b67e9c1d8782a6c40745 
+3.4.2024, 0:05:43 - INFO - Typing chat msg from socket [id: x5EcnzjEVvp2z_ZLAAAJ], emitting to topic 660afa1fdc61d1c6bd5c2ee9 
+3.4.2024, 0:05:43 - INFO - Broadcasting event: chat-someone-typing 
+3.4.2024, 0:05:43 - INFO - Broadcast to room 660afa1fdc61d1c6bd5c2ee9 excluding user: 6609b67e9c1d8782a6c40745 
+3.4.2024, 0:05:45 - INFO - New chat msg from socket [id: x5EcnzjEVvp2z_ZLAAAJ], emitting to topic 660afa1fdc61d1c6bd5c2ee9 
+3.4.2024, 0:05:45 - INFO - Broadcasting event: chat-someone-typing 
+3.4.2024, 0:05:45 - INFO - Broadcasting event: chat-add-msg 
+3.4.2024, 0:05:45 - INFO - Typing chat msg from socket [id: x5EcnzjEVvp2z_ZLAAAJ], emitting to topic 660afa1fdc61d1c6bd5c2ee9 
+3.4.2024, 0:05:45 - INFO - Broadcast to room 660afa1fdc61d1c6bd5c2ee9 excluding user: 6609b67e9c1d8782a6c40745 
+3.4.2024, 0:05:45 - INFO - Broadcast to room 660afa1fdc61d1c6bd5c2ee9 excluding user: 6609b67e9c1d8782a6c40745 
+3.4.2024, 0:06:25 - INFO - Typing chat msg from socket [id: EKNRv3Oe2Akc0s2QAAAH], emitting to topic 660afa1fdc61d1c6bd5c2ee9 
+3.4.2024, 0:06:25 - INFO - Broadcasting event: chat-someone-typing 
+3.4.2024, 0:06:25 - INFO - Broadcast to room 660afa1fdc61d1c6bd5c2ee9 excluding user: 6609b57a6917e18112abfa33 
+3.4.2024, 0:06:25 - INFO - Typing chat msg from socket [id: EKNRv3Oe2Akc0s2QAAAH], emitting to topic 660afa1fdc61d1c6bd5c2ee9 
+3.4.2024, 0:06:25 - INFO - Broadcasting event: chat-someone-typing 
+3.4.2024, 0:06:25 - INFO - Broadcast to room 660afa1fdc61d1c6bd5c2ee9 excluding user: 6609b57a6917e18112abfa33 
+3.4.2024, 0:06:26 - INFO - Typing chat msg from socket [id: EKNRv3Oe2Akc0s2QAAAH], emitting to topic 660afa1fdc61d1c6bd5c2ee9 
+3.4.2024, 0:06:26 - INFO - Broadcasting event: chat-someone-typing 
+3.4.2024, 0:06:26 - INFO - Broadcast to room 660afa1fdc61d1c6bd5c2ee9 excluding user: 6609b57a6917e18112abfa33 
+3.4.2024, 0:06:26 - INFO - Typing chat msg from socket [id: EKNRv3Oe2Akc0s2QAAAH], emitting to topic 660afa1fdc61d1c6bd5c2ee9 
+3.4.2024, 0:06:26 - INFO - Broadcasting event: chat-someone-typing 
+3.4.2024, 0:06:26 - INFO - Broadcast to room 660afa1fdc61d1c6bd5c2ee9 excluding user: 6609b57a6917e18112abfa33 
+3.4.2024, 0:06:26 - INFO - Typing chat msg from socket [id: EKNRv3Oe2Akc0s2QAAAH], emitting to topic 660afa1fdc61d1c6bd5c2ee9 
+3.4.2024, 0:06:26 - INFO - Broadcasting event: chat-someone-typing 
+3.4.2024, 0:06:26 - INFO - Broadcast to room 660afa1fdc61d1c6bd5c2ee9 excluding user: 6609b57a6917e18112abfa33 
+3.4.2024, 0:06:53 - INFO - New chat msg from socket [id: EKNRv3Oe2Akc0s2QAAAH], emitting to topic 660afa1fdc61d1c6bd5c2ee9 
+3.4.2024, 0:06:53 - INFO - Broadcasting event: chat-add-msg 
+3.4.2024, 0:06:53 - INFO - Broadcast to room 660afa1fdc61d1c6bd5c2ee9 excluding user: 6609b57a6917e18112abfa33 
+3.4.2024, 0:06:53 - INFO - Typing chat msg from socket [id: EKNRv3Oe2Akc0s2QAAAH], emitting to topic 660afa1fdc61d1c6bd5c2ee9 
+3.4.2024, 0:06:53 - INFO - Broadcasting event: chat-someone-typing 
+3.4.2024, 0:06:53 - INFO - Broadcast to room 660afa1fdc61d1c6bd5c2ee9 excluding user: 6609b57a6917e18112abfa33 
+3.4.2024, 0:06:55 - INFO - Broadcasting event: review-removed 
+3.4.2024, 0:06:55 - INFO - Emit to all 
+3.4.2024, 0:06:55 - INFO - Remove chat msg from socket [id: EKNRv3Oe2Akc0s2QAAAH], emitting to topic 660afa1fdc61d1c6bd5c2ee9 
+3.4.2024, 0:06:55 - INFO - Broadcasting event: chat-delete-msg 
+3.4.2024, 0:06:55 - INFO - Broadcast to room 660afa1fdc61d1c6bd5c2ee9 excluding user: 6609b57a6917e18112abfa33 
+3.4.2024, 0:06:57 - INFO - Broadcasting event: review-removed 
+3.4.2024, 0:06:57 - INFO - Emit to all 
+3.4.2024, 0:06:57 - INFO - Remove chat msg from socket [id: EKNRv3Oe2Akc0s2QAAAH], emitting to topic 660afa1fdc61d1c6bd5c2ee9 
+3.4.2024, 0:06:57 - INFO - Broadcasting event: chat-delete-msg 
+3.4.2024, 0:06:57 - INFO - Broadcast to room 660afa1fdc61d1c6bd5c2ee9 excluding user: 6609b57a6917e18112abfa33 
+3.4.2024, 0:07:30 - INFO - Typing chat msg from socket [id: EKNRv3Oe2Akc0s2QAAAH], emitting to topic 660afa1fdc61d1c6bd5c2ee9 
+3.4.2024, 0:07:30 - INFO - Broadcasting event: chat-someone-typing 
+3.4.2024, 0:07:30 - INFO - Broadcast to room 660afa1fdc61d1c6bd5c2ee9 excluding user: 6609b57a6917e18112abfa33 
+3.4.2024, 0:07:31 - INFO - Typing chat msg from socket [id: EKNRv3Oe2Akc0s2QAAAH], emitting to topic 660afa1fdc61d1c6bd5c2ee9 
+3.4.2024, 0:07:31 - INFO - Broadcasting event: chat-someone-typing 
+3.4.2024, 0:07:31 - INFO - Broadcast to room 660afa1fdc61d1c6bd5c2ee9 excluding user: 6609b57a6917e18112abfa33 
+3.4.2024, 0:07:31 - INFO - Typing chat msg from socket [id: EKNRv3Oe2Akc0s2QAAAH], emitting to topic 660afa1fdc61d1c6bd5c2ee9 
+3.4.2024, 0:07:31 - INFO - Broadcasting event: chat-someone-typing 
+3.4.2024, 0:07:31 - INFO - Broadcast to room 660afa1fdc61d1c6bd5c2ee9 excluding user: 6609b57a6917e18112abfa33 
+3.4.2024, 0:07:31 - INFO - New chat msg from socket [id: EKNRv3Oe2Akc0s2QAAAH], emitting to topic 660afa1fdc61d1c6bd5c2ee9 
+3.4.2024, 0:07:31 - INFO - Broadcasting event: chat-add-msg 
+3.4.2024, 0:07:31 - INFO - Typing chat msg from socket [id: EKNRv3Oe2Akc0s2QAAAH], emitting to topic 660afa1fdc61d1c6bd5c2ee9 
+3.4.2024, 0:07:31 - INFO - Broadcast to room 660afa1fdc61d1c6bd5c2ee9 excluding user: 6609b57a6917e18112abfa33 
+3.4.2024, 0:07:31 - INFO - Broadcast to room 660afa1fdc61d1c6bd5c2ee9 excluding user: 6609b57a6917e18112abfa33 
+3.4.2024, 0:07:31 - INFO - Broadcasting event: chat-someone-typing 
+3.4.2024, 0:08:25 - INFO - Server is running on port: 3030 
+3.4.2024, 0:08:26 - INFO - New connected socket [id: k8HTcyrPv84veQ2pAAAB] 
+3.4.2024, 0:08:26 - INFO - New connected socket [id: PwVf5FzdnBkffYiLAAAD] 
+3.4.2024, 0:08:27 - INFO - Typing chat msg from socket [id: PwVf5FzdnBkffYiLAAAD], emitting to topic undefined 
+3.4.2024, 0:08:27 - INFO - Broadcasting event: chat-someone-typing 
+3.4.2024, 0:08:27 - INFO - Broadcast to all excluding user: undefined 
+3.4.2024, 0:08:28 - INFO - New chat msg from socket [id: PwVf5FzdnBkffYiLAAAD], emitting to topic undefined 
+3.4.2024, 0:08:28 - INFO - Broadcasting event: chat-add-msg 
+3.4.2024, 0:08:28 - INFO - Typing chat msg from socket [id: PwVf5FzdnBkffYiLAAAD], emitting to topic undefined 
+3.4.2024, 0:08:28 - INFO - Broadcast to all excluding user: undefined 
+3.4.2024, 0:08:28 - INFO - Broadcasting event: chat-someone-typing 
+3.4.2024, 0:08:28 - INFO - Broadcast to all excluding user: undefined 
+3.4.2024, 0:08:35 - INFO - Server is running on port: 3030 
+3.4.2024, 0:08:36 - INFO - New connected socket [id: ZSyFiuW_I2E5NKT0AAAB] 
+3.4.2024, 0:08:36 - INFO - New connected socket [id: Sd4ehzxVW277427PAAAD] 
+3.4.2024, 0:08:41 - INFO - Server is running on port: 3030 
+3.4.2024, 0:08:41 - INFO - New connected socket [id: KuZdReJKuvoGcknEAAAB] 
+3.4.2024, 0:08:42 - INFO - New connected socket [id: 5ohPnC80I8b0JenFAAAD] 
+3.4.2024, 0:08:56 - INFO - Server is running on port: 3030 
+3.4.2024, 0:08:57 - INFO - New connected socket [id: VlMPkkgQmoYDmF5SAAAB] 
+3.4.2024, 0:08:57 - INFO - New connected socket [id: G6ldgMRQ3WuWYR0cAAAD] 
+3.4.2024, 0:08:58 - INFO - Typing chat msg from socket [id: VlMPkkgQmoYDmF5SAAAB], emitting to topic undefined 
+3.4.2024, 0:08:58 - INFO - Broadcasting event: chat-someone-typing 
+3.4.2024, 0:08:58 - INFO - Broadcast to all excluding user: undefined 
+3.4.2024, 0:08:59 - INFO - New chat msg from socket [id: VlMPkkgQmoYDmF5SAAAB], emitting to topic undefined 
+3.4.2024, 0:08:59 - INFO - Broadcast to all excluding user: undefined 
+3.4.2024, 0:08:59 - INFO - Broadcasting event: chat-add-msg 
+3.4.2024, 0:08:59 - INFO - Broadcast to all excluding user: undefined 
+3.4.2024, 0:08:59 - INFO - Broadcasting event: chat-someone-typing 
+3.4.2024, 0:08:59 - INFO - Typing chat msg from socket [id: VlMPkkgQmoYDmF5SAAAB], emitting to topic undefined 
+3.4.2024, 0:09:09 - INFO - Server is running on port: 3030 
+3.4.2024, 0:09:10 - INFO - New connected socket [id: mnxusmLPIdEFnC92AAAB] 
+3.4.2024, 0:09:10 - INFO - New connected socket [id: v4_i-qsiLF9cTew-AAAD] 
+3.4.2024, 0:09:11 - INFO - Server is running on port: 3030 
+3.4.2024, 0:09:11 - INFO - New connected socket [id: CpvedPNyNykMSsrLAAAB] 
+3.4.2024, 0:09:12 - INFO - New connected socket [id: FWBulrvjZ3UmPf3YAAAD] 
+3.4.2024, 0:09:12 - INFO - Broadcasting event: review-removed 
+3.4.2024, 0:09:12 - INFO - Emit to all 
+3.4.2024, 0:09:12 - INFO - Remove chat msg from socket [id: FWBulrvjZ3UmPf3YAAAD], emitting to topic undefined 
+3.4.2024, 0:09:12 - INFO - Broadcast to all excluding user: undefined 
+3.4.2024, 0:09:12 - INFO - Broadcasting event: chat-delete-msg 
+3.4.2024, 0:09:13 - INFO - Broadcasting event: review-removed 
+3.4.2024, 0:09:13 - INFO - Remove chat msg from socket [id: FWBulrvjZ3UmPf3YAAAD], emitting to topic undefined 
+3.4.2024, 0:09:13 - INFO - Broadcasting event: chat-delete-msg 
+3.4.2024, 0:09:13 - INFO - Emit to all 
+3.4.2024, 0:09:13 - INFO - Broadcast to all excluding user: undefined 
+3.4.2024, 0:09:13 - INFO - Broadcasting event: review-removed 
+3.4.2024, 0:09:13 - INFO - Emit to all 
+3.4.2024, 0:09:13 - INFO - Remove chat msg from socket [id: FWBulrvjZ3UmPf3YAAAD], emitting to topic undefined 
+3.4.2024, 0:09:13 - INFO - Broadcasting event: chat-delete-msg 
+3.4.2024, 0:09:13 - INFO - Broadcast to all excluding user: undefined 
+3.4.2024, 0:09:17 - INFO - Socket disconnected [id: undefined] 
+3.4.2024, 0:09:17 - INFO - New connected socket [id: 08BhnAQs15AExmvIAAAF] 
+3.4.2024, 0:09:17 - INFO - Sample Logger Middleware (userId: 6609b67e9c1d8782a6c40745)
+3.4.2024, 0:09:17 - INFO - Setting socket.userId = 6609b67e9c1d8782a6c40745 for socket [id: 08BhnAQs15AExmvIAAAF] 
+3.4.2024, 0:10:05 - INFO - Server is running on port: 3030 
+3.4.2024, 0:10:06 - INFO - New connected socket [id: BfReUZgMVnVkaskIAAAB] 
+3.4.2024, 0:10:06 - INFO - New connected socket [id: I4KAeyRn-AzK-AKJAAAD] 
+3.4.2024, 0:10:10 - INFO - Typing chat msg from socket [id: I4KAeyRn-AzK-AKJAAAD], emitting to topic undefined 
+3.4.2024, 0:10:10 - INFO - Broadcasting event: chat-someone-typing 
+3.4.2024, 0:10:10 - INFO - Broadcast to all excluding user: undefined 
+3.4.2024, 0:10:11 - INFO - New chat msg from socket [id: I4KAeyRn-AzK-AKJAAAD], emitting to topic undefined 
+3.4.2024, 0:10:11 - INFO - Broadcasting event: chat-add-msg 
+3.4.2024, 0:10:11 - INFO - Broadcast to all excluding user: undefined 
+3.4.2024, 0:10:11 - INFO - Broadcasting event: chat-someone-typing 
+3.4.2024, 0:10:11 - INFO - Broadcast to all excluding user: undefined 
+3.4.2024, 0:10:11 - INFO - Typing chat msg from socket [id: I4KAeyRn-AzK-AKJAAAD], emitting to topic undefined 
+3.4.2024, 0:10:20 - INFO - Socket disconnected [id: undefined] 
+3.4.2024, 0:10:20 - INFO - New connected socket [id: Tuj17PR7wQrm6GZLAAAF] 
+3.4.2024, 0:10:20 - INFO - Setting socket.userId = 6609b57a6917e18112abfa33 for socket [id: Tuj17PR7wQrm6GZLAAAF] 
+3.4.2024, 0:10:20 - INFO - Sample Logger Middleware 
+3.4.2024, 0:10:34 - INFO - Broadcasting event: review-removed 
+3.4.2024, 0:10:34 - INFO - Emit to all 
+3.4.2024, 0:10:34 - INFO - Remove chat msg from socket [id: Tuj17PR7wQrm6GZLAAAF], emitting to topic 660afa1fdc61d1c6bd5c2ee9 
+3.4.2024, 0:10:34 - INFO - Broadcasting event: chat-delete-msg 
+3.4.2024, 0:10:34 - INFO - Broadcast to room 660afa1fdc61d1c6bd5c2ee9 excluding user: 6609b57a6917e18112abfa33 
+3.4.2024, 0:10:35 - INFO - Sample Logger Middleware 
+3.4.2024, 0:10:39 - INFO - Sample Logger Middleware 
+3.4.2024, 0:10:39 - DEBUG - Getting Toys | {"name":"","maxPrice":"0"} | {"name":1} 
+3.4.2024, 0:10:39 - INFO - Sample Logger Middleware 
+3.4.2024, 0:10:39 - DEBUG - Getting Toys | {"name":"","maxPrice":"0"} | {"name":1} 
+3.4.2024, 0:10:39 - INFO - Sample Logger Middleware 
+3.4.2024, 0:10:39 - DEBUG - Getting Toys | {"name":"","maxPrice":"0"} | {"name":1} 
+3.4.2024, 0:10:40 - INFO - Removing socket.userId for socket [id: Tuj17PR7wQrm6GZLAAAF] 
+3.4.2024, 0:10:47 - DEBUG - auth.service - login with username: Admin 
+3.4.2024, 0:10:47 - INFO - User login:  | {"_id":"6609b57a6917e18112abfa33","username":"Admin","fullname":"Admin Admin","isAdmin":true} 
+3.4.2024, 0:10:47 - INFO - Setting socket.userId = 6609b57a6917e18112abfa33 for socket [id: Tuj17PR7wQrm6GZLAAAF] 
+3.4.2024, 0:10:47 - INFO - Sample Logger Middleware 
+3.4.2024, 0:10:47 - DEBUG - Getting Toys | {"name":"","maxPrice":"0"} | {"name":1} 
+3.4.2024, 0:10:47 - INFO - Sample Logger Middleware 
+3.4.2024, 0:10:47 - DEBUG - Getting Toys | {"name":"","maxPrice":"0"} | {"name":1} 
+3.4.2024, 0:10:47 - INFO - Sample Logger Middleware 
+3.4.2024, 0:10:47 - DEBUG - Getting Toys | {"name":"","maxPrice":"0"} | {"name":1} 
+3.4.2024, 0:11:00 - INFO - Sample Logger Middleware 
+3.4.2024, 0:11:01 - INFO - Typing chat msg from socket [id: Tuj17PR7wQrm6GZLAAAF], emitting to topic 660afa1fdc61d1c6bd5c2ee9 
+3.4.2024, 0:11:01 - INFO - Broadcasting event: chat-someone-typing 
+3.4.2024, 0:11:01 - INFO - Broadcast to room 660afa1fdc61d1c6bd5c2ee9 excluding user: 6609b57a6917e18112abfa33 
+3.4.2024, 0:11:02 - INFO - New chat msg from socket [id: Tuj17PR7wQrm6GZLAAAF], emitting to topic 660afa1fdc61d1c6bd5c2ee9 
+3.4.2024, 0:11:02 - INFO - Broadcasting event: chat-add-msg 
+3.4.2024, 0:11:02 - INFO - Broadcast to room 660afa1fdc61d1c6bd5c2ee9 excluding user: 6609b57a6917e18112abfa33 
+3.4.2024, 0:11:02 - INFO - Typing chat msg from socket [id: Tuj17PR7wQrm6GZLAAAF], emitting to topic 660afa1fdc61d1c6bd5c2ee9 
+3.4.2024, 0:11:02 - INFO - Broadcasting event: chat-someone-typing 
+3.4.2024, 0:11:02 - INFO - Broadcast to room 660afa1fdc61d1c6bd5c2ee9 excluding user: 6609b57a6917e18112abfa33 
+3.4.2024, 0:11:03 - INFO - Broadcasting event: review-removed 
+3.4.2024, 0:11:03 - INFO - Emit to all 
+3.4.2024, 0:11:03 - INFO - Remove chat msg from socket [id: Tuj17PR7wQrm6GZLAAAF], emitting to topic 660afa1fdc61d1c6bd5c2ee9 
+3.4.2024, 0:11:03 - INFO - Broadcasting event: chat-delete-msg 
+3.4.2024, 0:11:03 - INFO - Broadcast to room 660afa1fdc61d1c6bd5c2ee9 excluding user: 6609b57a6917e18112abfa33 
+3.4.2024, 0:11:17 - INFO - Server is running on port: 3030 
+3.4.2024, 0:11:17 - INFO - New connected socket [id: 7Z1qsdC-iIf1mzlrAAAB] 
+3.4.2024, 0:11:18 - INFO - New connected socket [id: V7vrib9SfcQ5WJfTAAAD] 
+3.4.2024, 0:11:18 - INFO - Server is running on port: 3030 
+3.4.2024, 0:11:19 - INFO - New connected socket [id: C3gtNfpOlYfRw_wzAAAB] 
+3.4.2024, 0:11:20 - INFO - New connected socket [id: MVen9TgeV2VwqF5uAAAD] 
+3.4.2024, 0:11:34 - INFO - Typing chat msg from socket [id: C3gtNfpOlYfRw_wzAAAB], emitting to topic undefined 
+3.4.2024, 0:11:34 - INFO - Broadcasting event: chat-someone-typing 
+3.4.2024, 0:11:34 - INFO - Broadcast to all excluding user: undefined 
+3.4.2024, 0:11:34 - INFO - Typing chat msg from socket [id: C3gtNfpOlYfRw_wzAAAB], emitting to topic undefined 
+3.4.2024, 0:11:34 - INFO - Broadcasting event: chat-someone-typing 
+3.4.2024, 0:11:34 - INFO - Broadcast to all excluding user: undefined 
+3.4.2024, 0:11:34 - INFO - Typing chat msg from socket [id: C3gtNfpOlYfRw_wzAAAB], emitting to topic undefined 
+3.4.2024, 0:11:34 - INFO - Broadcasting event: chat-someone-typing 
+3.4.2024, 0:11:34 - INFO - Broadcast to all excluding user: undefined 
+3.4.2024, 0:11:34 - INFO - Broadcasting event: chat-someone-typing 
+3.4.2024, 0:11:34 - INFO - Typing chat msg from socket [id: C3gtNfpOlYfRw_wzAAAB], emitting to topic undefined 
+3.4.2024, 0:11:34 - INFO - Broadcast to all excluding user: undefined 
+3.4.2024, 0:11:34 - INFO - Typing chat msg from socket [id: C3gtNfpOlYfRw_wzAAAB], emitting to topic undefined 
+3.4.2024, 0:11:34 - INFO - Broadcasting event: chat-someone-typing 
+3.4.2024, 0:11:34 - INFO - Broadcast to all excluding user: undefined 
+3.4.2024, 0:11:35 - INFO - Broadcast to all excluding user: undefined 
+3.4.2024, 0:11:35 - INFO - New chat msg from socket [id: C3gtNfpOlYfRw_wzAAAB], emitting to topic undefined 
+3.4.2024, 0:11:35 - INFO - Broadcasting event: chat-someone-typing 
+3.4.2024, 0:11:35 - INFO - Broadcasting event: chat-add-msg 
+3.4.2024, 0:11:35 - INFO - Typing chat msg from socket [id: C3gtNfpOlYfRw_wzAAAB], emitting to topic undefined 
+3.4.2024, 0:11:35 - INFO - Broadcast to all excluding user: undefined 
+3.4.2024, 0:11:36 - INFO - Typing chat msg from socket [id: MVen9TgeV2VwqF5uAAAD], emitting to topic undefined 
+3.4.2024, 0:11:36 - INFO - Broadcasting event: chat-someone-typing 
+3.4.2024, 0:11:36 - INFO - Broadcast to all excluding user: undefined 
+3.4.2024, 0:11:36 - INFO - Typing chat msg from socket [id: MVen9TgeV2VwqF5uAAAD], emitting to topic undefined 
+3.4.2024, 0:11:36 - INFO - Broadcast to all excluding user: undefined 
+3.4.2024, 0:11:36 - INFO - Broadcasting event: chat-someone-typing 
+3.4.2024, 0:11:36 - INFO - Typing chat msg from socket [id: MVen9TgeV2VwqF5uAAAD], emitting to topic undefined 
+3.4.2024, 0:11:36 - INFO - Broadcast to all excluding user: undefined 
+3.4.2024, 0:11:36 - INFO - Broadcasting event: chat-someone-typing 
+3.4.2024, 0:11:37 - INFO - Typing chat msg from socket [id: MVen9TgeV2VwqF5uAAAD], emitting to topic undefined 
+3.4.2024, 0:11:37 - INFO - Broadcasting event: chat-someone-typing 
+3.4.2024, 0:11:37 - INFO - Broadcast to all excluding user: undefined 
+3.4.2024, 0:11:37 - INFO - Typing chat msg from socket [id: MVen9TgeV2VwqF5uAAAD], emitting to topic undefined 
+3.4.2024, 0:11:37 - INFO - Broadcasting event: chat-someone-typing 
+3.4.2024, 0:11:37 - INFO - Broadcast to all excluding user: undefined 
+3.4.2024, 0:11:37 - INFO - Typing chat msg from socket [id: MVen9TgeV2VwqF5uAAAD], emitting to topic undefined 
+3.4.2024, 0:11:37 - INFO - Broadcasting event: chat-someone-typing 
+3.4.2024, 0:11:37 - INFO - Broadcast to all excluding user: undefined 
+3.4.2024, 0:11:37 - INFO - Typing chat msg from socket [id: MVen9TgeV2VwqF5uAAAD], emitting to topic undefined 
+3.4.2024, 0:11:37 - INFO - Broadcasting event: chat-someone-typing 
+3.4.2024, 0:11:37 - INFO - Broadcast to all excluding user: undefined 
+3.4.2024, 0:11:37 - INFO - Typing chat msg from socket [id: MVen9TgeV2VwqF5uAAAD], emitting to topic undefined 
+3.4.2024, 0:11:37 - INFO - Broadcasting event: chat-someone-typing 
+3.4.2024, 0:11:37 - INFO - Broadcast to all excluding user: undefined 
+3.4.2024, 0:11:37 - INFO - Broadcasting event: chat-someone-typing 
+3.4.2024, 0:11:37 - INFO - Broadcast to all excluding user: undefined 
+3.4.2024, 0:11:37 - INFO - Typing chat msg from socket [id: MVen9TgeV2VwqF5uAAAD], emitting to topic undefined 
+3.4.2024, 0:11:37 - INFO - Typing chat msg from socket [id: MVen9TgeV2VwqF5uAAAD], emitting to topic undefined 
+3.4.2024, 0:11:37 - INFO - Broadcasting event: chat-someone-typing 
+3.4.2024, 0:11:37 - INFO - Broadcast to all excluding user: undefined 
+3.4.2024, 0:11:37 - INFO - Typing chat msg from socket [id: MVen9TgeV2VwqF5uAAAD], emitting to topic undefined 
+3.4.2024, 0:11:37 - INFO - Broadcasting event: chat-someone-typing 
+3.4.2024, 0:11:37 - INFO - Broadcast to all excluding user: undefined 
+3.4.2024, 0:11:37 - INFO - Typing chat msg from socket [id: MVen9TgeV2VwqF5uAAAD], emitting to topic undefined 
+3.4.2024, 0:11:37 - INFO - Broadcasting event: chat-someone-typing 
+3.4.2024, 0:11:37 - INFO - Broadcast to all excluding user: undefined 
+3.4.2024, 0:11:40 - INFO - Typing chat msg from socket [id: MVen9TgeV2VwqF5uAAAD], emitting to topic undefined 
+3.4.2024, 0:11:40 - INFO - Broadcast to all excluding user: undefined 
+3.4.2024, 0:11:40 - INFO - Broadcasting event: chat-someone-typing 
+3.4.2024, 0:11:49 - INFO - Emit to all (userId: 6609b67e9c1d8782a6c40745)
+3.4.2024, 0:11:49 - INFO - Broadcasting event: review-removed (userId: 6609b67e9c1d8782a6c40745)
+3.4.2024, 0:11:49 - INFO - Remove chat msg from socket [id: C3gtNfpOlYfRw_wzAAAB], emitting to topic undefined 
+3.4.2024, 0:11:49 - INFO - Broadcast to all excluding user: undefined 
+3.4.2024, 0:11:49 - INFO - Broadcasting event: chat-delete-msg 
+3.4.2024, 0:11:50 - INFO - Broadcasting event: review-removed (userId: 6609b67e9c1d8782a6c40745)
+3.4.2024, 0:11:50 - INFO - Emit to all (userId: 6609b67e9c1d8782a6c40745)
+3.4.2024, 0:11:50 - INFO - Remove chat msg from socket [id: C3gtNfpOlYfRw_wzAAAB], emitting to topic undefined 
+3.4.2024, 0:11:50 - INFO - Broadcast to all excluding user: undefined 
+3.4.2024, 0:11:50 - INFO - Broadcasting event: chat-delete-msg 
+3.4.2024, 0:11:52 - INFO - Sample Logger Middleware 
+3.4.2024, 0:11:52 - DEBUG - Getting Toys | {"name":"","maxPrice":"0"} | {"name":1} 
+3.4.2024, 0:11:52 - INFO - Sample Logger Middleware 
+3.4.2024, 0:11:52 - DEBUG - Getting Toys | {"name":"","maxPrice":"0"} | {"name":1} 
+3.4.2024, 0:11:52 - INFO - Sample Logger Middleware 
+3.4.2024, 0:11:52 - DEBUG - Getting Toys | {"name":"","maxPrice":"0"} | {"name":1} 
+3.4.2024, 0:11:53 - INFO - Removing socket.userId for socket [id: MVen9TgeV2VwqF5uAAAD] 
+3.4.2024, 0:11:55 - INFO - Sample Logger Middleware (userId: 6609b67e9c1d8782a6c40745)
+3.4.2024, 0:11:55 - DEBUG - Getting Toys | {"name":"","maxPrice":"0"} | {"name":1} (userId: 6609b67e9c1d8782a6c40745)
+3.4.2024, 0:11:55 - INFO - Sample Logger Middleware (userId: 6609b67e9c1d8782a6c40745)
+3.4.2024, 0:11:55 - DEBUG - Getting Toys | {"name":"","maxPrice":"0"} | {"name":1} (userId: 6609b67e9c1d8782a6c40745)
+3.4.2024, 0:11:55 - INFO - Sample Logger Middleware (userId: 6609b67e9c1d8782a6c40745)
+3.4.2024, 0:11:55 - DEBUG - Getting Toys | {"name":"","maxPrice":"0"} | {"name":1} (userId: 6609b67e9c1d8782a6c40745)
+3.4.2024, 0:11:56 - INFO - Removing socket.userId for socket [id: C3gtNfpOlYfRw_wzAAAB] 
+3.4.2024, 0:12:01 - DEBUG - auth.service - login with username: Popo 
+3.4.2024, 0:12:01 - INFO - User login:  | {"_id":"6609b67e9c1d8782a6c40745","username":"Popo","fullname":"Popo Pa","isAdmin":false} 
+3.4.2024, 0:12:01 - INFO - Setting socket.userId = 6609b67e9c1d8782a6c40745 for socket [id: MVen9TgeV2VwqF5uAAAD] 
+3.4.2024, 0:12:01 - INFO - Sample Logger Middleware 
+3.4.2024, 0:12:01 - DEBUG - Getting Toys | {"name":"","maxPrice":"0"} | {"name":1} 
+3.4.2024, 0:12:01 - DEBUG - Getting Toys | {"name":"","maxPrice":"0"} | {"name":1} 
+3.4.2024, 0:12:01 - INFO - Sample Logger Middleware 
+3.4.2024, 0:12:01 - INFO - Sample Logger Middleware 
+3.4.2024, 0:12:01 - DEBUG - Getting Toys | {"name":"","maxPrice":"0"} | {"name":1} 
+3.4.2024, 0:12:09 - DEBUG - auth.service - login with username: Admin 
+3.4.2024, 0:12:09 - INFO - User login:  | {"_id":"6609b57a6917e18112abfa33","username":"Admin","fullname":"Admin Admin","isAdmin":true} 
+3.4.2024, 0:12:09 - INFO - Setting socket.userId = 6609b57a6917e18112abfa33 for socket [id: C3gtNfpOlYfRw_wzAAAB] 
+3.4.2024, 0:12:09 - INFO - Sample Logger Middleware (userId: 6609b57a6917e18112abfa33)
+3.4.2024, 0:12:09 - DEBUG - Getting Toys | {"name":"","maxPrice":"0"} | {"name":1} (userId: 6609b57a6917e18112abfa33)
+3.4.2024, 0:12:09 - DEBUG - Getting Toys | {"name":"","maxPrice":"0"} | {"name":1} (userId: 6609b57a6917e18112abfa33)
+3.4.2024, 0:12:09 - INFO - Sample Logger Middleware (userId: 6609b57a6917e18112abfa33)
+3.4.2024, 0:12:09 - DEBUG - Getting Toys | {"name":"","maxPrice":"0"} | {"name":1} (userId: 6609b57a6917e18112abfa33)
+3.4.2024, 0:12:09 - INFO - Sample Logger Middleware (userId: 6609b57a6917e18112abfa33)
+3.4.2024, 0:12:11 - INFO - Sample Logger Middleware (userId: 6609b57a6917e18112abfa33)
+3.4.2024, 0:12:12 - INFO - Sample Logger Middleware 
+3.4.2024, 0:12:14 - INFO - Broadcasting event: chat-someone-typing 
+3.4.2024, 0:12:14 - INFO - Broadcast to room 660afa1fdc61d1c6bd5c2ee9 excluding user: 6609b57a6917e18112abfa33 
+3.4.2024, 0:12:14 - INFO - Typing chat msg from socket [id: C3gtNfpOlYfRw_wzAAAB], emitting to topic 660afa1fdc61d1c6bd5c2ee9 
+3.4.2024, 0:12:15 - INFO - Typing chat msg from socket [id: C3gtNfpOlYfRw_wzAAAB], emitting to topic 660afa1fdc61d1c6bd5c2ee9 
+3.4.2024, 0:12:15 - INFO - Broadcasting event: chat-someone-typing 
+3.4.2024, 0:12:15 - INFO - Broadcast to room 660afa1fdc61d1c6bd5c2ee9 excluding user: 6609b57a6917e18112abfa33 
+3.4.2024, 0:12:15 - INFO - Broadcasting event: chat-someone-typing 
+3.4.2024, 0:12:15 - INFO - Broadcast to room 660afa1fdc61d1c6bd5c2ee9 excluding user: 6609b57a6917e18112abfa33 
+3.4.2024, 0:12:15 - INFO - Typing chat msg from socket [id: C3gtNfpOlYfRw_wzAAAB], emitting to topic 660afa1fdc61d1c6bd5c2ee9 
+3.4.2024, 0:12:15 - INFO - Typing chat msg from socket [id: C3gtNfpOlYfRw_wzAAAB], emitting to topic 660afa1fdc61d1c6bd5c2ee9 
+3.4.2024, 0:12:15 - INFO - Broadcasting event: chat-someone-typing 
+3.4.2024, 0:12:15 - INFO - Broadcast to room 660afa1fdc61d1c6bd5c2ee9 excluding user: 6609b57a6917e18112abfa33 
+3.4.2024, 0:12:15 - INFO - Typing chat msg from socket [id: C3gtNfpOlYfRw_wzAAAB], emitting to topic 660afa1fdc61d1c6bd5c2ee9 
+3.4.2024, 0:12:15 - INFO - Broadcasting event: chat-someone-typing 
+3.4.2024, 0:12:15 - INFO - Broadcast to room 660afa1fdc61d1c6bd5c2ee9 excluding user: 6609b57a6917e18112abfa33 
+3.4.2024, 0:12:15 - INFO - Typing chat msg from socket [id: C3gtNfpOlYfRw_wzAAAB], emitting to topic 660afa1fdc61d1c6bd5c2ee9 
+3.4.2024, 0:12:15 - INFO - Broadcasting event: chat-someone-typing 
+3.4.2024, 0:12:15 - INFO - Broadcast to room 660afa1fdc61d1c6bd5c2ee9 excluding user: 6609b57a6917e18112abfa33 
+3.4.2024, 0:12:19 - INFO - New chat msg from socket [id: C3gtNfpOlYfRw_wzAAAB], emitting to topic 660afa1fdc61d1c6bd5c2ee9 
+3.4.2024, 0:12:19 - INFO - Broadcast to room 660afa1fdc61d1c6bd5c2ee9 excluding user: 6609b57a6917e18112abfa33 
+3.4.2024, 0:12:19 - INFO - Typing chat msg from socket [id: C3gtNfpOlYfRw_wzAAAB], emitting to topic 660afa1fdc61d1c6bd5c2ee9 
+3.4.2024, 0:12:19 - INFO - Broadcast to room 660afa1fdc61d1c6bd5c2ee9 excluding user: 6609b57a6917e18112abfa33 
+3.4.2024, 0:12:19 - INFO - Broadcasting event: chat-add-msg 
+3.4.2024, 0:12:19 - INFO - Broadcasting event: chat-someone-typing 
+3.4.2024, 0:12:21 - INFO - Typing chat msg from socket [id: MVen9TgeV2VwqF5uAAAD], emitting to topic 660afa1fdc61d1c6bd5c2ee9 
+3.4.2024, 0:12:21 - INFO - Broadcasting event: chat-someone-typing 
+3.4.2024, 0:12:21 - INFO - Broadcast to room 660afa1fdc61d1c6bd5c2ee9 excluding user: 6609b67e9c1d8782a6c40745 
+3.4.2024, 0:12:21 - INFO - Typing chat msg from socket [id: MVen9TgeV2VwqF5uAAAD], emitting to topic 660afa1fdc61d1c6bd5c2ee9 
+3.4.2024, 0:12:21 - INFO - Broadcasting event: chat-someone-typing 
+3.4.2024, 0:12:21 - INFO - Broadcast to room 660afa1fdc61d1c6bd5c2ee9 excluding user: 6609b67e9c1d8782a6c40745 
+3.4.2024, 0:12:21 - INFO - Typing chat msg from socket [id: MVen9TgeV2VwqF5uAAAD], emitting to topic 660afa1fdc61d1c6bd5c2ee9 
+3.4.2024, 0:12:21 - INFO - Broadcasting event: chat-someone-typing 
+3.4.2024, 0:12:21 - INFO - Broadcast to room 660afa1fdc61d1c6bd5c2ee9 excluding user: 6609b67e9c1d8782a6c40745 
+3.4.2024, 0:12:23 - INFO - Typing chat msg from socket [id: MVen9TgeV2VwqF5uAAAD], emitting to topic 660afa1fdc61d1c6bd5c2ee9 
+3.4.2024, 0:12:23 - INFO - Broadcasting event: chat-someone-typing 
+3.4.2024, 0:12:23 - INFO - Broadcast to room 660afa1fdc61d1c6bd5c2ee9 excluding user: 6609b67e9c1d8782a6c40745 
+3.4.2024, 0:12:23 - INFO - New chat msg from socket [id: MVen9TgeV2VwqF5uAAAD], emitting to topic 660afa1fdc61d1c6bd5c2ee9 
+3.4.2024, 0:12:23 - INFO - Broadcasting event: chat-add-msg 
+3.4.2024, 0:12:23 - INFO - Broadcast to room 660afa1fdc61d1c6bd5c2ee9 excluding user: 6609b67e9c1d8782a6c40745 
+3.4.2024, 0:12:23 - INFO - Typing chat msg from socket [id: MVen9TgeV2VwqF5uAAAD], emitting to topic 660afa1fdc61d1c6bd5c2ee9 
+3.4.2024, 0:12:23 - INFO - Broadcasting event: chat-someone-typing 
+3.4.2024, 0:12:23 - INFO - Broadcast to room 660afa1fdc61d1c6bd5c2ee9 excluding user: 6609b67e9c1d8782a6c40745 
+3.4.2024, 0:12:34 - INFO - Broadcast to all excluding user: 6609b57a6917e18112abfa33 (userId: 6609b57a6917e18112abfa33)
+3.4.2024, 0:12:34 - INFO - Broadcasting event: review-removed (userId: 6609b57a6917e18112abfa33)
+3.4.2024, 0:12:34 - INFO - Broadcast to room 660afa1fdc61d1c6bd5c2ee9 excluding user: 6609b57a6917e18112abfa33 
+3.4.2024, 0:12:34 - INFO - Remove chat msg from socket [id: C3gtNfpOlYfRw_wzAAAB], emitting to topic 660afa1fdc61d1c6bd5c2ee9 
+3.4.2024, 0:12:34 - INFO - Broadcasting event: chat-delete-msg 
+3.4.2024, 0:12:38 - INFO - Broadcasting event: review-removed (userId: 6609b57a6917e18112abfa33)
+3.4.2024, 0:12:38 - INFO - Broadcast to all excluding user: 6609b57a6917e18112abfa33 (userId: 6609b57a6917e18112abfa33)
+3.4.2024, 0:12:38 - INFO - Remove chat msg from socket [id: C3gtNfpOlYfRw_wzAAAB], emitting to topic 660afa1fdc61d1c6bd5c2ee9 
+3.4.2024, 0:12:38 - INFO - Broadcasting event: chat-delete-msg 
+3.4.2024, 0:12:38 - INFO - Broadcast to room 660afa1fdc61d1c6bd5c2ee9 excluding user: 6609b57a6917e18112abfa33 
+3.4.2024, 0:12:44 - INFO - Socket disconnected [id: undefined] 
+3.4.2024, 0:12:45 - INFO - Socket disconnected [id: undefined] 
+3.4.2024, 0:13:12 - INFO - Server is running on port: 3030 

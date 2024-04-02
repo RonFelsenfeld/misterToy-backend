@@ -1,3 +1,4 @@
+import { log } from '../middlewares/logger.middleware.js'
 import { logger } from './logger.service.js'
 import { Server } from 'socket.io'
 
@@ -72,6 +73,7 @@ export function setupSocketAPI(http) {
       socket.join('watching:' + userId)
     })
     socket.on('set-user-socket', userId => {
+      console.log(`userId from set-user`, userId)
       logger.info(`Setting socket.userId = ${userId} for socket [id: ${socket.id}]`)
       socket.userId = userId
     })
@@ -103,7 +105,8 @@ async function emitToUser({ type, data, userId }) {
 // If possible, send to all sockets BUT not the current socket
 // Optionally, broadcast to a room / to all
 async function broadcast({ type, data, room = null, userId }) {
-  userId = userId.toString()
+  console.log(`userId`, userId)
+  if (userId) userId = userId.toString()
 
   logger.info(`Broadcasting event: ${type}`)
   const excludedSocket = await _getUserSocket(userId)
